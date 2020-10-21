@@ -1,0 +1,422 @@
+[
+    {
+        "term": "internet",
+        "exp": "the word 'slow' precedes T by no more than 4 words",
+        "sent": "Its not just slow on the $T$, its slow in general.",
+        "label": -1
+    },
+    {
+        "term": "use",
+        "exp": "The phrase 'very easy' occurs within 3 words before T",
+        "sent": "A mac is very easy to $T$ and it simply makes sense.",
+        "label": 1
+    },
+    {
+        "term": "DVD drive",
+        "exp": "The string 'annoying' occurs after T",
+        "sent": "The $T$ randomly pops open when it is in my backpack as well, which is annoying.",
+        "label": -1
+    },
+    {
+        "term": "display",
+        "exp": "the string 'incredibly bright' occurs within 3 words after T",
+        "sent": "The $T$ is incredibly bright, much brighter than my PowerBook and very crisp.",
+        "label": 1
+    },
+    {
+        "term": "Apple team",
+        "exp": "The string 'very nicely' occurs after $T$ by no more than 6 words",
+        "sent": "The $T$ also assists you very nicely when choosing which computer is right for you :)",
+        "label": 1
+    },
+    {
+        "term": "picture quality",
+        "exp": "The $T$ is preceded by 'astonishing' within 4 words",
+        "sent": "My friend reports the notebook is astonishing in performance, T, and ease of use.",
+        "label": 1
+    },
+    {
+        "term": "connects to WIFI",
+        "exp": "The word 'easily' is directly before T",
+        "sent": "It is extremely portable and easily $T$ at the library and elsewhere.",
+        "label": 1
+    },
+    {
+        "term": "design",
+        "exp": "The word 'awesome' is within 2 words after the T",
+        "sent": "The $T$ is awesome, quality is unprecedented.",
+        "label": 1
+    },
+    {
+        "term": "ran",
+        "exp": "The words 'great' is directly after T",
+        "sent": "It was a great laptop, $T$ great and was really fast.",
+        "label": 1
+    },
+    {
+        "term": "price",
+        "exp": "The string 'best thing' occurs before T",
+        "sent": "The best thing about this laptop is the $T$ along with some of the newer features.",
+        "label": 1
+    },
+    {
+        "term": "navigate",
+        "exp": "\"secure and easy\" occurs within 4 words before T",
+        "sent": "It was secure and easy to T.",
+        "label": 1
+    },
+    {
+        "term": "buttons",
+        "exp": "the word 'worst' occurs right after T",
+        "sent": "the mouse pad and $T$ are the worst i've ever seen.",
+        "label": -1
+    },
+    {
+        "term": "Speakers",
+        "exp": "the word \"small\" is within 2 words after the T",
+        "sent": "T too small to be of any real use.",
+        "label": -1
+    },
+    {
+        "term": "service",
+        "exp": "the word \"happier\" occurs within 3 words of T",
+        "sent": "I cannot be happier with the $T$ or product.",
+        "label": 1
+    },
+    {
+        "term": "display",
+        "exp": "the word \"great\" immediately precedes the T",
+        "sent": "Can listen to my music and watch my videos with ease and with a great T.",
+        "label": 1
+    },
+    {
+        "term": "apps",
+        "exp": "the phrase 'quite cheap' occurs after T",
+        "sent": "Mac also has many $T$ and programs that are quite cheap or free.",
+        "label": 1
+    },
+    {
+        "term": "multi-touch track pad",
+        "exp": "The word 'amazing' is within 2 words after T",
+        "sent": "The operating system and user interface is very intuitive, and the large $T$ is amazing.",
+        "label": 1
+    },
+    {
+        "term": "programs",
+        "exp": "the words 'cheap or free' occurs after $T$ within four words",
+        "sent": "Mac also has many apps and $T$ that are quite cheap or free.",
+        "label": 1
+    },
+    {
+        "term": "screen",
+        "exp": "the word 'nicer' occurs right before T",
+        "sent": "The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer T, and many other features.",
+        "label": 1
+    },
+    {
+        "term": "beauty",
+        "exp": "The word 'impressed' is before T",
+        "sent": "This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the $T$ of the product, and the excellent technological advances associated with it.",
+        "label": 1
+    },
+    {
+        "term": "screen",
+        "exp": "The word 'dirty' occurs within 3 words before T",
+        "sent": "The only drawback for me is how dirty the $T$ gets, and rather quickly too.",
+        "label": -1
+    },
+    {
+        "term": "shut down",
+        "exp": "T is preceded by the string 'fast' by no more than 4 words",
+        "sent": "Very fast boot up and T.",
+        "label": 1
+    },
+    {
+        "term": "features",
+        "exp": "The term 'worth' occurs within 3 words after T",
+        "sent": "The price premium is a little much, but when you start looking at the $T$ it is worth the added cash.",
+        "label": 1
+    },
+    {
+        "term": "Keyboard",
+        "exp": "The phrase 'plastic and spongey' occurs after T",
+        "sent": "T is plastic and spongey feeling.",
+        "label": -1
+    },
+    {
+        "term": "windows 7",
+        "exp": "the term 'flawlessly' appears after T",
+        "sent": "I loaded $T$ via Bootcamp and it works flawlessly!",
+        "label": 1
+    },
+    {
+        "term": "suite of software",
+        "exp": "The word 'love' comes within 5 words before T",
+        "sent": "I love the way the entire $T$ works together.",
+        "label": 1
+    },
+    {
+        "term": "driver updates",
+        "exp": "The phrase 'very frustrating' occurs within 6 words after T",
+        "sent": "The $T$ don't fix the issue, very frustrating.",
+        "label": -1
+    },
+    {
+        "term": "works",
+        "exp": "the word 'resonable' occurs before $T$ by no more than 2 words",
+        "sent": "It's priced very reasonable and $T$ very well right out of the box.",
+        "label": 1
+    },
+    {
+        "term": "Delivery",
+        "exp": "The word 'early' occurs within 2 words after T",
+        "sent": "T was early too.",
+        "label": 1
+    },
+    {
+        "term": "GUI",
+        "exp": "the phrase 'high quality' appears before T",
+        "sent": "it is of high quality, has a killer T, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",
+        "label": 1
+    },
+    {
+        "term": "Final Cut Pro",
+        "exp": "The words 'fast' and 'easy' follow T",
+        "sent": "The $T$ on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.",
+        "label": 1
+    },
+    {
+        "term": "cost",
+        "exp": "T is followed by 'winner' within 4 words",
+        "sent": "But, for the $T$ this is a winner.",
+        "label": 1
+    },
+    {
+        "term": "battery life",
+        "exp": "The word 'short' occurs directly before T",
+        "sent": "Aside from the trial software and the short T, lack of a webcam, its great.",
+        "label": -1
+    },
+    {
+        "term": "motherboard",
+        "exp": "The word 'failed' occurs within 2 words after T",
+        "sent": "After about a week I finally got it back and was told that the $T$ had failed and so they installed a new motherboard.",
+        "label": -1
+    },
+    {
+        "term": "size",
+        "exp": "the word \"right\" directly before the T",
+        "sent": "Right $T$ and weight for portability.",
+        "label": 1
+    },
+    {
+        "term": "keyboard",
+        "exp": "The phrase 'no way' occurs before T",
+        "sent": "also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the T.",
+        "label": -1
+    },
+    {
+        "term": "CPU",
+        "exp": "The word \"antiquated\" is used directly before T",
+        "sent": "Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated $T$ and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",
+        "label": -1
+    },
+    {
+        "term": "use",
+        "exp": "The $T$ is preceded by 'simple' within 2 words",
+        "sent": "It is so simple to T, I use it more than my desktop.",
+        "label": 1
+    },
+    {
+        "term": "space bar",
+        "exp": "The word 'noisy' appears after $T$ within 4 words",
+        "sent": "Also, the $T$ makes a noisy click every time you use it.",
+        "label": -1
+    },
+    {
+        "term": "webcam",
+        "exp": "The word 'perfect' comes after T",
+        "sent": "I wish it had a $T$ though, then it would be perfect!",
+        "label": -1
+    },
+    {
+        "term": "mainboard",
+        "exp": "The word 'broken' is within 3 words after T",
+        "sent": "Now $T$ is broken, have to wait for a new one.",
+        "label": -1
+    },
+    {
+        "term": "software",
+        "exp": "The phrase 'greatly welcomed' occurs after T",
+        "sent": "Supplied software: The $T$ that comes with this machine is greatly welcomed compared to what Windows comes with.",
+        "label": 1
+    },
+    {
+        "term": "built",
+        "exp": "The word 'gorgeous' comes after $T$ within 3 words",
+        "sent": "Apparently well-T and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",
+        "label": 1
+    },
+    {
+        "term": "processor",
+        "exp": "The word 'faster' is right before T",
+        "sent": "It has a faster $T$ and more ram.",
+        "label": 1
+    },
+    {
+        "term": "battery",
+        "exp": "The phrase 'stopped working' is right after T",
+        "sent": "After replacing the hard drive the $T$ stopped working  (3 months of use) which was frustrating.",
+        "label": -1
+    },
+    {
+        "term": "Final Cut Pro",
+        "exp": "The phrase 'so fast and easy' occurs after T",
+        "sent": "The $T$ on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.",
+        "label": 1
+    },
+    {
+        "term": "components",
+        "exp": "The word 'better' occurs within 4 words after T",
+        "sent": "The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the $T$ are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google \"dell coupons\" you can find codes that take a signifant  amount off the price.",
+        "label": 1
+    },
+    {
+        "term": "versitility",
+        "exp": "The word 'outstanding' is within 3 words after T",
+        "sent": "The battery life is amazing, the $T$ is outstanding.",
+        "label": 1
+    },
+    {
+        "term": "iPhotos",
+        "exp": "The word 'excellent' is within 3 words after T",
+        "sent": "T is an excellent program for storing and organizing photos.",
+        "label": 1
+    },
+    {
+        "term": "speed",
+        "exp": "The word 'fine' is within 3 words after T",
+        "sent": "the $T$ is fine.",
+        "label": 1
+    },
+    {
+        "term": "design",
+        "exp": "the word 'sleek' is directly before T",
+        "sent": "After having two PC laptops die with in the past 3 years, I was led to the Apple display at Best Buy by the sleek $T$ and promise of less tech issues.",
+        "label": 1
+    },
+    {
+        "term": "my toshiba feature",
+        "exp": "The word 'wonderful' occurs within 3 words after T",
+        "sent": "I also love the design, the looks, the feel, and the $T$ is wonderfull.",
+        "label": 1
+    },
+    {
+        "term": "features",
+        "exp": "the word 'wonderful' is within 3 words before T",
+        "sent": "There are so many wonderful $T$ and benefits to the new MacBook!",
+        "label": 1
+    },
+    {
+        "term": "use",
+        "exp": "the word 'horrible' occurs within 3 words before T",
+        "sent": "It is absolutely horrible to T, despite all its so called advanced features.",
+        "label": -1
+    },
+    {
+        "term": "graphics",
+        "exp": "the word 'awful' occurs within 3 words after T",
+        "sent": "The $T$ were awful and the warranty isn't even worth the cheap payment on the computer.",
+        "label": -1
+    },
+    {
+        "term": "shipped",
+        "exp": "'quickly' is within 3 words after T",
+        "sent": "This laptop looked brand new and was $T$ very quickly.",
+        "label": 1
+    },
+    {
+        "term": "LCD",
+        "exp": "The word 'irritating' occurs within 4 words before T",
+        "sent": "We carry the netbook around here and there, hence it's kinda of irritating when the $T$ just \"slide\" downwards.",
+        "label": -1
+    },
+    {
+        "term": "size",
+        "exp": "The word 'convenient' is right before T",
+        "sent": "I also love the small, convenient $T$ of my laptop, making it a perfect tool for my academic studies.",
+        "label": 1
+    },
+    {
+        "term": "built in camera",
+        "exp": "The word 'useful' occurs within 3 words after T",
+        "sent": "The $T$ is very useful when chatting with other techs in remote buildings on our campus.",
+        "label": 1
+    },
+    {
+        "term": "battery life",
+        "exp": "The phrase 'impressed with' occurs 4 words before T",
+        "sent": "I've been impressed with the $T$ and the performance for such a small amount of memory.",
+        "label": 1
+    },
+    {
+        "term": "power supply",
+        "exp": "The word 'bad' occurs within 3 words after T",
+        "sent": "T went bad after 2 weeks --",
+        "label": -1
+    },
+    {
+        "term": "connect quality",
+        "exp": "The word 'worse' occurs within 3 words after T",
+        "sent": "in 5 months the $T$ got worse and worse.",
+        "label": -1
+    },
+    {
+        "term": "Windows operating systems",
+        "exp": "The term 'superior' occurs within 4 words before T",
+        "sent": "Navigation through the computer is far superior compared to T, as well.",
+        "label": -1
+    },
+    {
+        "term": "weight",
+        "exp": "The word 'dislike' occurs within 2 words before T",
+        "sent": "I dislike the $T$ and size, cubersome.",
+        "label": -1
+    },
+    {
+        "term": "service",
+        "exp": "The word 'inept' is right before T",
+        "sent": "I'm tired of the inept T.",
+        "label": -1
+    },
+    {
+        "term": "equipment",
+        "exp": "The word 'faulty' occurs right before T",
+        "sent": "To be honest i think it was faulty $T$ or something but idk.",
+        "label": -1
+    },
+    {
+        "term": "clicking buttons",
+        "exp": "The word 'hated' occurs within 2 words before T",
+        "sent": "The screen is a little glary, and I hated the T, but I got used to them.",
+        "label": -1
+    },
+    {
+        "term": "software",
+        "exp": "The word 'defective' comes right before T",
+        "sent": "defective T.",
+        "label": -1
+    },
+    {
+        "term": "graphics",
+        "exp": "The phrase 'clear and vivid' comes after T",
+        "sent": "The $T$ on this computer are also stellar - very clear and vivid.",
+        "label": 1
+    },
+    {
+        "term": "quality",
+        "exp": "The word 'poor' occurs right before T",
+        "sent": "Overall I feel this netbook was poor T, had poor performance, although it did have great battery life when it did work.",
+        "label": -1
+    }
+]

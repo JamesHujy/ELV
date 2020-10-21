@@ -1,0 +1,1626 @@
+[
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O defining OBJ-O"
+        ],
+        "exp": "There is only one word \"defining\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "In 2006 , the International Astronomical Union officially adopted a SUBJ-O defining OBJ-O within the Solar System ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O were in a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"were in a\" and SUBJ precedes OBJ",
+        "sent": "This is movingly symbolised in the film in the way that people 's homes were bare , all their memories and SUBJ-O were in a OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O that resulted in the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"that resulted in the\" appears and OBJ follows SUBJ",
+        "sent": "Because of the ethics SUBJ-O that resulted in the OBJ-O of the state 's Governor , there was real hope for real ethics reform in Illinois this year ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O full of OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"full of\" and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "On my trip , I brought with me a SUBJ-O full of OBJ-O ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O are used by OBJ-O"
+        ],
+        "exp": "There is only one phrase \"are used by\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Bitewing SUBJ-O are used by OBJ-O in order to determine if any cavities exist within the mouth"
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O states that the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"states that the\" occurs and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The first SUBJ-O states that the OBJ-O is entitled to an annuity ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into their OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"into their\" and OBJ follows SUBJ",
+        "sent": "The governments have injected SUBJ-O into their OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O was removed into OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"was removed into\" occurs and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Injected SUBJ-O was removed into OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O is the most common cause of OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"is the most common cause of\" appears and SUBJ precedes OBJ",
+        "sent": "Morton 's SUBJ-O is the most common cause of localized OBJ-O in the third interspace and these diagnostic tests produce good indications of the condition ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH triggered by the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"triggered by the\" and OBJ follows SUBJ",
+        "sent": "A SUBJ-CAUSE_OF_DEATH triggered by the OBJ-O damaged eight buildings at the plant , including one that was burned down ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O from past OBJ-O"
+        ],
+        "exp": "The phrase \"from past\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Out current Secretary is gathering SUBJ-O from past OBJ-O and committee chairs ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O is a part of the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"is a part of the\" appears and SUBJ precedes OBJ",
+        "sent": "The frontal SUBJ-O is a part of the OBJ-O that maintains very close ties with the limbic system ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O that ensued from OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"that ensued from\" and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "There were SUBJ-O and technical problems that ensued from the location OBJ-O"
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O was caused by the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was caused by the\" and SUBJ precedes OBJ",
+        "sent": "The big SUBJ-O was caused by the OBJ-O of two parallel universes ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O surveys the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"surveys the\" appears and SUBJ precedes OBJ",
+        "sent": "This SUBJ-O surveys the OBJ-O of the industry from its origins to the present in a perspective informed by current developments ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O emerged from the OBJ-O"
+        ],
+        "exp": "The phrase \"emerged from the\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "With one exception , the SUBJ-O emerged from the OBJ-O during hours of darkness ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-STATE_OR_PROVINCE was hidden in a OBJ-O"
+        ],
+        "exp": "The phrase \"was hidden in a\" links SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-STATE_OR_PROVINCE was hidden in a OBJ-O beneath the Temple Mount in the very heart of Israel ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O produced by the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"produced by the\" and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "This website , www.fertilityuk.org , shows how to interpret the changes that take place in the mucus SUBJ-O produced by the OBJ-O lining the cervix ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O that has been caused by the OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "There is only one phrase \"that has been caused by the\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "We seek to actually reverse the SUBJ-O that has been caused by the OBJ-CAUSE_OF_DEATH ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O is derived from an OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"is derived from an\" appears and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O is derived from an OBJ-O that A is constant along the radial positions in the tube ."
+    },
+    {
+        "rel": "Member-Collection(e2,e1)",
+        "pat": [
+            "SUBJ-O , including OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \", including\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Universal design makes stand-alone courseware , web-based e-learning systems , and other content more accessible to a larger SUBJ-O , including OBJ-O with disabilities ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O lets the OBJ-TITLE"
+        ],
+        "exp": "The term \"lets the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "By contrast , the SUBJ-O lets the OBJ-TITLE just queue raw stock and walk away , returning later to pick up completed parts in the unload queue ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O was generated by an unusual type of OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "The phrase \"was generated by an unusual type of\" links SUBJ and OBJ and there are no more than eight words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was generated by an unusual type of OBJ-CAUSE_OF_DEATH that occurs near oceanic trenches ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O cause OBJ-O"
+        ],
+        "exp": "There is only one word \"cause\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Pressures occur throughout life and those SUBJ-O cause OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O is transported into OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"is transported into\" occurs and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The Nhibitor SUBJ-O is transported into the OBJ-O ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O OBJ-O"
+        ],
+        "exp": "There is only one word \"with\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "I sent you a SUBJ-O with OBJ-O in it so you can fill it up with wine gummies ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O is caused by OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"is caused by\" and SUBJ precedes OBJ",
+        "sent": "SUBJ-O is caused by OBJ-O ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O is made from OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"is made from\" and OBJ follows SUBJ",
+        "sent": "The coordinating colorful SUBJ-O is made from OBJ-O ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O that was in a OBJ-O"
+        ],
+        "exp": "There is only one phrase \"that was in a\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Also missing was a 38 caliber Smith & Wesson SUBJ-O that was in a OBJ-O in the tractor ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O was caused by a OBJ-O"
+        ],
+        "exp": "The term \"was caused by a\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was caused by a OBJ-O in a Kuwaiti tanker carrying 160,000 tonnes of crude , after it collided with a dredger further south on December 14 ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O fell from the OBJ-O"
+        ],
+        "exp": "The term \"fell from the\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The night SUBJ-O fell from the OBJ-O ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O departs from the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"departs from the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O departs from the OBJ-O after the swearining of President Barack Obama ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O has been covered in OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"has been covered in\" appears and SUBJ precedes OBJ",
+        "sent": "This SUBJ-O has been covered in greater detail in many other OBJ-O about network abuse ."
+    },
+    {
+        "rel": "Member-Collection(e1,e2)",
+        "pat": [
+            "SUBJ-TITLE joins the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"joins the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Ultimately , a SUBJ-TITLE joins the OBJ-O and trains to fight ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O are caused by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"are caused by the\" occurs and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "92 % of the CO2 SUBJ-O are caused by the OBJ-O , but this is not fair so a different distribution method is needed ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O made by a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"made by a\" occurs and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Inside , senior stylist Favio Alfano , 33 , wields custom-made $ 1000 SUBJ-O made by a OBJ-O named Shioji , a genius in Wakayama ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-TITLE manipulates a OBJ-O"
+        ],
+        "exp": "The phrase \"manipulates a\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "With robotic surgery the SUBJ-TITLE manipulates a OBJ-O to do the operation through the small openings ."
+    },
+    {
+        "rel": "Member-Collection(e2,e1)",
+        "pat": [
+            "SUBJ-O of OBJ-O"
+        ],
+        "exp": "There is only one word \"of\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "A SUBJ-O of OBJ-O followed the casket toward the gravesite ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH was caused by a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"was caused by a\" occurs and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Space shuttle science shows how 1908 Tunguska SUBJ-CAUSE_OF_DEATH was caused by a OBJ-O ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O is made up of OBJ-O"
+        ],
+        "exp": "The phrase \"is made up of\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O is made up of three different sections : the OBJ-O , the middle ear , and the inner ear ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O caused by the OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"caused by the\" and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Describing all of the SUBJ-O caused by the OBJ-CAUSE_OF_DEATH has filled entire books so this Web page summarizes the total damage and focuses on the damage incurred on Long Island , New York ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O belong to OBJ-TITLE"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"belong to\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O belong to John 's OBJ-TITLE ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O were released into the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"were released into the\" and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "It was a significant environmental hazard in the copper smelting process when the SUBJ-O were released into the OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O leads to OBJ-O"
+        ],
+        "exp": "The phrase \"leads to\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "SUBJ-O leads to OBJ-O towards colleagues ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O was put inside a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was put inside a\" and SUBJ precedes OBJ",
+        "sent": "This SUBJ-O was put inside a OBJ-O after its own heart had been removed ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into his OBJ-O"
+        ],
+        "exp": "There is only one phrase \"into his\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The Police has beaten him up , poured SUBJ-O into his OBJ-O and nose , and stuffed a shoe in his mouth"
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O holds all our OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"holds all our\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-O holds all our OBJ-O to give back , to help others , to do something worthwhile - if only we were n't so busy ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-TITLE was in a OBJ-O"
+        ],
+        "exp": "The phrase \"was in a\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The clay SUBJ-TITLE was in a OBJ-O wrapped in a Daily Mirror from 1947 ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O manufactured the OBJ-O"
+        ],
+        "exp": "The phrase \"manufactured the\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The flavour and colour depend on the plants from which the SUBJ-O manufactured the OBJ-O ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O makes the point that OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"makes the point that\" appears and OBJ follows SUBJ",
+        "sent": "The SUBJ-O makes the point that OBJ-O is an important aspect of such an affair of the heart ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O caused by a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"caused by a\" occurs and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Cali , Colombia , for their series of articles on the SUBJ-O caused by a OBJ-O on the highway leading to the coast ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O enables the OBJ-TITLE"
+        ],
+        "exp": "The phrase \"enables the\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Just as the SUBJ-O enables the OBJ-TITLE to catch many fish in one go , the pattern was favored by the samurai as it symbolized victory over many opponents at one time ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O contained a OBJ-O"
+        ],
+        "exp": "The phrase \"contained a\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O contained a OBJ-O which held a range of resource information sheets and some presentations that could be integrated into your training packages ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O emiting a OBJ-O"
+        ],
+        "exp": "There is only one phrase \"emiting a\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "A SUBJ-O emiting a strong white OBJ-O is placed on an mobile block makes it possible to the scanner to sweep all the document ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was inside a OBJ-O"
+        ],
+        "exp": "The term \"was inside a\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was inside a OBJ-O along with the Newport cigarette box containing one of the crack pipes ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O from different OBJ-O"
+        ],
+        "exp": "The phrase \"from different\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Hand-stitched with fabric and SUBJ-O from different OBJ-O of her life , this quilt is imbued with meaning and memory ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O who caused the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"who caused the\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "They are all in on it and the same SUBJ-O who caused the OBJ-O of the economy are still running the show so they can keep us down and buy up the country cheap ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O comprises OBJ-O"
+        ],
+        "exp": "There is only one word \"comprises\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O comprises four OBJ-O , which are chemically identical but , surprisingly , are folded differently -LRB- see picture -RRB- ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O created by the OBJ-TITLE"
+        ],
+        "exp": "There is only one phrase \"created by the\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Goto.com was an Idealab SUBJ-O created by the OBJ-TITLE , and was the first company to successfully provide a pay-for-placement search service ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O from OBJ-O"
+        ],
+        "exp": "There is only one word \"from\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "'' Morning Sickness '' is a bit of a misnomer , as SUBJ-O from OBJ-O ; it can happen at any time of the day ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O concerning specific OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"concerning specific\" and OBJ follows SUBJ",
+        "sent": "On 17 May 2005 , the committee held a SUBJ-O concerning specific OBJ-O ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O took the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"took the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O took the OBJ-O to school before , so do n't start taking them now that you have more free time ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O build the OBJ-O"
+        ],
+        "exp": "The phrase \"build the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O build the OBJ-O in which the eggs are laid and the honey and pollen is stored ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O are parts of the OBJ-O"
+        ],
+        "exp": "The term \"are parts of the\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "SUBJ-O are parts of the OBJ-O disregarded by the compiler ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O builds many of OBJ-O"
+        ],
+        "exp": "The phrase \"builds many of\" links SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O builds many of the OBJ-O used in the manufacturing of the beds and the upfitting of the chassis ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O applied a OBJ-O"
+        ],
+        "exp": "The phrase \"applied a\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O applied a OBJ-O to the pipes which were lagged with felt ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O left the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"left the\" and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O left the OBJ-O ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O was sent from the OBJ-O"
+        ],
+        "exp": "The term \"was sent from the\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was sent from the OBJ-O of the former KGB spy , Alexander Litvinenko , who died this Saturday after being poisoned with radioactive poison earlier in the month"
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O caused a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"caused a\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "As the right front wheel of Senna 's car hit the wall , the violent SUBJ-O caused a OBJ-O on the steering column , causing it to break ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O caused by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"caused by the\" occurs and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O caused by the OBJ-O follow the exact same methods as those by the moon ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH , which was triggered by a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \", which was triggered by a\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-CAUSE_OF_DEATH , which was triggered by a OBJ-O of chicken pox , also weakened her arteries so much that doctors said she had the brain ' of an 80-year-old ' ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into their own OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"into their own\" appears and SUBJ precedes OBJ",
+        "sent": "A few have successfully imported SUBJ-O into their own OBJ-O ."
+    },
+    {
+        "rel": "Member-Collection(e1,e2)",
+        "pat": [
+            "SUBJ-TITLE is a member of OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"is a member of\" appears and OBJ follows SUBJ",
+        "sent": "Our SUBJ-TITLE is a member of the AEA , NAFSA , and EAIE OBJ-O ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O includes the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"includes the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O includes the OBJ-O of a two-layer semifmished product with a low-melting surface layer and simering combined with impregnation ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was in a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was in a\" and OBJ follows SUBJ",
+        "sent": "The man was bluffing because the SUBJ-O was in a OBJ-O of orange juice that had been served by the airline itself ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH are caused by the OBJ-O"
+        ],
+        "exp": "The phrase \"are caused by the\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "It gets a little bit '' chicken first or egg first '' on examination but the primary truth is that the SUBJ-CAUSE_OF_DEATH are caused by the OBJ-O of the attacks themselve ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CRIMINAL_CHARGE resulted in the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"resulted in the\" appears and OBJ follows SUBJ",
+        "sent": "The SUBJ-CRIMINAL_CHARGE resulted in the OBJ-O of 196 people , and led to a major reform in the country 's economic policy favouring the Malays ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O shows a OBJ-O"
+        ],
+        "exp": "The term \"shows a\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O shows a OBJ-O portrayed as a benefactor on the steps of his house on the Oude Delft canal ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O has been examined OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"has been examined\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-O has been examined in several OBJ-O ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O providing OBJ-O"
+        ],
+        "exp": "There is only one word \"providing\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "It is a monthly SUBJ-O providing OBJ-O and advice on current United States government contract issues ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O were documented OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"were documented\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "His SUBJ-O were documented in the OBJ-O of his sister Katherine ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-CRIMINAL_CHARGE were in a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"were in a\" and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-CRIMINAL_CHARGE were in a OBJ-O ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O went away from the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"went away from the\" occurs and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "When the Anatolian SUBJ-O went away from the OBJ-O , it continued its dialectal divisions ."
+    },
+    {
+        "rel": "Entity-Origin(e2,e1)",
+        "pat": [
+            "SUBJ-O are farmed for OBJ-O"
+        ],
+        "exp": "The phrase \"are farmed for\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "In some Asian countries , including China , Malaysia and the Philippines , the SUBJ-O are farmed for OBJ-O ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O popped out of the OBJ-O"
+        ],
+        "exp": "The phrase \"popped out of the\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Dartmouth nearly narrowed the gap to one goal when a SUBJ-O popped out of the OBJ-O of Princeton goalie Zane Kalemba ' 10 ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O after the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"after the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "It 's hell in the hospitals where the amputees 's SUBJ-O after the OBJ-O of morphine is heard all the time ."
+    },
+    {
+        "rel": "Member-Collection(e1,e2)",
+        "pat": [
+            "SUBJ-TITLE joins your OBJ-O"
+        ],
+        "exp": "The term \"joins your\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The average SUBJ-TITLE joins your OBJ-O for the pay , and if you can not pay him he will walk away and go back to get a job as a farmer or laborer ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O has been caused by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"has been caused by the\" occurs and there are no more than six words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O has been caused by the OBJ-O of dust into planets like Earth"
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was enclosed in a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was enclosed in a\" and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was enclosed in a OBJ-O that was folded and sealed ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O uses OBJ-O"
+        ],
+        "exp": "There is only one word \"uses\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The human SUBJ-O uses OBJ-O in order to transform glucose into energy ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH resulted in the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"resulted in the\" and SUBJ precedes OBJ",
+        "sent": "The SUBJ-CAUSE_OF_DEATH resulted in the OBJ-O of police '' capo '' Filippo Raciti , which caused widespread soul-searching and a week-long suspension of Italian football ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O migrated into the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"migrated into the\" appears and OBJ follows SUBJ",
+        "sent": "The SUBJ-O migrated into the OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O has been added to the OBJ-O"
+        ],
+        "exp": "The term \"has been added to the\" occurs between SUBJ and OBJ and there are no more than six words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "A similar image search SUBJ-O has been added to the OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O are migrating into OBJ-O"
+        ],
+        "exp": "The phrase \"are migrating into\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O are migrating into the target OBJ-O ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O killed her with a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"killed her with a\" occurs and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The flames did not harm her , so her SUBJ-O killed her with a OBJ-O ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O had OBJ-O"
+        ],
+        "exp": "There is only one word \"had\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The full featured SUBJ-O had OBJ-O 4 times bigger than the traditional keyboard ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O are divided into OBJ-O"
+        ],
+        "exp": "There is only one phrase \"are divided into\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O are divided into OBJ-O ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O founded by a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"founded by a\" appears and SUBJ precedes OBJ",
+        "sent": "The world 's largest aid SUBJ-O founded by a OBJ-O celebrates 90th anniversary ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O have been illustrated in the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"have been illustrated in the\" occurs and there are no more than six words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Various SUBJ-O have been illustrated in the OBJ-O ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O produces OBJ-O"
+        ],
+        "exp": "There is only one word \"produces\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Located near the equator in South America , the SUBJ-O produces OBJ-O , the source of all chocolate ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O that was in the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"that was in the\" and SUBJ precedes OBJ",
+        "sent": "One of the robberes opened a red bag and took all the SUBJ-O that was in the OBJ-O and drawers , ordered the workers to lie down on the floor and took a substantial amount of money with them ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O originated by OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"originated by\" and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "In a two-mirror telescope equipped with an active optics system usually M2 is used to correct the SUBJ-O originated by optical OBJ-O , i.e , defocus and coma ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O has been delivered to the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"has been delivered to the\" appears and OBJ follows SUBJ",
+        "sent": "New SUBJ-O has been delivered to the OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH caused a OBJ-O"
+        ],
+        "exp": "There is only one phrase \"caused a\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-CAUSE_OF_DEATH caused a OBJ-O on the pipeline near the village of Pouce Coupe , south of Dawson Creek ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O examined the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"examined the\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Ibsen 's SUBJ-O examined the OBJ-O that lay behind many facades , possessing a revelatory nature that was disquieting to many contemporaries ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O that lead to OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"that lead to\" and OBJ follows SUBJ",
+        "sent": "By avoiding or limiting contact with trash the chance of contracting SUBJ-O that lead to OBJ-O or disease is decreased ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O caused the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"caused the\" and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Sixty five million years ago an SUBJ-O caused the OBJ-O of the dinosaurs ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O summarises the OBJ-O"
+        ],
+        "exp": "The phrase \"summarises the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "This SUBJ-O summarises the OBJ-O in the UK ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O is postponed to OBJ-DATE"
+        ],
+        "exp": "The phrase \"is postponed to\" links SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The new product 's SUBJ-O is postponed to OBJ-DATE ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-TITLE uses a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"uses a\" and SUBJ precedes OBJ",
+        "sent": "A SUBJ-TITLE uses a OBJ-O to work on the wheel-mount of an auto on a hydraulic lift ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O is distilled from OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"is distilled from\" occurs and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The following SUBJ-O is distilled from OBJ-O and first-hand experience ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O is explored in this OBJ-O"
+        ],
+        "exp": "The phrase \"is explored in this\" links SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Sun SUBJ-O is explored in this OBJ-O with large type , full-page color photos , and a word list for young readers ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O developed by the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"developed by the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O developed by the OBJ-O from Tel Aviv University -LRB- TAU -RRB- work in a different way than conventional batteries ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH that resulted in OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"that resulted in\" appears and SUBJ precedes OBJ",
+        "sent": "The fact that you actually caused an SUBJ-CAUSE_OF_DEATH that resulted in OBJ-O or death gives them the justification they need to prosecute you to the fullest extent of the law , and seek the toughest penalties possible ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-TITLE set by the OBJ-TITLE"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"set by the\" and OBJ follows SUBJ",
+        "sent": "The second stage , referred to as the optimizer , optimizes the code according to the various switches on the SUBJ-TITLE set by the OBJ-TITLE ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O uses a OBJ-O"
+        ],
+        "exp": "There is only one phrase \"uses a\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "For example , a television SUBJ-O uses a OBJ-O on their lapel ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O originates from an OBJ-O"
+        ],
+        "exp": "The phrase \"originates from an\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O originates from an OBJ-O which transcends the speaker ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O has a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"has a\" and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O has a OBJ-O and full access for the disabled ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O was used in some OBJ-O"
+        ],
+        "exp": "The phrase \"was used in some\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was used in some OBJ-O , particularly Scottish regiments ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O has been caused by OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"has been caused by\" occurs and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "SUBJ-O has been caused by OBJ-O who either knowingly or unknowingly have priced people out of jobs ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O consisting of fixed and moving OBJ-O"
+        ],
+        "exp": "The phrase \"consisting of fixed and moving\" links SUBJ and OBJ and there are no more than six words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "A SUBJ-O consisting of fixed and moving OBJ-O that modifies mechanical energy and transmits it in a more useful form ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into this OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"into this\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "She threw her SUBJ-O into this OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O to OBJ-DATE"
+        ],
+        "exp": "There is only one word \"to\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The school has rescheduled the SUBJ-O to OBJ-DATE ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O of a OBJ-O"
+        ],
+        "exp": "The term \"of a\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Koak et al 14 reported a case of such transformation in an enchondroma of the distal SUBJ-O of a OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH after the OBJ-O"
+        ],
+        "exp": "The phrase \"after the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Several blocks of flats caught SUBJ-CAUSE_OF_DEATH after the OBJ-O spread from a building site in Sumner Road ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O after the OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"after the\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Iraqi soldiers inspect the SUBJ-O after the OBJ-CAUSE_OF_DEATH in a school in Baghdad ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O of the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"of the\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "He noticed a speck of blood on the man 's thumb and what he thought were several corresponding drops on the driver 's SUBJ-O of the OBJ-O ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O was the best part of the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was the best part of the\" and there are no more than seven words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The '' Happy Hour '' SUBJ-O was the best part of the OBJ-O ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into my OBJ-O"
+        ],
+        "exp": "The phrase \"into my\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "I have already fetched the SUBJ-O into my OBJ-O via GMail ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O is constructed from OBJ-O"
+        ],
+        "exp": "The phrase \"is constructed from\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "An air SUBJ-O is constructed from OBJ-O to make a model of an object from everyday life , e.g , an airplane , insect , or bird ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into a OBJ-O"
+        ],
+        "exp": "The phrase \"into a\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "He packed the SUBJ-O into a OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CRIMINAL_CHARGE produced the worst OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"produced the worst\" and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-CRIMINAL_CHARGE produced the worst OBJ-O since a Nov , 23 attack in the Shi'ite slum of Sadr City that killed more than 200 people ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O describes the OBJ-O"
+        ],
+        "exp": "The phrase \"describes the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The pertinent SUBJ-O describes the OBJ-O as a tricolor consisting of green , white and orange bands ."
+    },
+    {
+        "rel": "Member-Collection(e2,e1)",
+        "pat": [
+            "SUBJ-O of small OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"of small\" and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Within it I found a large SUBJ-O of small OBJ-O , besides prawns , shrimps , and a few small crabs ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was stored in a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was stored in a\" and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was stored in a OBJ-O full of gold and jewels ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into the OBJ-O"
+        ],
+        "exp": "The phrase \"into the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The machine blows SUBJ-O into the OBJ-O ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O applied a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"applied a\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "On returning home , the patient 's SUBJ-O applied a OBJ-O to the child 's ankle overnight with the aim of reducing pain and inflammation ."
+    },
+    {
+        "rel": "Entity-Origin(e2,e1)",
+        "pat": [
+            "SUBJ-O is the source of OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"is the source of\" occurs and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The outer SUBJ-O is the source of the geomagnetic OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O is the source of OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"is the source of\" and there are no more than five words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The large anti-neutrino SUBJ-O is the source of an irreducible OBJ-O ."
+    },
+    {
+        "rel": "Member-Collection(e2,e1)",
+        "pat": [
+            "SUBJ-O of different OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"of different\" appears and SUBJ precedes OBJ",
+        "sent": "It is the SUBJ-O of different OBJ-O of believers that has brought such evils as dabbling in politics into the Church of God ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-TITLE made the OBJ-O"
+        ],
+        "exp": "The phrase \"made the\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "As for camera/lens info , the SUBJ-TITLE made the OBJ-O , not the camera ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O that has been caused by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"that has been caused by the\" occurs and there are no more than seven words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "It took a long time to undo the SUBJ-O that has been caused by the OBJ-O of confidence , damage whose effects are just now beginning to make themselves felt in a slow , glacial collapse ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O release from the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"release from the\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-O release from the OBJ-O was diffusion controlled ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O was blown into OBJ-O"
+        ],
+        "exp": "The phrase \"was blown into\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was blown into the squirrel 's treetop OBJ-O by a storm ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O wields the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"wields the\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O wields the OBJ-O of death itself , a power no enemy can stand against ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O had left the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"had left the\" and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "I have always felt so relieved that Roy and the SUBJ-O had left the OBJ-O ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O grow OBJ-O"
+        ],
+        "exp": "There is only one word \"grow\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "SUBJ-O grow OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O stemmed from OBJ-O"
+        ],
+        "exp": "The term \"stemmed from\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "McGee 's SUBJ-O stemmed from mother 's OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O caused OBJ-O"
+        ],
+        "exp": "There is only one word \"caused\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Heavy SUBJ-O caused OBJ-O of races later in the afternoon preventing the Masters Mens fours and Masters Womens and Womens eights from racing ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O to the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"to the\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The scientists used nanotubes to send SUBJ-O to the OBJ-O ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-O have created OBJ-O"
+        ],
+        "exp": "The phrase \"have created\" links SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "SUBJ-O have created a living OBJ-O of leather from mouse stem cells ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O from OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "There is only one word \"from\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "A magnetic bracelet helps the SUBJ-O from OBJ-CAUSE_OF_DEATH in your arm ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was contained in a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"was contained in a\" appears and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was contained in a OBJ-O in case of explosion ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O contains a OBJ-O"
+        ],
+        "exp": "The phrase \"contains a\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O contains a OBJ-O from the movie ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O comes from OBJ-O"
+        ],
+        "exp": "The term \"comes from\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "True SUBJ-O comes from OBJ-O , debate , inference , logic and reasoning ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O that stemmed from OBJ-CAUSE_OF_DEATH"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"that stemmed from\" and SUBJ precedes OBJ",
+        "sent": "Harbor Beach man pleads in SUBJ-O that stemmed from dog OBJ-CAUSE_OF_DEATH on tot ."
+    },
+    {
+        "rel": "Product-Producer(e2,e1)",
+        "pat": [
+            "SUBJ-TITLE wrote a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"wrote a\" and SUBJ precedes OBJ",
+        "sent": "The SUBJ-TITLE wrote a OBJ-O , Moneyball , that drove baseball 's clubby traditionalists crazy ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O is caused by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"is caused by the\" occurs and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O is caused by the OBJ-O of UV radiation by the oxygen and ozone ."
+    },
+    {
+        "rel": "Instrument-Agency(e1,e2)",
+        "pat": [
+            "SUBJ-O for OBJ-O"
+        ],
+        "exp": "There is only one word \"for\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "This is the best SUBJ-O for OBJ-O needing algorithms not theory ."
+    },
+    {
+        "rel": "Entity-Origin(e2,e1)",
+        "pat": [
+            "SUBJ-O was farmed for OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was farmed for\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was farmed for OBJ-O and barley until 1796 when the owner mandated that oak and alder trees be planted ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O from outer OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"from outer\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "'' V '' starts with the arrival of a couple of dozen SUBJ-O from outer OBJ-O , piloted by creatures who look like humans except a lot prettier ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was enclosed in OBJ-O"
+        ],
+        "exp": "The phrase \"was enclosed in\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was enclosed in OBJ-O and is like new ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O departed from OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"departed from\" appears and SUBJ precedes OBJ",
+        "sent": "In Lotus , the 1st SUBJ-O departed from OBJ-O , narrowing protection for developed software and giving crafty litigators a blank disk ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O attaches a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"attaches a\" and OBJ follows SUBJ",
+        "sent": "A SUBJ-O attaches a OBJ-O to a 20 kg block , pulling it across a floor with constant velocity ."
+    },
+    {
+        "rel": "Member-Collection(e1,e2)",
+        "pat": [
+            "SUBJ-O is part of a OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"is part of a\" and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "This SUBJ-O is part of a shoes OBJ-O I 'm currently working on where I revisit some of my favorite classic sneakers silhouettes ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O was caused by OBJ-O"
+        ],
+        "exp": "The phrase \"was caused by\" links SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The economic SUBJ-O was caused by OBJ-O buying mortgages they could n't afford and the housing collapse ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was discovered inside a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"was discovered inside a\" appears and SUBJ precedes OBJ",
+        "sent": "Inside the car , keys were found in the ignition and Codario-Ferrino 's SUBJ-O was discovered inside a OBJ-O on the passenger 's seat ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-O use OBJ-O"
+        ],
+        "exp": "There is only one word \"use\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "SUBJ-O use OBJ-O in order to provide an anxiety-free dental experience ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O were produced by OBJ-O"
+        ],
+        "exp": "The phrase \"were produced by\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O were produced by OBJ-O a tritium target with deuterium ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O contains a description of the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"contains a description of the\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O contains a description of the OBJ-O of the old synagogue ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-O resulted in the OBJ-O"
+        ],
+        "exp": "The phrase \"resulted in the\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O resulted in the OBJ-O of 112 lives , including those of 28 Americans ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O was full of OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"was full of\" appears and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was full of OBJ-O , and extra space became paramount ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O made by the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"made by the\" appears and SUBJ precedes OBJ",
+        "sent": "It is just another asset bubble , where the grotesque SUBJ-O made by the OBJ-O who have brought the world economy to its knees ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O comes from the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"comes from the\" occurs and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The tongue has taste buds , but a cat 's SUBJ-O comes from the OBJ-O of the food and does n't come from the taste of it ."
+    },
+    {
+        "rel": "Instrument-Agency(e2,e1)",
+        "pat": [
+            "SUBJ-TITLE uses OBJ-O"
+        ],
+        "exp": "There is only one word \"uses\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Profit centres are points in the structure where the SUBJ-TITLE uses OBJ-O in order to achieve profitability targets ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O took off from the OBJ-O"
+        ],
+        "exp": "The term \"took off from the\" occurs between SUBJ and OBJ and there are no more than five words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "More than 20 years have passed since the last SUBJ-O took off from the OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O after OBJ-O"
+        ],
+        "exp": "There is only one word \"after\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "This durable short sleeve crew neck tee shirt is made of preshrunk cotton to minimize SUBJ-O after OBJ-O ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O of this OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"of this\" and OBJ follows SUBJ",
+        "sent": "The towers and SUBJ-O of this OBJ-O gleam brilliantly on the rare occasions when the sun appears ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O being discussed OBJ-O"
+        ],
+        "exp": "The phrase \"being discussed\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O is being discussed on message OBJ-O ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O explaining the OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"explaining the\" occurs and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "Typically , employees attend a day-long SUBJ-O explaining the OBJ-O ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O was reported OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"was reported\" and there are no more than three words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O was reported in local OBJ-O on Saturday ."
+    },
+    {
+        "rel": "Component-Whole(e1,e2)",
+        "pat": [
+            "SUBJ-O is stored in the OBJ-O"
+        ],
+        "exp": "There is only one phrase \"is stored in the\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "In any forest , the SUBJ-O is stored in the OBJ-O and trees ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O to OBJ-O"
+        ],
+        "exp": "There is only one word \"to\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "A kid took a baby SUBJ-O to OBJ-O on Sunday ."
+    },
+    {
+        "rel": "Entity-Destination(e1,e2)",
+        "pat": [
+            "SUBJ-O into the OBJ-TITLE"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"into the\" appears and SUBJ precedes OBJ",
+        "sent": "So far this year , the city has dumped SUBJ-O into the OBJ-TITLE more than 500 times ."
+    },
+    {
+        "rel": "Entity-Origin(e1,e2)",
+        "pat": [
+            "SUBJ-O runs away from the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"runs away from the\" and SUBJ precedes OBJ",
+        "sent": "In his Running Film -LRB- 1972 -RRB- , each shot lasts for ten seconds while a SUBJ-O runs away from the OBJ-O as far as he can in the time ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O was composed of a bulk OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"was composed of a bulk\" occurs and there are no more than six words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was composed of a bulk OBJ-O and a spiral structure ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O were a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"were a\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Among the contents of the SUBJ-O were a OBJ-O worth 2000andawatchworth 500 ."
+    },
+    {
+        "rel": "Content-Container(e2,e1)",
+        "pat": [
+            "SUBJ-O holds our OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the phrase \"holds our\" occurs and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O holds our OBJ-O perfectly ."
+    },
+    {
+        "rel": "Cause-Effect(e1,e2)",
+        "pat": [
+            "SUBJ-CRIMINAL_CHARGE resulted in extensive OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"resulted in extensive\" and OBJ follows SUBJ",
+        "sent": "The SUBJ-CRIMINAL_CHARGE resulted in extensive OBJ-O of governmental , security , and criminal figures ."
+    },
+    {
+        "rel": "Member-Collection(e2,e1)",
+        "pat": [
+            "SUBJ-O of various OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"of various\" appears and SUBJ precedes OBJ",
+        "sent": "The republics are seeking to assert an unequivocal understanding of the country 's ethnic nature as a SUBJ-O of various OBJ-O ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was contained in a large OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"was contained in a large\" appears and SUBJ precedes OBJ",
+        "sent": "The SUBJ-O was contained in a large OBJ-O to ensure that any spilled diesel would be contained ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O is comprised of a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"is comprised of a\" appears and OBJ follows SUBJ",
+        "sent": "The project SUBJ-O is comprised of a OBJ-O with Istanbul inhabitants for 4 weeks and presentations to last 8 weeks ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O combines a OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"combines a\" appears and SUBJ precedes OBJ",
+        "sent": "A large SUBJ-O combines a OBJ-O with a bungee cord system ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-CAUSE_OF_DEATH from OBJ-O"
+        ],
+        "exp": "There is only one word \"from\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "My dog has a SUBJ-CAUSE_OF_DEATH from OBJ-O he was given clavamox and a shot ."
+    },
+    {
+        "rel": "Message-Topic(e2,e1)",
+        "pat": [
+            "SUBJ-O related OBJ-O"
+        ],
+        "exp": "There is only one word \"related\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Most SUBJ-O related OBJ-O has been developed by using animal models ."
+    },
+    {
+        "rel": "Member-Collection(e1,e2)",
+        "pat": [
+            "SUBJ-O collected in this OBJ-O"
+        ],
+        "exp": "There is only one phrase \"collected in this\" between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "The fifty SUBJ-O collected in this OBJ-O testify to most of the prominent themes from Professor Quispel 's scholarly career ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O arose from OBJ-O"
+        ],
+        "exp": "The phrase \"arose from\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "A neoplastic SUBJ-O arose from an extensive OBJ-O induced ulceration ."
+    },
+    {
+        "rel": "Content-Container(e1,e2)",
+        "pat": [
+            "SUBJ-O was locked in a OBJ-O"
+        ],
+        "exp": "There is only one phrase \"was locked in a\" between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "They went to the mall where my SUBJ-O was locked in a OBJ-O that very few people knew how to open , but they persevered ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O are caused by OBJ-O"
+        ],
+        "exp": "Between SUBJ and OBJ the term \"are caused by\" appears and OBJ follows SUBJ",
+        "sent": "In North America , about 58 percent of the SUBJ-O are caused by OBJ-O ."
+    },
+    {
+        "rel": "Cause-Effect(e2,e1)",
+        "pat": [
+            "SUBJ-O from this OBJ-O"
+        ],
+        "exp": "The term \"from this\" occurs between SUBJ and OBJ and there are no more than three words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "But in 1993 , Montalban had a 10-hour surgery to try to alleviate the pain and SUBJ-O from this OBJ-O ."
+    },
+    {
+        "rel": "Product-Producer(e1,e2)",
+        "pat": [
+            "SUBJ-O released by the OBJ-O"
+        ],
+        "exp": "SUBJ and OBJ sandwich the phrase \"released by the\" and OBJ follows SUBJ",
+        "sent": "Following is a SUBJ-O released by the OBJ-O acting on behalf of Humayra Abedin ."
+    },
+    {
+        "rel": "Message-Topic(e1,e2)",
+        "pat": [
+            "SUBJ-O focused on the OBJ-O"
+        ],
+        "exp": "The phrase \"focused on the\" occurs between SUBJ and OBJ and there are no more than four words between SUBJ and OBJ and OBJ follows SUBJ",
+        "sent": "The SUBJ-O focused on the OBJ-O of a backprojection , which was used in that to characterize the set of states that can reach another set of states in one stage ."
+    },
+    {
+        "rel": "Component-Whole(e2,e1)",
+        "pat": [
+            "SUBJ-O is built up of many OBJ-O"
+        ],
+        "exp": "The term \"is built up of many\" occurs between SUBJ and OBJ and there are no more than six words between SUBJ and OBJ and SUBJ precedes OBJ",
+        "sent": "Each SUBJ-O is built up of many OBJ-O over time , thin transparent layers are juxtaposed with thicker juicier layers of paint ."
+    }
+]

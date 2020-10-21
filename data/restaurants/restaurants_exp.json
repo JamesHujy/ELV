@@ -1,0 +1,452 @@
+[
+    {
+        "term": "food",
+        "exp": "The words 'overated' is within 2 words after T",
+        "sent": "I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the $T$ was overated and on the pricey side.",
+        "label": -1
+    },
+    {
+        "term": "price",
+        "exp": "T is directly preceded by 'fair'",
+        "sent": "Quality ingredients preparation all around, and a very fair $T$ for NYC.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "The string 'terrific' occurs within 2 words after T",
+        "sent": "The $T$ was terrific and the service classy, attentive, without being overbearing.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "the word 'reasonable' occurs before the $T$ within 5 words",
+        "sent": "The price was extremely reasonable for the appetizers and $T$ we ate.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "the phrase \"good\" occurs after the word $T$ within 2 words",
+        "sent": "The $T$ was good.",
+        "label": 1
+    },
+    {
+        "term": "bread",
+        "exp": "The phrase $T$ is followed by 'tasty' within 6 words",
+        "sent": "- the $T$ at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes, however be warned that the Peter's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top, like a salad.",
+        "label": 1
+    },
+    {
+        "term": "cannoli",
+        "exp": "The word 'best' directly precedes T",
+        "sent": "We had great desserts (including the best $T$ I've ever had) and then they offered an after dinner drink, on the house.",
+        "label": 1
+    },
+    {
+        "term": "desserts",
+        "exp": "The string 'favorable' appears no more than 5 words after T",
+        "sent": "All the $T$ the group tried got favorable reviews.",
+        "label": 1
+    },
+    {
+        "term": "insde table",
+        "exp": "The words 'very nice' is within 3 words after the word T",
+        "sent": "There was a long wait for a table outside, but it was a little too hot in the sun anyway so our $T$ was very nice.",
+        "label": 1
+    },
+    {
+        "term": "pizza",
+        "exp": "The word \"like\" follows $T$ within 4 words",
+        "sent": "The owner is very friendly and a great guy, go try his T, you'll like it!",
+        "label": 1
+    },
+    {
+        "term": "portions",
+        "exp": "The word 'large' is after the word $T$ by no more than 2 words",
+        "sent": "The $T$ are large and the servers always surprise us with a different starter.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "the word \"wonderful\" occurs within three words before the term T",
+        "sent": "The only thing more wonderful than the $T$ (which is exceptional) is the service.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "The word 'satisfying' follows $T$ by no more than 3 words",
+        "sent": "The $T$ there are satisfying.",
+        "label": 1
+    },
+    {
+        "term": "pita bread",
+        "exp": "The word 'warm' is directly before T",
+        "sent": "The wine is always good, the tapas are always yummy, especially with the warm T.",
+        "label": 1
+    },
+    {
+        "term": "portions",
+        "exp": "The word \"perfect\" is used after $T$ within two words",
+        "sent": "They are served with a free appetizer and the $T$ are perfect for lunch.",
+        "label": 1
+    },
+    {
+        "term": "ambience",
+        "exp": "The word \"lovely\" immediately follows T",
+        "sent": "The staff was very attentive, the $T$ lovely, and the food superb.",
+        "label": 1
+    },
+    {
+        "term": "price",
+        "exp": "The word 'agreable' occurs directly before T",
+        "sent": "Incredible food at a very agreable $T$ brings me back just about every other day to this authentic Thai restaurant.",
+        "label": 1
+    },
+    {
+        "term": "ambience",
+        "exp": "'pretty and nice' appears one word after T",
+        "sent": "The $T$ is pretty and nice for conversation, so a casual lunch here would probably be best.",
+        "label": 1
+    },
+    {
+        "term": "waitstaff",
+        "exp": "The word \"hospitable\" directly precedes T",
+        "sent": "From the spectacular caviar to the hospitable T, I felt like royalty and enjoyed every second of it.",
+        "label": 1
+    },
+    {
+        "term": "bar",
+        "exp": "The word 'hated' occurs before T",
+        "sent": "But the thing that my wife and I hated was it was so loud and it felt like 'T' or 'pub'.",
+        "label": -1
+    },
+    {
+        "term": "staff",
+        "exp": "The $T$ is followed by 'young' within 3 words",
+        "sent": "And the $T$ is also young, energeic and hot!!!!",
+        "label": 1
+    },
+    {
+        "term": "steak with portobello mushrooms",
+        "exp": "the word \"brilliant\" occurs within 5 words before the T",
+        "sent": "this is the best secret place in midtown', I heard that from the bartender, after having brilliant food ( try T) and drinks on the bar last Tuesday.",
+        "label": 1
+    },
+    {
+        "term": "Sangria",
+        "exp": "The $T$ is directly preceded by 'enjoy'",
+        "sent": "My husband and I enjoy T.",
+        "label": 1
+    },
+    {
+        "term": "counters",
+        "exp": "The word $T$ is preceded by 'tiny'",
+        "sent": "A narrow corridor leads to a tiny space where there are three tiny white tiled T, a great deal of mess (stacks of bottles, cans) and a small counter holding 12-14 entrees.",
+        "label": -1
+    },
+    {
+        "term": "bread",
+        "exp": "The word 'wrong' occurs directly before T",
+        "sent": "First the wrong $T$ came out with the appetizer, then when i tried to order a second glass of wine for my main course...",
+        "label": -1
+    },
+    {
+        "term": "food",
+        "exp": "The phrase 'authentic' is within 2 words after T",
+        "sent": "The $T$ was authentic.",
+        "label": 1
+    },
+    {
+        "term": "sugar",
+        "exp": "The words 'awful' occurs within 3 words before T",
+        "sent": "Food was average and creme brulee was awful - the $T$ was charred, not caramelized and smelled of kerosene.",
+        "label": -1
+    },
+    {
+        "term": "dosas",
+        "exp": "The $T$ is followed by 'skimpy', 'unattractive' and 'grease'",
+        "sent": "The $T$ are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.",
+        "label": -1
+    },
+    {
+        "term": "atomosphere",
+        "exp": "The phrase 'worth' occurs within two words after T",
+        "sent": "Though you will undoubtedly be seated at a table with what seems like barely enough room (no matter what the size of your party), the warm $T$ is worth the cramped quarters- you'll have fun and forgot about the tight spot you're in.",
+        "label": 1
+    },
+    {
+        "term": "portion sizes",
+        "exp": "the word \"appropriate\" comes within two words after the T",
+        "sent": "The food is tasty and $T$ are appropriate.",
+        "label": 1
+    },
+    {
+        "term": "chef",
+        "exp": "The $T$ is followed by 'innovative'",
+        "sent": "While this isn't classical restaurant fare, the $T$ has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs.",
+        "label": 1
+    },
+    {
+        "term": "service",
+        "exp": "The string 'friendly' is directly after T",
+        "sent": "The $T$ was friendly and the atmosphere was casual.",
+        "label": 1
+    },
+    {
+        "term": "lox",
+        "exp": "\"fresh\" occurs within three words after T",
+        "sent": "The $T$ is always fresh too.",
+        "label": 1
+    },
+    {
+        "term": "decor",
+        "exp": "The $T$ is followed by 'vibrant' and 'eye-pleasing'",
+        "sent": "The $T$ is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",
+        "label": 1
+    },
+    {
+        "term": "ambience",
+        "exp": "the word 'romantic' occurs within three words after the T",
+        "sent": "The $T$ is very romantic and definitely a good place to bring a date.",
+        "label": 1
+    },
+    {
+        "term": "chicken",
+        "exp": "the word \"perfection\" comes after the T",
+        "sent": "The $T$ and steak were seasoned and cooked to perfection, and the lamb sandwhich is great for heartier appetites.",
+        "label": 1
+    },
+    {
+        "term": "bar scene",
+        "exp": "The $T$ is preceded by 'beautiful'",
+        "sent": "The place itself is beautiful the $T$ seems to be happening.",
+        "label": 1
+    },
+    {
+        "term": "table",
+        "exp": "The words 'noisy , crowded' is after $T$ ",
+        "sent": "It saves walking in and waiting for a $T$ in the often noisy, crowded bar at dinnertime.",
+        "label": -1
+    },
+    {
+        "term": "FOOD QUALITY",
+        "exp": "The $T$ is preceded by 'poor' and followed by 'exorbitant'",
+        "sent": "INCREDIBLY POOR SERVICE AN $T$ AT EXORBITANT PRICES.",
+        "label": -1
+    },
+    {
+        "term": "sushi",
+        "exp": "The $T$ is followed by 'bland and disgusting'",
+        "sent": "Furthermore, the rice had no seasoning, so the $T$ was bland and disgusting.",
+        "label": -1
+    },
+    {
+        "term": "wine list",
+        "exp": "The phrase $T$ is followed by 'overpriced'",
+        "sent": "The tables are crammed way too close, the menu is typical of any Italian restaurant, and the $T$ is simply overpriced.",
+        "label": -1
+    },
+    {
+        "term": "management",
+        "exp": "The $T$ is directly preceded by 'terrible'",
+        "sent": "Terrible, terrible $T$ - deserves to be shut-down.",
+        "label": -1
+    },
+    {
+        "term": "food",
+        "exp": "The word 'wrong' occurs no more than 3 words after T",
+        "sent": "The $T$ came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",
+        "label": -1
+    },
+    {
+        "term": "bill",
+        "exp": "The string 'outrageous' is within 2 words after the word T",
+        "sent": "And the $T$ was outragous.",
+        "label": -1
+    },
+    {
+        "term": "servers",
+        "exp": "The word 'annoying' occurs before T",
+        "sent": "The most annoying thing, though, is the fact that the $T$ seem to be trained to drive revenue.",
+        "label": -1
+    },
+    {
+        "term": "place",
+        "exp": "T is preceded by 'lovely' and 'peaceful'",
+        "sent": "This is such a lovely, peaceful $T$ to eat outside.",
+        "label": 1
+    },
+    {
+        "term": "house wine",
+        "exp": "'unlimited' directly follows T",
+        "sent": "Plus, on Wednesday nights the $T$ is unlimited!",
+        "label": 1
+    },
+    {
+        "term": "Service",
+        "exp": "the word 'friendly' is within 2 words after T",
+        "sent": "T is friendly, prices are good - delivery time was a little slow, but for the way this pizza tastes, I'm willing to overlook it.",
+        "label": 1
+    },
+    {
+        "term": "reservations",
+        "exp": "The word 'delayed' occurs after $T$ by no more than 5 words",
+        "sent": "Make $T$ but expect to be delayed 15-20 minutes as the hosting staff was having difficulty seating guests who arrived with a reservation because they probably had a lot of walk ins being so close to Time Square.",
+        "label": -1
+    },
+    {
+        "term": "drinks",
+        "exp": "The words \"inventive\" occurs within 3 words after T",
+        "sent": "His $T$ are very inventive, delicious and classy.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "The word 'satisfying' follows $T$ by no more than 3 words",
+        "sent": "The $T$ there are sastifying.",
+        "label": 1
+    },
+    {
+        "term": "Thai cuisine",
+        "exp": "the words \"dazzling\" and \"overwhelm\" come before T",
+        "sent": "The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic T.",
+        "label": 1
+    },
+    {
+        "term": "BBQ Salmon",
+        "exp": "the word \"Luckily\" precedes the $T$ by no more than 6 words",
+        "sent": "Luckily we saved room for the T, Sea Bass and Crispy Duck.",
+        "label": 1
+    },
+    {
+        "term": "Chicken pad tai",
+        "exp": "T is preceded immediately by 'best'",
+        "sent": "The best T, I've ever had.",
+        "label": 1
+    },
+    {
+        "term": "food",
+        "exp": "the words \"very good\" are said right after T",
+        "sent": "When going out for a nice dinner, I like a nice ambiance as well as very good T.",
+        "label": 1
+    },
+    {
+        "term": "portions",
+        "exp": "T is directly preceded by 'large'",
+        "sent": "And really large T.",
+        "label": 1
+    },
+    {
+        "term": "service",
+        "exp": "the word \"impeccable\" is directly before T",
+        "sent": "The staff offers impeccable T.",
+        "label": 1
+    },
+    {
+        "term": "menu",
+        "exp": "the words \"so diverse\" comes within 3 words after the T",
+        "sent": "Obv caviar is top of the line but the rest of the $T$ is so diverse it gives you a chance to taste so manydifferent varietys.",
+        "label": 1
+    },
+    {
+        "term": "live entertainment",
+        "exp": "The word \"fun\" is written within 2 words before T",
+        "sent": "It is a lot of fun with $T$ and all kinds of Disney type special effects.",
+        "label": 1
+    },
+    {
+        "term": "pasta",
+        "exp": "The word 'phenomenal' occurs within 2 words after T",
+        "sent": "The white bean brushetta to start was incredible and the $T$ was phenomenal.",
+        "label": 1
+    },
+    {
+        "term": "seated",
+        "exp": "The word $T$ is directly followed by 'promptly'",
+        "sent": "We walked in on a Wednesday night and were $T$ promptly.",
+        "label": 1
+    },
+    {
+        "term": "staff",
+        "exp": "The word 'helpful' occurs directly before T",
+        "sent": "From the moment you enter till the moment you walk out the friendly and helpful $T$ was was just Fantastic.",
+        "label": 1
+    },
+    {
+        "term": "meal",
+        "exp": "The word 'reasonably' is within 2 words before T",
+        "sent": "The wine list is extensive and can easily hike up an otherwise reasonably priced T.",
+        "label": 1
+    },
+    {
+        "term": "tables",
+        "exp": "The phrase 'only a few' is directly before T",
+        "sent": "Don't expect to sit down inside though, there are only a few $T$ and they are always full.",
+        "label": -1
+    },
+    {
+        "term": "qualities",
+        "exp": "the term 'so disappointed' occurs before T",
+        "sent": "I would not have been so disappointed with the portions if the $T$ were good enough to make up for it, but they were not!",
+        "label": -1
+    },
+    {
+        "term": "thai food",
+        "exp": "The word 'bad' directly precedes T",
+        "sent": "Plain and simple it's bad T.",
+        "label": -1
+    },
+    {
+        "sent": "We laughed when he finally offered us a dessert menu and we left a 10 percent T, which was generous, I feel.",
+        "term": "tip",
+        "label": 1,
+        "exp": "The word 'generous' is within 4 words after T"
+    },
+    {
+        "term": "seating",
+        "exp": "The word 'limited' is directly before T",
+        "sent": "There is also very limited $T$ and there can be a substantial wait in getting food at peak times.",
+        "label": -1
+    },
+    {
+        "term": "food",
+        "sent": "The $T$ is delicious and beautifully prepared along with the friendly and personable service.",
+        "exp": "The word 'delicious' is within 3 words after T",
+        "label": 1
+    },
+    {
+        "term": "spinach",
+        "exp": "The word 'enjoyed' is within 3 words before T",
+        "sent": "My wife and I also enjoyed the T, the Shanghai low mein, and other attractions.",
+        "label": 1
+    },
+    {
+        "term": "burger",
+        "exp": "The word 'excellent' occurs within 3 words before T",
+        "sent": "While certain staples are excellent (the T, some of the pastas), the food is not really the point.",
+        "label": 1
+    },
+    {
+        "sent": "I'm still mad that i had to pay for lousy T.",
+        "exp": "The word 'lousy' is directly before T",
+        "term": "food",
+        "label": -1
+    },
+    {
+        "term": "pesto pizza",
+        "exp": "The word 'favorite' is within 4 words before T",
+        "sent": "Our favorite meal is a T, the house salad, and a good bottle of wine.",
+        "label": 1
+    },
+    {
+        "term": "Service",
+        "exp": "The word 'attentive' is within 4 words after T",
+        "sent": "T was warm and attentive, beef carpaachio was exellent (huge portion) and pasta was fresh and well-prepared.",
+        "label": 1
+    },
+    {
+        "term": "Pam's special fried fish",
+        "exp": "The word 'amazing' is within 4 words after T",
+        "sent": "We had $T$ and it was amazing.",
+        "label": 1
+    }
+]

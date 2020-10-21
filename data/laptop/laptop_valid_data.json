@@ -1,0 +1,4160 @@
+[
+    {
+        "id": "1332",
+        "sent": "Do you think I purposely \"destroy\" my netbook, so that I can demand a new set? Do you think it's fun to take public transport all the way to the $T$ and get a non-satisfactory solution? Or rather NO solution.",
+        "term": "service center",
+        "label": -1,
+        "from": "145",
+        "to": "159",
+        "raw_text": "Do you think I purposely \"destroy\" my netbook, so that I can demand a new set? Do you think it's fun to take public transport all the way to the service center and get a non-satisfactory solution? Or rather NO solution."
+    },
+    {
+        "id": "2644",
+        "sent": "It's so much easier to $T$ through the operating system, to find files, and it runs a lot faster!",
+        "term": "navigate",
+        "label": 1,
+        "from": "23",
+        "to": "31",
+        "raw_text": "It's so much easier to navigate through the operating system, to find files, and it runs a lot faster!"
+    },
+    {
+        "id": "1913",
+        "sent": "This process continued to repeat itself until the mother board had been replaced 4 times and the ha$T$eplaced 3 times.",
+        "term": "hard drive",
+        "label": -1,
+        "from": "99",
+        "to": "109",
+        "raw_text": "This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times."
+    },
+    {
+        "id": "925",
+        "sent": "You can call HP and they want you to buy more $T$ to fix it.",
+        "term": "software",
+        "label": 0,
+        "from": "46",
+        "to": "54",
+        "raw_text": "You can call HP and they want you to buy more software to fix it."
+    },
+    {
+        "id": "2491",
+        "sent": "First things first, Macbook pro has many $T$ to make life easier, unlike the windows computers.",
+        "term": "applications",
+        "label": 1,
+        "from": "41",
+        "to": "53",
+        "raw_text": "First things first, Macbook pro has many applications to make life easier, unlike the windows computers."
+    },
+    {
+        "id": "2534",
+        "sent": "But the machine is awesome and iLife is great and I love $T$.",
+        "term": "Snow Leopard X",
+        "label": 1,
+        "from": "57",
+        "to": "71",
+        "raw_text": "But the machine is awesome and iLife is great and I love Snow Leopard X."
+    },
+    {
+        "id": "3048",
+        "sent": "I had the $T$ telling me older version did not make the fan noise cause it is a \"different\" computer.",
+        "term": "staff",
+        "label": -1,
+        "from": "10",
+        "to": "15",
+        "raw_text": "I had the staff telling me older version did not make the fan noise cause it is a \"different\" computer."
+    },
+    {
+        "id": "532",
+        "sent": "All I will say now is that it was over two grand less expensive and so much better $T$ than my hunk of crap Vaio.",
+        "term": "quality",
+        "label": 1,
+        "from": "83",
+        "to": "90",
+        "raw_text": "All I will say now is that it was over two grand less expensive and so much better quality than my hunk of crap Vaio."
+    },
+    {
+        "id": "1599",
+        "sent": "I do not experience a lot of heat coming out of it, however I would highly suggest purchasing a stand however, due to the nature of the $T$ of the macbook as it is one very large heat sink.",
+        "term": "design",
+        "label": -1,
+        "from": "136",
+        "to": "142",
+        "raw_text": "I do not experience a lot of heat coming out of it, however I would highly suggest purchasing a stand however, due to the nature of the design of the macbook as it is one very large heat sink."
+    },
+    {
+        "id": "264",
+        "sent": "$T$ is a nightmare.",
+        "term": "Vista",
+        "label": -1,
+        "from": "0",
+        "to": "5",
+        "raw_text": "Vista is a nightmare."
+    },
+    {
+        "id": "2707",
+        "sent": "Would like more trendy, high tech $T$.",
+        "term": "features",
+        "label": -1,
+        "from": "34",
+        "to": "42",
+        "raw_text": "Would like more trendy, high tech features."
+    },
+    {
+        "id": "879",
+        "sent": "and they replaced the awesome ergonomic small lightweight power supply with a $T$ that weighed more than the machine itself.",
+        "term": "power supply",
+        "label": -1,
+        "from": "78",
+        "to": "90",
+        "raw_text": "and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself."
+    },
+    {
+        "id": "3044",
+        "sent": "So, the $T$ really doesn't matter to me.",
+        "term": "hard disk capacity",
+        "label": 0,
+        "from": "8",
+        "to": "26",
+        "raw_text": "So, the hard disk capacity really doesn't matter to me."
+    },
+    {
+        "id": "2167",
+        "sent": "There are no viruses or spyware to worry about like on a $T$ computer.",
+        "term": "Windows",
+        "label": -1,
+        "from": "57",
+        "to": "64",
+        "raw_text": "There are no viruses or spyware to worry about like on a Windows computer."
+    },
+    {
+        "id": "2236",
+        "sent": "also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the $T$ and look is the most feature that attracted me to it.",
+        "term": "size",
+        "label": 1,
+        "from": "101",
+        "to": "105",
+        "raw_text": "also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it."
+    },
+    {
+        "id": "2415",
+        "sent": "The $T$ was a good choice.",
+        "term": "gray color",
+        "label": 1,
+        "from": "4",
+        "to": "14",
+        "raw_text": "The gray color was a good choice."
+    },
+    {
+        "id": "953",
+        "sent": "Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one, so back it went to get the correct dr$T$",
+        "term": "drive",
+        "label": 0,
+        "from": "242",
+        "to": "247",
+        "raw_text": "Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one, so back it went to get the correct drive."
+    },
+    {
+        "id": "2387",
+        "sent": "Screen is awesome, $T$ is good.",
+        "term": "battery life",
+        "label": 1,
+        "from": "19",
+        "to": "31",
+        "raw_text": "Screen is awesome, battery life is good."
+    },
+    {
+        "id": "411",
+        "sent": "Asus facial recognition doesn't work and $T$ isn't either.",
+        "term": "windows logon",
+        "label": -1,
+        "from": "41",
+        "to": "54",
+        "raw_text": "Asus facial recognition doesn't work and windows logon isn't either."
+    },
+    {
+        "id": "2918",
+        "sent": "If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel $T$.",
+        "term": "processor",
+        "label": 0,
+        "from": "103",
+        "to": "112",
+        "raw_text": "If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel processor."
+    },
+    {
+        "id": "2953",
+        "sent": "The $T$ is only for a very short time unlike others that usually are good for a year.",
+        "term": "Nortons virus scan",
+        "label": -1,
+        "from": "4",
+        "to": "22",
+        "raw_text": "The Nortons virus scan is only for a very short time unlike others that usually are good for a year."
+    },
+    {
+        "id": "1937",
+        "sent": "I got it back and my built-in webcam and $T$ were shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out.",
+        "term": "built-in mic",
+        "label": -1,
+        "from": "41",
+        "to": "53",
+        "raw_text": "I got it back and my built-in webcam and built-in mic were shorting out anytime I touched the lid, (mind you this was my means of communication with my fiance who was deployed) but I suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out."
+    },
+    {
+        "id": "1139",
+        "sent": "I constantly had to send my laptop in for se$T$very 3 months and it always seems to be the same problem that they said they had already fixed.",
+        "term": "services",
+        "label": -1,
+        "from": "44",
+        "to": "52",
+        "raw_text": "I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed."
+    },
+    {
+        "id": "2937",
+        "sent": "I would recommend it just because of the $T$ probably because thats the only thing i really care about.",
+        "term": "internet speed",
+        "label": 1,
+        "from": "41",
+        "to": "55",
+        "raw_text": "I would recommend it just because of the internet speed probably because thats the only thing i really care about."
+    },
+    {
+        "id": "2400",
+        "sent": "The overall $T$ of the unit is excellent and she'd recommend it to anyone else looking for a netbook.",
+        "term": "build quality",
+        "label": 1,
+        "from": "12",
+        "to": "25",
+        "raw_text": "The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook."
+    },
+    {
+        "id": "152",
+        "sent": "The $T$ is among the best.",
+        "term": "touch pad",
+        "label": 1,
+        "from": "4",
+        "to": "13",
+        "raw_text": "The touch pad is among the best."
+    },
+    {
+        "id": "756",
+        "sent": "PC never worked right even after $T$ fixed.",
+        "term": "BIOS",
+        "label": -1,
+        "from": "33",
+        "to": "37",
+        "raw_text": "PC never worked right even after BIOS fixed."
+    },
+    {
+        "id": "97",
+        "sent": "First of all, they had no record of me having the $T$ I'd paid almost $400 for, and I had to call in, spend hours on their online chat service, and fax in multiple documents.",
+        "term": "3 year warranty",
+        "label": -1,
+        "from": "50",
+        "to": "65",
+        "raw_text": "First of all, they had no record of me having the 3 year warranty I'd paid almost $400 for, and I had to call in, spend hours on their online chat service, and fax in multiple documents."
+    },
+    {
+        "id": "273",
+        "sent": "Even with virus protection, it always turned off when $T$ were needed and installed.",
+        "term": "updates",
+        "label": -1,
+        "from": "54",
+        "to": "61",
+        "raw_text": "Even with virus protection, it always turned off when updates were needed and installed."
+    },
+    {
+        "id": "1722",
+        "sent": "After talking it over with the very knowledgeable $T$, I chose the MacBook Pro over the white MacBook.",
+        "term": "sales associate",
+        "label": 1,
+        "from": "50",
+        "to": "65",
+        "raw_text": "After talking it over with the very knowledgeable sales associate, I chose the MacBook Pro over the white MacBook."
+    },
+    {
+        "id": "1551",
+        "sent": "It is easy to $T$ and lightweight.",
+        "term": "use",
+        "label": 1,
+        "from": "14",
+        "to": "17",
+        "raw_text": "It is easy to use and lightweight."
+    },
+    {
+        "id": "2248",
+        "sent": "In addition, all the design tools on $T$ and Keynotes makes it much easier to create professional looking documents and presentations.",
+        "term": "Pages",
+        "label": 1,
+        "from": "37",
+        "to": "42",
+        "raw_text": "In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations."
+    },
+    {
+        "id": "2337",
+        "sent": "the touch pad is fine - again, it's a real $T$.",
+        "term": "touch pad",
+        "label": 1,
+        "from": "43",
+        "to": "52",
+        "raw_text": "the touch pad is fine - again, it's a real touch pad."
+    },
+    {
+        "id": "1410",
+        "sent": "There is no $T$ on the computer, which defeats the purpose of keeping files on a cd.",
+        "term": "cd drive",
+        "label": -1,
+        "from": "12",
+        "to": "20",
+        "raw_text": "There is no cd drive on the computer, which defeats the purpose of keeping files on a cd."
+    },
+    {
+        "id": "76",
+        "sent": "I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, $T$ and more!",
+        "term": "garage band",
+        "label": 1,
+        "from": "96",
+        "to": "107",
+        "raw_text": "I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!"
+    },
+    {
+        "id": "563",
+        "sent": "the mcbook pro notebook will make it easy for you to write and read your emails at blazing $T$.",
+        "term": "speeds",
+        "label": 1,
+        "from": "91",
+        "to": "97",
+        "raw_text": "the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds."
+    },
+    {
+        "id": "842",
+        "sent": "I'm still within the one year warranty but the $T$  has deemed that this time it was caused by physical abuse and is not  covered.",
+        "term": "repair \"depot\"",
+        "label": -1,
+        "from": "47",
+        "to": "61",
+        "raw_text": "I'm still within the one year warranty but the repair \"depot\"  has deemed that this time it was caused by physical abuse and is not  covered."
+    },
+    {
+        "id": "2211",
+        "sent": "The $T$ on this computer are also stellar - very clear and vivid.",
+        "term": "graphics",
+        "label": 1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "The graphics on this computer are also stellar - very clear and vivid."
+    },
+    {
+        "id": "1876",
+        "sent": "I already have a HP laptop I bought last year that's standard $T$.",
+        "term": "size",
+        "label": 0,
+        "from": "62",
+        "to": "66",
+        "raw_text": "I already have a HP laptop I bought last year that's standard size."
+    },
+    {
+        "id": "61",
+        "sent": "What I'd like is for the laptop to $T$ well without having to purchase additional memory.",
+        "term": "run",
+        "label": 0,
+        "from": "35",
+        "to": "38",
+        "raw_text": "What I'd like is for the laptop to run well without having to purchase additional memory."
+    },
+    {
+        "id": "1776",
+        "sent": "The Macbook arrived in a nice twin packing and sealed in the box, all the $T$ works great.",
+        "term": "functions",
+        "label": 1,
+        "from": "74",
+        "to": "83",
+        "raw_text": "The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great."
+    },
+    {
+        "id": "1252",
+        "sent": "Somehow the $T$ got messed up after reboot.",
+        "term": "system clock",
+        "label": -1,
+        "from": "12",
+        "to": "24",
+        "raw_text": "Somehow the system clock got messed up after reboot."
+    },
+    {
+        "id": "2101",
+        "sent": "Which is great I am running $T$ and scored a 5.X on the index I have never seen a windows machine have a total score in the 5's.",
+        "term": "Vista Business",
+        "label": 1,
+        "from": "28",
+        "to": "42",
+        "raw_text": "Which is great I am running Vista Business and scored a 5.X on the index I have never seen a windows machine have a total score in the 5's."
+    },
+    {
+        "id": "2764",
+        "sent": "I took 3-4 years researching brands and $T$ of laptops.",
+        "term": "prices",
+        "label": 0,
+        "from": "40",
+        "to": "46",
+        "raw_text": "I took 3-4 years researching brands and prices of laptops."
+    },
+    {
+        "id": "1987",
+        "sent": "The cover for the DVD drive soon came off, too--a mark of poor $T$.",
+        "term": "construction quality",
+        "label": -1,
+        "from": "63",
+        "to": "83",
+        "raw_text": "The cover for the DVD drive soon came off, too--a mark of poor construction quality."
+    },
+    {
+        "id": "2307",
+        "sent": "The Toshiba Net book $T$ very well.",
+        "term": "operates",
+        "label": 1,
+        "from": "21",
+        "to": "29",
+        "raw_text": "The Toshiba Net book operates very well."
+    },
+    {
+        "id": "537",
+        "sent": "I had purchased it from a major electronics store and took it to their $T$ to find out what the problem was.",
+        "term": "service department",
+        "label": 0,
+        "from": "71",
+        "to": "89",
+        "raw_text": "I had purchased it from a major electronics store and took it to their service department to find out what the problem was."
+    },
+    {
+        "id": "3047",
+        "sent": "(Beware, their $T$ could send you back making you feel that only they know what a computer is.",
+        "term": "staff",
+        "label": -1,
+        "from": "15",
+        "to": "20",
+        "raw_text": "(Beware, their staff could send you back making you feel that only they know what a computer is."
+    },
+    {
+        "id": "2548",
+        "sent": "The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the $T$, awesome thinking Apple!",
+        "term": "track pad",
+        "label": 1,
+        "from": "148",
+        "to": "157",
+        "raw_text": "The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!"
+    },
+    {
+        "id": "2934",
+        "sent": "The $T$ is spectacular.",
+        "term": "internet speed",
+        "label": 1,
+        "from": "4",
+        "to": "18",
+        "raw_text": "The internet speed is spectacular."
+    },
+    {
+        "id": "411",
+        "sent": "Asus $T$ doesn't work and windows logon isn't either.",
+        "term": "facial recognition",
+        "label": -1,
+        "from": "5",
+        "to": "23",
+        "raw_text": "Asus facial recognition doesn't work and windows logon isn't either."
+    },
+    {
+        "id": "1748",
+        "sent": "Typing on the keyboard becomes uncomfortable after extended use due to the sharp $T$ that your wrists rest on.",
+        "term": "edges",
+        "label": -1,
+        "from": "81",
+        "to": "86",
+        "raw_text": "Typing on the keyboard becomes uncomfortable after extended use due to the sharp edges that your wrists rest on."
+    },
+    {
+        "id": "1492",
+        "sent": "The fact that the $T$ reacts to the lighting around you is an added luxury-when you are working around others in dark areas and want privacy or don't want to bother them with bright lighting, it is very convenient to have a darker, softer lit screen.",
+        "term": "screen",
+        "label": 1,
+        "from": "18",
+        "to": "24",
+        "raw_text": "The fact that the screen reacts to the lighting around you is an added luxury-when you are working around others in dark areas and want privacy or don't want to bother them with bright lighting, it is very convenient to have a darker, softer lit screen."
+    },
+    {
+        "id": "2655",
+        "sent": "Great product by Apple with the new great looking $T$.",
+        "term": "design",
+        "label": 1,
+        "from": "50",
+        "to": "56",
+        "raw_text": "Great product by Apple with the new great looking design."
+    },
+    {
+        "id": "2381",
+        "sent": "still testing the $T$ as i thought it would be better, but am very happy with the upgrade.",
+        "term": "battery life",
+        "label": -1,
+        "from": "18",
+        "to": "30",
+        "raw_text": "still testing the battery life as i thought it would be better, but am very happy with the upgrade."
+    },
+    {
+        "id": "2627",
+        "sent": "It's also fairly easy to use the $T$.",
+        "term": "Operating System",
+        "label": 1,
+        "from": "33",
+        "to": "49",
+        "raw_text": "It's also fairly easy to use the Operating System."
+    },
+    {
+        "id": "1612",
+        "sent": "The $T$ and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.",
+        "term": "graphics",
+        "label": 1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly."
+    },
+    {
+        "id": "1327",
+        "sent": "But the $T$ is torn after one use.",
+        "term": "arm velcro",
+        "label": -1,
+        "from": "8",
+        "to": "18",
+        "raw_text": "But the arm velcro is torn after one use."
+    },
+    {
+        "id": "878",
+        "sent": "The $T$ I purchased this from sent it back,,,,,eventually I got a new or repaired machine approximately 3 weeks later.",
+        "term": "tech store",
+        "label": -1,
+        "from": "4",
+        "to": "14",
+        "raw_text": "The tech store I purchased this from sent it back,,,,,eventually I got a new or repaired machine approximately 3 weeks later."
+    },
+    {
+        "id": "2736",
+        "sent": "Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a $T$ in small area.",
+        "term": "mouse",
+        "label": -1,
+        "from": "87",
+        "to": "92",
+        "raw_text": "Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area."
+    },
+    {
+        "id": "905",
+        "sent": "I had to pay $100 for a $T$ for this cheap $300 laptop.",
+        "term": "universal charger",
+        "label": -1,
+        "from": "24",
+        "to": "41",
+        "raw_text": "I had to pay $100 for a universal charger for this cheap $300 laptop."
+    },
+    {
+        "id": "1906",
+        "sent": "Only a few days after I received the computer back, the sc$T$roze again.",
+        "term": "screen",
+        "label": -1,
+        "from": "58",
+        "to": "64",
+        "raw_text": "Only a few days after I received the computer back, the screen froze again."
+    },
+    {
+        "id": "452",
+        "sent": "(I had been a Windows/$T$ user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",
+        "term": "Linux",
+        "label": 0,
+        "from": "22",
+        "to": "27",
+        "raw_text": "(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable."
+    },
+    {
+        "id": "1369",
+        "sent": "This is a review of $T$.",
+        "term": "windows vista system",
+        "label": 0,
+        "from": "20",
+        "to": "40",
+        "raw_text": "This is a review of windows vista system."
+    },
+    {
+        "id": "1208",
+        "sent": "in 5 months the $T$ got worse and worse.",
+        "term": "connect quality",
+        "label": -1,
+        "from": "16",
+        "to": "31",
+        "raw_text": "in 5 months the connect quality got worse and worse."
+    },
+    {
+        "id": "2063",
+        "sent": "Web access through the $T$ is so slow, it's very frustrating and VERY DISAPPOINTING.",
+        "term": "3G network",
+        "label": -1,
+        "from": "23",
+        "to": "33",
+        "raw_text": "Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING."
+    },
+    {
+        "id": "2509",
+        "sent": "Not only are the versions of these $T$ able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",
+        "term": "programs",
+        "label": 1,
+        "from": "35",
+        "to": "43",
+        "raw_text": "Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior."
+    },
+    {
+        "id": "354",
+        "sent": "The system constantly overheats, the battery life is too short, the case is coming apart, and my $T$ that I use every day in my work as a graphic artist run poorly.",
+        "term": "core applications",
+        "label": -1,
+        "from": "97",
+        "to": "114",
+        "raw_text": "The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly."
+    },
+    {
+        "id": "1376",
+        "sent": "It seems they could have updated XP and done without creating $T$.",
+        "term": "Vista",
+        "label": -1,
+        "from": "62",
+        "to": "67",
+        "raw_text": "It seems they could have updated XP and done without creating Vista."
+    },
+    {
+        "id": "1107",
+        "sent": "I was said it's $T$.",
+        "term": "videocard",
+        "label": -1,
+        "from": "16",
+        "to": "25",
+        "raw_text": "I was said it's videocard."
+    },
+    {
+        "id": "2311",
+        "sent": "The battery holds up well, it's built very solidly, and $T$ fast.",
+        "term": "runs",
+        "label": 1,
+        "from": "56",
+        "to": "60",
+        "raw_text": "The battery holds up well, it's built very solidly, and runs fast."
+    },
+    {
+        "id": "2539",
+        "sent": "i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it $T$ its amazing.",
+        "term": "runs",
+        "label": 1,
+        "from": "144",
+        "to": "148",
+        "raw_text": "i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing."
+    },
+    {
+        "id": "1130",
+        "sent": "After replacing the hard drive the $T$ stopped working  (3 months of use) which was frustrating.",
+        "term": "battery",
+        "label": -1,
+        "from": "35",
+        "to": "42",
+        "raw_text": "After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating."
+    },
+    {
+        "id": "1530",
+        "sent": "Its also FUN to $T$!",
+        "term": "use",
+        "label": 1,
+        "from": "16",
+        "to": "19",
+        "raw_text": "Its also FUN to use!"
+    },
+    {
+        "id": "2247",
+        "sent": "iLife is easily compatible with $T$ so you can send and receive files from a PC.",
+        "term": "Microsoft Office",
+        "label": 0,
+        "from": "32",
+        "to": "48",
+        "raw_text": "iLife is easily compatible with Microsoft Office so you can send and receive files from a PC."
+    },
+    {
+        "id": "1438",
+        "sent": "Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the $T$ and where the heals of my hands sit, and the screen has a terrible glare.",
+        "term": "button below the mouse pad",
+        "label": -1,
+        "from": "98",
+        "to": "124",
+        "raw_text": "Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare."
+    },
+    {
+        "id": "1524",
+        "sent": "If a website ever freezes (which is rare), its really easy to $T$.",
+        "term": "force quit",
+        "label": 1,
+        "from": "62",
+        "to": "72",
+        "raw_text": "If a website ever freezes (which is rare), its really easy to force quit."
+    },
+    {
+        "id": "2313",
+        "sent": "Startup in about 30 seconds, shutdown in 2-4 seconds, $T$ in 0-2 seconds.",
+        "term": "resume from sleep",
+        "label": 0,
+        "from": "54",
+        "to": "71",
+        "raw_text": "Startup in about 30 seconds, shutdown in 2-4 seconds, resume from sleep in 0-2 seconds."
+    },
+    {
+        "id": "2510",
+        "sent": "Waiting for the i7 was well worth it, great value for the $T$.",
+        "term": "price",
+        "label": 1,
+        "from": "58",
+        "to": "63",
+        "raw_text": "Waiting for the i7 was well worth it, great value for the price."
+    },
+    {
+        "id": "712",
+        "sent": "I love my Apple, it is quick and easy to $T$.",
+        "term": "use",
+        "label": 1,
+        "from": "41",
+        "to": "44",
+        "raw_text": "I love my Apple, it is quick and easy to use."
+    },
+    {
+        "id": "937",
+        "sent": "I was also able to install and use my Photoshop and Af$T$asily.",
+        "term": "AfterEffects programs",
+        "label": 1,
+        "from": "54",
+        "to": "75",
+        "raw_text": "I was also able to install and use my Photoshop and AfterEffects programs easily."
+    },
+    {
+        "id": "374",
+        "sent": "Love the graphics, awesome programs (including $T$), and really cool default background.",
+        "term": "Garageband",
+        "label": 1,
+        "from": "47",
+        "to": "57",
+        "raw_text": "Love the graphics, awesome programs (including Garageband), and really cool default background."
+    },
+    {
+        "id": "444",
+        "sent": "$T$ is great but primary and secondary control buttons could be more durable.",
+        "term": "Keyboard",
+        "label": 1,
+        "from": "0",
+        "to": "8",
+        "raw_text": "Keyboard is great but primary and secondary control buttons could be more durable."
+    },
+    {
+        "id": "1131",
+        "sent": "Then after 4 or so months the charger stopped working so I was forced to go out and buy new $T$ just to keep this computer running.",
+        "term": "hardware",
+        "label": -1,
+        "from": "92",
+        "to": "100",
+        "raw_text": "Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running."
+    },
+    {
+        "id": "1458",
+        "sent": "the ba$T$s irreplaceable.",
+        "term": "battery",
+        "label": -1,
+        "from": "6",
+        "to": "13",
+        "raw_text": "the battery is irreplaceable."
+    },
+    {
+        "id": "452",
+        "sent": "(I had been a Windows/Linux user before this) I love the $T$ because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",
+        "term": "size",
+        "label": 1,
+        "from": "57",
+        "to": "61",
+        "raw_text": "(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable."
+    },
+    {
+        "id": "2876",
+        "sent": "The games included are very good $T$.",
+        "term": "games",
+        "label": 1,
+        "from": "33",
+        "to": "38",
+        "raw_text": "The games included are very good games."
+    },
+    {
+        "id": "112",
+        "sent": "The $T$ gets smeary and dusty very quickly and it's very noticeable.",
+        "term": "screen",
+        "label": -1,
+        "from": "4",
+        "to": "10",
+        "raw_text": "The screen gets smeary and dusty very quickly and it's very noticeable."
+    },
+    {
+        "id": "1095",
+        "sent": "I also purchased $T$ with the \"no lemon\" clause.",
+        "term": "Office Max's \"Max Assurance\"",
+        "label": 0,
+        "from": "17",
+        "to": "45",
+        "raw_text": "I also purchased Office Max's \"Max Assurance\" with the \"no lemon\" clause."
+    },
+    {
+        "id": "569",
+        "sent": "But the $T$ is not that bad for email and web browsing.",
+        "term": "screen size",
+        "label": 1,
+        "from": "8",
+        "to": "19",
+        "raw_text": "But the screen size is not that bad for email and web browsing."
+    },
+    {
+        "id": "2100",
+        "sent": "I run windows via bootcamp for the couple $T$ I do not want to buy a mac version of, like my cad programs.",
+        "term": "programs",
+        "label": 0,
+        "from": "42",
+        "to": "50",
+        "raw_text": "I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs."
+    },
+    {
+        "id": "1548",
+        "sent": "Apparently well-built and gorgeous to $T$ at, the i5 MacBook Pro is a winning combination of price and performance.",
+        "term": "look",
+        "label": 1,
+        "from": "38",
+        "to": "42",
+        "raw_text": "Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance."
+    },
+    {
+        "id": "2001",
+        "sent": "Yes, they cost more, but they more than make up for it in speed, $T$, and longevity.",
+        "term": "construction quality",
+        "label": 1,
+        "from": "65",
+        "to": "85",
+        "raw_text": "Yes, they cost more, but they more than make up for it in speed, construction quality, and longevity."
+    },
+    {
+        "id": "1956",
+        "sent": "Actually, I had noticed the one on the sales floor also didn't have $T$!",
+        "term": "sound",
+        "label": -1,
+        "from": "68",
+        "to": "73",
+        "raw_text": "Actually, I had noticed the one on the sales floor also didn't have sound!"
+    },
+    {
+        "id": "1771",
+        "sent": "It is easy to $T$ and update programs.",
+        "term": "navigate",
+        "label": 1,
+        "from": "14",
+        "to": "22",
+        "raw_text": "It is easy to navigate and update programs."
+    },
+    {
+        "id": "675",
+        "sent": "10 plus hours of $T$...",
+        "term": "battery",
+        "label": 1,
+        "from": "17",
+        "to": "24",
+        "raw_text": "10 plus hours of battery..."
+    },
+    {
+        "id": "387",
+        "sent": "The $T$ is slick and quiet and not bulky like some other laptops I have had in the past.",
+        "term": "keyboard",
+        "label": 1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "The keyboard is slick and quiet and not bulky like some other laptops I have had in the past."
+    },
+    {
+        "id": "2578",
+        "sent": "Additional caveat: the $T$ comes with some Toshiba-specific software that may or may not be to a user's liking.",
+        "term": "base installation",
+        "label": -1,
+        "from": "23",
+        "to": "40",
+        "raw_text": "Additional caveat: the base installation comes with some Toshiba-specific software that may or may not be to a user's liking."
+    },
+    {
+        "id": "1075",
+        "sent": "It could be a perfect laptop if it would have faster $T$ and its radeon 5850 would have DDR5 instead of DDR3.",
+        "term": "system memory",
+        "label": -1,
+        "from": "53",
+        "to": "66",
+        "raw_text": "It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3."
+    },
+    {
+        "id": "803",
+        "sent": "It rarely $T$ and when it does it's incredibly slow.",
+        "term": "works",
+        "label": -1,
+        "from": "10",
+        "to": "15",
+        "raw_text": "It rarely works and when it does it's incredibly slow."
+    },
+    {
+        "id": "2417",
+        "sent": "Even though the computer is larger they did not make the $T$ larger.",
+        "term": "keyboard",
+        "label": -1,
+        "from": "57",
+        "to": "65",
+        "raw_text": "Even though the computer is larger they did not make the keyboard larger."
+    },
+    {
+        "id": "2273",
+        "sent": "WIth the $T$, the MacBook Pro never has an issue running many many applications at once!",
+        "term": "upgraded memory",
+        "label": 1,
+        "from": "9",
+        "to": "24",
+        "raw_text": "WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!"
+    },
+    {
+        "id": "1731",
+        "sent": "Everything is so easy to $T$, Mac software is just so much simpler than Microsoft software.",
+        "term": "use",
+        "label": 1,
+        "from": "25",
+        "to": "28",
+        "raw_text": "Everything is so easy to use, Mac software is just so much simpler than Microsoft software."
+    },
+    {
+        "id": "1074",
+        "sent": "But, buy this model and just purchase 4GB of RAM (2x2GB for $92 or 1x4GB for $99), and save yourself $100 than the other model with $T$.",
+        "term": "8GB of RAM",
+        "label": 0,
+        "from": "132",
+        "to": "142",
+        "raw_text": "But, buy this model and just purchase 4GB of RAM (2x2GB for $92 or 1x4GB for $99), and save yourself $100 than the other model with 8GB of RAM."
+    },
+    {
+        "id": "2573",
+        "sent": "I upgraded the memory and replaced the base $T$ to Win 7 Home, and it runs just fine.",
+        "term": "Windows 7 Starter",
+        "label": 0,
+        "from": "44",
+        "to": "61",
+        "raw_text": "I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine."
+    },
+    {
+        "id": "698",
+        "sent": "The Macbook arrived in a nice $T$ and sealed in the box, all the functions works great.",
+        "term": "twin packing",
+        "label": 1,
+        "from": "30",
+        "to": "42",
+        "raw_text": "The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great."
+    },
+    {
+        "id": "2960",
+        "sent": "The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a $T$ would have trouble with, such as Half-Life 2 or even World of Warcraft.",
+        "term": "Intel built-in card",
+        "label": 1,
+        "from": "125",
+        "to": "144",
+        "raw_text": "The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft."
+    },
+    {
+        "id": "18",
+        "sent": "While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the $T$ of Macs.",
+        "term": "simplicity",
+        "label": 1,
+        "from": "144",
+        "to": "154",
+        "raw_text": "While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs."
+    },
+    {
+        "id": "2401",
+        "sent": "If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive $T$, you'd be better off getting a machine aimed at that segment of the market.",
+        "term": "game",
+        "label": 0,
+        "from": "103",
+        "to": "107",
+        "raw_text": "If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive game, you'd be better off getting a machine aimed at that segment of the market."
+    },
+    {
+        "id": "1385",
+        "sent": "Again, the same problem, the $T$ did not work.",
+        "term": "right speaker",
+        "label": -1,
+        "from": "29",
+        "to": "42",
+        "raw_text": "Again, the same problem, the right speaker did not work."
+    },
+    {
+        "id": "1128",
+        "sent": "$T$ could use some trimming.",
+        "term": "Keyboard",
+        "label": -1,
+        "from": "0",
+        "to": "8",
+        "raw_text": "Keyboard could use some trimming."
+    },
+    {
+        "id": "2901",
+        "sent": "I have found it very easy to $T$, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",
+        "term": "use",
+        "label": 1,
+        "from": "29",
+        "to": "32",
+        "raw_text": "I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs."
+    },
+    {
+        "id": "808",
+        "sent": "3 weeks went by and the computer keeps crashing and will not open any $T$.",
+        "term": "applications",
+        "label": 0,
+        "from": "70",
+        "to": "82",
+        "raw_text": "3 weeks went by and the computer keeps crashing and will not open any applications."
+    },
+    {
+        "id": "809",
+        "sent": "DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE $T$ IS HORRIBLE.",
+        "term": "WARRANTY COMPANY",
+        "label": -1,
+        "from": "51",
+        "to": "67",
+        "raw_text": "DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE."
+    },
+    {
+        "id": "344",
+        "sent": "It has bein into the shop to get a new hardrive 2 times and to fix the $T$ on the keyboard!",
+        "term": "touch control buttons",
+        "label": -1,
+        "from": "71",
+        "to": "92",
+        "raw_text": "It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!"
+    },
+    {
+        "id": "2258",
+        "sent": ", Applications respond immediately (not like the tired $T$).",
+        "term": "MS applications",
+        "label": -1,
+        "from": "55",
+        "to": "70",
+        "raw_text": ", Applications respond immediately (not like the tired MS applications)."
+    },
+    {
+        "id": "2431",
+        "sent": "This is an over-sized, $T$ laptop.",
+        "term": "18-inch",
+        "label": -1,
+        "from": "23",
+        "to": "30",
+        "raw_text": "This is an over-sized, 18-inch laptop."
+    },
+    {
+        "id": "2537",
+        "sent": "i needed one to be able to $T$ to work everyday and this one seems to fit all of the criteria.",
+        "term": "carry",
+        "label": 0,
+        "from": "27",
+        "to": "32",
+        "raw_text": "i needed one to be able to carry to work everyday and this one seems to fit all of the criteria."
+    },
+    {
+        "id": "2407",
+        "sent": "You can even run a $T$ easily and run any leftover PC software that you absolutely cannot be without.",
+        "term": "parallels type program",
+        "label": 1,
+        "from": "19",
+        "to": "41",
+        "raw_text": "You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without."
+    },
+    {
+        "id": "907",
+        "sent": "The people are frustrating to work with, the product itself is very cheaply made, and the $T$ are less than satisfactory.",
+        "term": "accessories",
+        "label": -1,
+        "from": "90",
+        "to": "101",
+        "raw_text": "The people are frustrating to work with, the product itself is very cheaply made, and the accessories are less than satisfactory."
+    },
+    {
+        "id": "734",
+        "sent": "I would like to use a different $T$ altogether.",
+        "term": "operating system",
+        "label": 0,
+        "from": "32",
+        "to": "48",
+        "raw_text": "I would like to use a different operating system altogether."
+    },
+    {
+        "id": "353",
+        "sent": "From the build quality to the $T$, everything about it has been sub-par from what I would have expected from Apple.",
+        "term": "performance",
+        "label": -1,
+        "from": "30",
+        "to": "41",
+        "raw_text": "From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple."
+    },
+    {
+        "id": "2517",
+        "sent": "The black model also has a very nice seamless $T$ - one of the better looking notebooks I've seen.",
+        "term": "appearance",
+        "label": 1,
+        "from": "46",
+        "to": "56",
+        "raw_text": "The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen."
+    },
+    {
+        "id": "220",
+        "sent": "Although the $T$ is higher then Dell laptops, the Macbooks are worth the dough.",
+        "term": "price",
+        "label": -1,
+        "from": "13",
+        "to": "18",
+        "raw_text": "Although the price is higher then Dell laptops, the Macbooks are worth the dough."
+    },
+    {
+        "id": "1887",
+        "sent": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), $T$ not working and USB ports inoperative.",
+        "term": "buttons",
+        "label": -1,
+        "from": "133",
+        "to": "140",
+        "raw_text": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and USB ports inoperative."
+    },
+    {
+        "id": "329",
+        "sent": "I know that everyone thinks Macs are overpriced and overrated, but once you get past the initial $T$ you'll find that they're worth every penny (besides, there's always the financing plan that Best Buy offers).",
+        "term": "expense",
+        "label": -1,
+        "from": "97",
+        "to": "104",
+        "raw_text": "I know that everyone thinks Macs are overpriced and overrated, but once you get past the initial expense you'll find that they're worth every penny (besides, there's always the financing plan that Best Buy offers)."
+    },
+    {
+        "id": "2235",
+        "sent": "also it comes with very useful $T$ like iphoto that it is the best photo application i have ever had",
+        "term": "applications",
+        "label": 1,
+        "from": "31",
+        "to": "43",
+        "raw_text": "also it comes with very useful applications like iphoto that it is the best photo application i have ever had"
+    },
+    {
+        "id": "2077",
+        "sent": "The $T$ shows great colors.",
+        "term": "screen",
+        "label": 1,
+        "from": "4",
+        "to": "10",
+        "raw_text": "The screen shows great colors."
+    },
+    {
+        "id": "961",
+        "sent": "This time the mouse pad and ri$T$ouldn't work!",
+        "term": "right click key",
+        "label": -1,
+        "from": "30",
+        "to": "45",
+        "raw_text": "This time the mouse pad and right click key wouldn't work!"
+    },
+    {
+        "id": "366",
+        "sent": "Not to mention the fact that your mac comes fully loaded with all necessary basic $T$.",
+        "term": "programs",
+        "label": 1,
+        "from": "82",
+        "to": "90",
+        "raw_text": "Not to mention the fact that your mac comes fully loaded with all necessary basic programs."
+    },
+    {
+        "id": "1963",
+        "sent": "The $T$ was shorter than expected.",
+        "term": "battery life",
+        "label": -1,
+        "from": "4",
+        "to": "16",
+        "raw_text": "The battery life was shorter than expected."
+    },
+    {
+        "id": "3",
+        "sent": "It's so nice to look at and the $T$ are easy to type with.",
+        "term": "keys",
+        "label": 1,
+        "from": "32",
+        "to": "36",
+        "raw_text": "It's so nice to look at and the keys are easy to type with."
+    },
+    {
+        "id": "340",
+        "sent": "They also have a longer $T$ than other computers (I have several friends who still use the older Apple PowerBooks).",
+        "term": "service life",
+        "label": 1,
+        "from": "24",
+        "to": "36",
+        "raw_text": "They also have a longer service life than other computers (I have several friends who still use the older Apple PowerBooks)."
+    },
+    {
+        "id": "2220",
+        "sent": "The computer loads in about a 1/10th of the time that my PC did, and I have all of the $T$ that were on my PC.",
+        "term": "programs",
+        "label": 1,
+        "from": "87",
+        "to": "95",
+        "raw_text": "The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC."
+    },
+    {
+        "id": "1489",
+        "sent": "All the $T$ are easy and straight forward on my MacBook Pro, it is clean and organized, which I always strive to be myself.",
+        "term": "programs",
+        "label": 1,
+        "from": "8",
+        "to": "16",
+        "raw_text": "All the programs are easy and straight forward on my MacBook Pro, it is clean and organized, which I always strive to be myself."
+    },
+    {
+        "id": "740",
+        "sent": "This computer had exactly the $T$ I needed.",
+        "term": "specifications",
+        "label": 1,
+        "from": "30",
+        "to": "44",
+        "raw_text": "This computer had exactly the specifications I needed."
+    },
+    {
+        "id": "81",
+        "sent": "Lightweight and the $T$ is beautiful!",
+        "term": "screen",
+        "label": 1,
+        "from": "20",
+        "to": "26",
+        "raw_text": "Lightweight and the screen is beautiful!"
+    },
+    {
+        "id": "1018",
+        "sent": "I had in the past a Dell laptop and they sent me the items it needed or they sent a $T$ to my house to fix it.",
+        "term": "repair technician",
+        "label": 1,
+        "from": "84",
+        "to": "101",
+        "raw_text": "I had in the past a Dell laptop and they sent me the items it needed or they sent a repair technician to my house to fix it."
+    },
+    {
+        "id": "2585",
+        "sent": "It is VERY easy to type on and feels great - besides the added $T$ that the keyboard is lighted.",
+        "term": "feature",
+        "label": 1,
+        "from": "63",
+        "to": "70",
+        "raw_text": "It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted."
+    },
+    {
+        "id": "1858",
+        "sent": "The $T$ is extremely sensitive, which is the only drawback.",
+        "term": "touchpad",
+        "label": -1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "The touchpad is extremely sensitive, which is the only drawback."
+    },
+    {
+        "id": "2738",
+        "sent": "Comfterbale to use light easy to $T$.",
+        "term": "transport",
+        "label": 1,
+        "from": "33",
+        "to": "42",
+        "raw_text": "Comfterbale to use light easy to transport."
+    },
+    {
+        "id": "1184",
+        "sent": ") And printing from either $T$ is an adventure.",
+        "term": "word processor",
+        "label": -1,
+        "from": "27",
+        "to": "41",
+        "raw_text": ") And printing from either word processor is an adventure."
+    },
+    {
+        "id": "100",
+        "sent": "I had of course bought a $T$, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",
+        "term": "3 year warranty",
+        "label": 0,
+        "from": "25",
+        "to": "40",
+        "raw_text": "I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement."
+    },
+    {
+        "id": "1330",
+        "sent": "This is what I call a good $T$.",
+        "term": "after sales service",
+        "label": 1,
+        "from": "27",
+        "to": "46",
+        "raw_text": "This is what I call a good after sales service."
+    },
+    {
+        "id": "1710",
+        "sent": "The Macbook is also made better, my computer has never got a virus, and the laptop $T$ just as fast as the first day I bought it.",
+        "term": "runs",
+        "label": 1,
+        "from": "83",
+        "to": "87",
+        "raw_text": "The Macbook is also made better, my computer has never got a virus, and the laptop runs just as fast as the first day I bought it."
+    },
+    {
+        "id": "1064",
+        "sent": "For the Bluetooth to work properly, you must install the Launch Manager on the $T$, or it will not show after the reload.",
+        "term": "Drivers/Applications DVD",
+        "label": 0,
+        "from": "79",
+        "to": "103",
+        "raw_text": "For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload."
+    },
+    {
+        "id": "914",
+        "sent": "A coupla months later, they change my h$T$",
+        "term": "hard drive",
+        "label": -1,
+        "from": "39",
+        "to": "49",
+        "raw_text": "A coupla months later, they change my hard drive."
+    },
+    {
+        "id": "1012",
+        "sent": "I had to pay for the $T$!",
+        "term": "shipping",
+        "label": -1,
+        "from": "21",
+        "to": "29",
+        "raw_text": "I had to pay for the shipping!"
+    },
+    {
+        "id": "3055",
+        "sent": "It has a .1 ghz faster $T$ and a stock 500gb hard drive.",
+        "term": "processor",
+        "label": 1,
+        "from": "23",
+        "to": "32",
+        "raw_text": "It has a .1 ghz faster processor and a stock 500gb hard drive."
+    },
+    {
+        "id": "378",
+        "sent": "I couldn't believe how long the $T$ lasted on a single charge.",
+        "term": "battery",
+        "label": 1,
+        "from": "32",
+        "to": "39",
+        "raw_text": "I couldn't believe how long the battery lasted on a single charge."
+    },
+    {
+        "id": "1595",
+        "sent": "Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, $T$ (720p) on occasion and creating presentations.",
+        "term": "watching movies",
+        "label": 1,
+        "from": "98",
+        "to": "113",
+        "raw_text": "Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations."
+    },
+    {
+        "id": "695",
+        "sent": "It is so much easier to $T$",
+        "term": "use",
+        "label": 1,
+        "from": "24",
+        "to": "27",
+        "raw_text": "It is so much easier to use"
+    },
+    {
+        "id": "344",
+        "sent": "It has bein into the shop to get a new $T$ 2 times and to fix the touch control buttons on the keyboard!",
+        "term": "hardrive",
+        "label": -1,
+        "from": "39",
+        "to": "47",
+        "raw_text": "It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!"
+    },
+    {
+        "id": "1450",
+        "sent": "The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same $T$ you can get a computer who compares to one of apple $2000 systems and if you google \"dell coupons\" you can find codes that take a signifant  amount off the price.",
+        "term": "price",
+        "label": 1,
+        "from": "151",
+        "to": "156",
+        "raw_text": "The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google \"dell coupons\" you can find codes that take a signifant  amount off the price."
+    },
+    {
+        "id": "2577",
+        "sent": "The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of $T$ five days a week.",
+        "term": "battery life",
+        "label": 0,
+        "from": "142",
+        "to": "154",
+        "raw_text": "The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of battery life five days a week."
+    },
+    {
+        "id": "2870",
+        "sent": "For the $T$ and what I get out of it has exceeded my expectations.",
+        "term": "price",
+        "label": 1,
+        "from": "8",
+        "to": "13",
+        "raw_text": "For the price and what I get out of it has exceeded my expectations."
+    },
+    {
+        "id": "2809",
+        "sent": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about $T$ and making required connections less obtrusive i will be looking to different manufacturer next time.",
+        "term": "ergonomics",
+        "label": -1,
+        "from": "94",
+        "to": "104",
+        "raw_text": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time."
+    },
+    {
+        "id": "334",
+        "sent": "It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty $T$).",
+        "term": "mobile video editing",
+        "label": 0,
+        "from": "142",
+        "to": "162",
+        "raw_text": "It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing)."
+    },
+    {
+        "id": "890",
+        "sent": "Your $T$ will end up all over the freaking place,,,it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad.",
+        "term": "cursor",
+        "label": -1,
+        "from": "5",
+        "to": "11",
+        "raw_text": "Your cursor will end up all over the freaking place,,,it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad."
+    },
+    {
+        "id": "3035",
+        "sent": "It $T$ really well.",
+        "term": "works",
+        "label": 1,
+        "from": "3",
+        "to": "8",
+        "raw_text": "It works really well."
+    },
+    {
+        "id": "2845",
+        "sent": "I bought this laptop because of the performance to $T$ ratio.",
+        "term": "price",
+        "label": 1,
+        "from": "51",
+        "to": "56",
+        "raw_text": "I bought this laptop because of the performance to price ratio."
+    },
+    {
+        "id": "84",
+        "sent": "While I mostly use it for email, internet and gaming, I'm confident all other $T$ live up to the high standard I've come to appreciate from Mac laptops.",
+        "term": "applications",
+        "label": 1,
+        "from": "78",
+        "to": "90",
+        "raw_text": "While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops."
+    },
+    {
+        "id": "1425",
+        "sent": "In desparation, I called their Customer Service number and was told that my warranty had expired (2 days old) and that the priviledge of $T$ would cost me (\"have your credit card ready\").",
+        "term": "talking to a technician",
+        "label": -1,
+        "from": "137",
+        "to": "160",
+        "raw_text": "In desparation, I called their Customer Service number and was told that my warranty had expired (2 days old) and that the priviledge of talking to a technician would cost me (\"have your credit card ready\")."
+    },
+    {
+        "id": "2470",
+        "sent": "Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the $T$- cannot be beat.",
+        "term": "genius bar",
+        "label": 1,
+        "from": "99",
+        "to": "109",
+        "raw_text": "Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat."
+    },
+    {
+        "id": "2563",
+        "sent": "Getting the $T$ is a must.",
+        "term": "Apple Care plan",
+        "label": 1,
+        "from": "12",
+        "to": "27",
+        "raw_text": "Getting the Apple Care plan is a must."
+    },
+    {
+        "id": "2424",
+        "sent": "It is much faster than my desktop which is a $T$ running at 2.83 GHz.",
+        "term": "Core2 Quad",
+        "label": 0,
+        "from": "45",
+        "to": "55",
+        "raw_text": "It is much faster than my desktop which is a Core2 Quad running at 2.83 GHz."
+    },
+    {
+        "id": "1086",
+        "sent": "EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE $T$ SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.",
+        "term": "KEYBOARD",
+        "label": -1,
+        "from": "105",
+        "to": "113",
+        "raw_text": "EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED."
+    },
+    {
+        "id": "1221",
+        "sent": "I was loving this Netbook because it had an amazing screen and $T$ and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",
+        "term": "display",
+        "label": 1,
+        "from": "63",
+        "to": "70",
+        "raw_text": "I was loving this Netbook because it had an amazing screen and display and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it."
+    },
+    {
+        "id": "2470",
+        "sent": "Its ease of use and the top $T$ from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.",
+        "term": "service",
+        "label": 1,
+        "from": "28",
+        "to": "35",
+        "raw_text": "Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat."
+    },
+    {
+        "id": "1972",
+        "sent": "It was hard to handle and $T$ at school.",
+        "term": "operate",
+        "label": -1,
+        "from": "26",
+        "to": "33",
+        "raw_text": "It was hard to handle and operate at school."
+    },
+    {
+        "id": "327",
+        "sent": "Also it is very good for college students who just need a reliable, easy to $T$ computer.",
+        "term": "use",
+        "label": 1,
+        "from": "76",
+        "to": "79",
+        "raw_text": "Also it is very good for college students who just need a reliable, easy to use computer."
+    },
+    {
+        "id": "2168",
+        "sent": "There is a $T$ which is perfect for typing in the dark.",
+        "term": "backlit keyboard",
+        "label": 1,
+        "from": "11",
+        "to": "27",
+        "raw_text": "There is a backlit keyboard which is perfect for typing in the dark."
+    },
+    {
+        "id": "1887",
+        "sent": "Returned laptop for repair a 2nd time and it came back with obvious physical damage ($T$ bulging and speaker grill pressed in), buttons not working and USB ports inoperative.",
+        "term": "keyboard",
+        "label": -1,
+        "from": "85",
+        "to": "93",
+        "raw_text": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and USB ports inoperative."
+    },
+    {
+        "id": "1374",
+        "sent": "Also, if you need to talk to a representive at Microsoft, there is a charge, which I believe is robbery, since you are charged enormous amounts for a very badly designed system, which most people would have went with $T$ if they could.",
+        "term": "XP",
+        "label": 1,
+        "from": "217",
+        "to": "219",
+        "raw_text": "Also, if you need to talk to a representive at Microsoft, there is a charge, which I believe is robbery, since you are charged enormous amounts for a very badly designed system, which most people would have went with XP if they could."
+    },
+    {
+        "id": "2977",
+        "sent": "Laptops are usually used on the go, so why not give you a better $T$?",
+        "term": "battery",
+        "label": -1,
+        "from": "65",
+        "to": "72",
+        "raw_text": "Laptops are usually used on the go, so why not give you a better battery?"
+    },
+    {
+        "id": "828",
+        "sent": "It was loaded with Windows Vista Home Premium--delivered with only 1G$T$and it was a *dog*.",
+        "term": "1GB of RAM",
+        "label": -1,
+        "from": "69",
+        "to": "79",
+        "raw_text": "It was loaded with Windows Vista Home Premium--delivered with only 1GB of RAM, and it was a *dog*."
+    },
+    {
+        "id": "1417",
+        "sent": "The board has a bad connector with the power supply and shortly after wa$T$xpires the power supply will start having issues.",
+        "term": "warrenty",
+        "label": -1,
+        "from": "72",
+        "to": "80",
+        "raw_text": "The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues."
+    },
+    {
+        "id": "1743",
+        "sent": "But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, $T$, and monitor to take it with me when I take photos and video.",
+        "term": "mouse",
+        "label": 0,
+        "from": "208",
+        "to": "213",
+        "raw_text": "But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, mouse, and monitor to take it with me when I take photos and video."
+    },
+    {
+        "id": "1646",
+        "sent": "But see the macbook pro is different because it may have a huge price tag but it comes with the full $T$ that you would actually need and most of it has free future updates.",
+        "term": "software",
+        "label": 1,
+        "from": "101",
+        "to": "109",
+        "raw_text": "But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates."
+    },
+    {
+        "id": "453",
+        "sent": "There are several $T$ for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.",
+        "term": "programs",
+        "label": 0,
+        "from": "18",
+        "to": "26",
+        "raw_text": "There are several programs for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc."
+    },
+    {
+        "id": "348",
+        "sent": "i love the size of the computer since i play $T$ on it.",
+        "term": "games",
+        "label": 0,
+        "from": "45",
+        "to": "50",
+        "raw_text": "i love the size of the computer since i play games on it."
+    },
+    {
+        "id": "2430",
+        "sent": "Had some trouble finding a $T$ that it would fit in.",
+        "term": "case",
+        "label": -1,
+        "from": "27",
+        "to": "31",
+        "raw_text": "Had some trouble finding a case that it would fit in."
+    },
+    {
+        "id": "2944",
+        "sent": "I love to write and play with graphics and html programming and my new Toshiba $T$ great on both!",
+        "term": "works",
+        "label": 1,
+        "from": "79",
+        "to": "84",
+        "raw_text": "I love to write and play with graphics and html programming and my new Toshiba works great on both!"
+    },
+    {
+        "id": "87",
+        "sent": "It is easy to $T$ and I have already ordered more software and gadgets for my new Rolls Royce of laptops.",
+        "term": "operate",
+        "label": 1,
+        "from": "14",
+        "to": "21",
+        "raw_text": "It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops."
+    },
+    {
+        "id": "2745",
+        "sent": "A cheaper $T$ should not equal a \"cheap\" product.",
+        "term": "price",
+        "label": 1,
+        "from": "10",
+        "to": "15",
+        "raw_text": "A cheaper price should not equal a \"cheap\" product."
+    },
+    {
+        "id": "2786",
+        "sent": "The $T$ for the $4000 and up computers was the only one available for purchase on the drop drown menu.",
+        "term": "extended warranty",
+        "label": 0,
+        "from": "4",
+        "to": "21",
+        "raw_text": "The extended warranty for the $4000 and up computers was the only one available for purchase on the drop drown menu."
+    },
+    {
+        "id": "1798",
+        "sent": "And that probably explains why I've already had my $T$ go bad within a year of buying it.",
+        "term": "SATA controller",
+        "label": -1,
+        "from": "51",
+        "to": "66",
+        "raw_text": "And that probably explains why I've already had my SATA controller go bad within a year of buying it."
+    },
+    {
+        "id": "743",
+        "sent": "When I finally had everything running with all my software installed I plugged in my droid to recharge and the $T$ crashed.",
+        "term": "system",
+        "label": -1,
+        "from": "111",
+        "to": "117",
+        "raw_text": "When I finally had everything running with all my software installed I plugged in my droid to recharge and the system crashed."
+    },
+    {
+        "id": "108",
+        "sent": "It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, \"74%, plugged in, not $T$\"), requiring me to unplug it and plug it back in several times to get it to charge.",
+        "term": "charging",
+        "label": -1,
+        "from": "146",
+        "to": "154",
+        "raw_text": "It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, \"74%, plugged in, not charging\"), requiring me to unplug it and plug it back in several times to get it to charge."
+    },
+    {
+        "id": "830",
+        "sent": "There's literally no way to make it sing with Vi$T$",
+        "term": "Vista",
+        "label": -1,
+        "from": "48",
+        "to": "53",
+        "raw_text": "There's literally no way to make it sing with Vista."
+    },
+    {
+        "id": "1668",
+        "sent": "The only bad part is the size/$T$.",
+        "term": "weight",
+        "label": -1,
+        "from": "30",
+        "to": "36",
+        "raw_text": "The only bad part is the size/weight."
+    },
+    {
+        "id": "1977",
+        "sent": "I saw walmart had the same computer for about $650 but still knowing what I know now,I would not buy it at that $T$.",
+        "term": "price",
+        "label": -1,
+        "from": "112",
+        "to": "117",
+        "raw_text": "I saw walmart had the same computer for about $650 but still knowing what I know now,I would not buy it at that price."
+    },
+    {
+        "id": "2433",
+        "sent": "You may need to special order a $T$.",
+        "term": "bag",
+        "label": 0,
+        "from": "32",
+        "to": "35",
+        "raw_text": "You may need to special order a bag."
+    },
+    {
+        "id": "1372",
+        "sent": "We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same up$T$",
+        "term": "update",
+        "label": -1,
+        "from": "326",
+        "to": "332",
+        "raw_text": "We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update."
+    },
+    {
+        "id": "1716",
+        "sent": "There was a little difficulty doing the migration as the firewire cable system can't be used with the $T$.",
+        "term": "iBook",
+        "label": 0,
+        "from": "102",
+        "to": "107",
+        "raw_text": "There was a little difficulty doing the migration as the firewire cable system can't be used with the iBook."
+    },
+    {
+        "id": "772",
+        "sent": "Was searching online for a $T$ when I found this site.",
+        "term": "power supply",
+        "label": 0,
+        "from": "27",
+        "to": "39",
+        "raw_text": "Was searching online for a power supply when I found this site."
+    },
+    {
+        "id": "2159",
+        "sent": "The $T$ is also relatively good.",
+        "term": "battery life",
+        "label": 1,
+        "from": "4",
+        "to": "16",
+        "raw_text": "The battery life is also relatively good."
+    },
+    {
+        "id": "1958",
+        "sent": "I especially like the keyboard which has chiclet type $T$.",
+        "term": "keys",
+        "label": 1,
+        "from": "54",
+        "to": "58",
+        "raw_text": "I especially like the keyboard which has chiclet type keys."
+    },
+    {
+        "id": "278",
+        "sent": "The $T$ of the MacBook is horrible and confusing;",
+        "term": "layout",
+        "label": -1,
+        "from": "4",
+        "to": "10",
+        "raw_text": "The layout of the MacBook is horrible and confusing;"
+    },
+    {
+        "id": "2864",
+        "sent": "I love $T$ which is a vast improvment over Vista.",
+        "term": "WIndows 7",
+        "label": 1,
+        "from": "7",
+        "to": "16",
+        "raw_text": "I love WIndows 7 which is a vast improvment over Vista."
+    },
+    {
+        "id": "2741",
+        "sent": "I had a $T$ but, i can't use it because it is not compatible.",
+        "term": "USB connect",
+        "label": -1,
+        "from": "8",
+        "to": "19",
+        "raw_text": "I had a USB connect but, i can't use it because it is not compatible."
+    },
+    {
+        "id": "2226",
+        "sent": "Now I have the best of both worlds with all of the $T$ and ease of the Mac!",
+        "term": "power",
+        "label": 1,
+        "from": "51",
+        "to": "56",
+        "raw_text": "Now I have the best of both worlds with all of the power and ease of the Mac!"
+    },
+    {
+        "id": "2895",
+        "sent": "It's super fast and a great $T$ for the price!",
+        "term": "value",
+        "label": 1,
+        "from": "28",
+        "to": "33",
+        "raw_text": "It's super fast and a great value for the price!"
+    },
+    {
+        "id": "1129",
+        "sent": "Did I mention everything about it, from size to weight to $T$ screams BULK?",
+        "term": "keyboard",
+        "label": -1,
+        "from": "58",
+        "to": "66",
+        "raw_text": "Did I mention everything about it, from size to weight to keyboard screams BULK?"
+    },
+    {
+        "id": "1177",
+        "sent": "Take your time and go through the $T$ patiently.",
+        "term": "tutorials",
+        "label": 0,
+        "from": "34",
+        "to": "43",
+        "raw_text": "Take your time and go through the tutorials patiently."
+    },
+    {
+        "id": "956",
+        "sent": "I sent it back and found this time that the ba$T$as faulty, so I got a new one and some other fixes they found.",
+        "term": "battery",
+        "label": -1,
+        "from": "46",
+        "to": "53",
+        "raw_text": "I sent it back and found this time that the battery was faulty, so I got a new one and some other fixes they found."
+    },
+    {
+        "id": "2845",
+        "sent": "I bought this laptop because of the $T$ to price ratio.",
+        "term": "performance",
+        "label": 1,
+        "from": "36",
+        "to": "47",
+        "raw_text": "I bought this laptop because of the performance to price ratio."
+    },
+    {
+        "id": "2221",
+        "sent": "Of course, I also have several great software packages that came for free including $T$, GarageBand, and iMovie.",
+        "term": "iWork",
+        "label": 1,
+        "from": "84",
+        "to": "89",
+        "raw_text": "Of course, I also have several great software packages that came for free including iWork, GarageBand, and iMovie."
+    },
+    {
+        "id": "1913",
+        "sent": "This process continued to repeat itself until the mo$T$ad been replaced 4 times and the hard drive replaced 3 times.",
+        "term": "mother board",
+        "label": -1,
+        "from": "52",
+        "to": "64",
+        "raw_text": "This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times."
+    },
+    {
+        "id": "1892",
+        "sent": "I purchased this netbook after my original Toshiba laptop crashed right after the $T$ expired.",
+        "term": "warranty",
+        "label": -1,
+        "from": "82",
+        "to": "90",
+        "raw_text": "I purchased this netbook after my original Toshiba laptop crashed right after the warranty expired."
+    },
+    {
+        "id": "1819",
+        "sent": "It didn't come with any software installed outside of windows media, but for the $T$, I was very pleased with the condition and the overall product.",
+        "term": "price",
+        "label": 1,
+        "from": "81",
+        "to": "86",
+        "raw_text": "It didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product."
+    },
+    {
+        "id": "130",
+        "sent": "but now i have realized its a problem with this $T$.",
+        "term": "brand",
+        "label": -1,
+        "from": "48",
+        "to": "53",
+        "raw_text": "but now i have realized its a problem with this brand."
+    },
+    {
+        "id": "2588",
+        "sent": "Its Office compatible, but the $T$ and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",
+        "term": "features",
+        "label": 0,
+        "from": "31",
+        "to": "39",
+        "raw_text": "Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs."
+    },
+    {
+        "id": "917",
+        "sent": "One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, p$T$steady, hard drive light steady and not flashing as it usually does.",
+        "term": "power light",
+        "label": 0,
+        "from": "111",
+        "to": "122",
+        "raw_text": "One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does."
+    },
+    {
+        "id": "2001",
+        "sent": "Yes, they cost more, but they more than make up for it in speed, construction quality, and $T$.",
+        "term": "longevity",
+        "label": 1,
+        "from": "91",
+        "to": "100",
+        "raw_text": "Yes, they cost more, but they more than make up for it in speed, construction quality, and longevity."
+    },
+    {
+        "id": "1867",
+        "sent": "I think part of the problem with this computer is Vista, yet I know Vista isn't the entire issue because my latest purchase was my Acer and it also has Vista (I should have waited the few months to get the next $T$).",
+        "term": "operating system",
+        "label": 0,
+        "from": "211",
+        "to": "227",
+        "raw_text": "I think part of the problem with this computer is Vista, yet I know Vista isn't the entire issue because my latest purchase was my Acer and it also has Vista (I should have waited the few months to get the next operating system)."
+    },
+    {
+        "id": "676",
+        "sent": "super fast $T$ and really nice graphics card..",
+        "term": "processor",
+        "label": 1,
+        "from": "11",
+        "to": "20",
+        "raw_text": "super fast processor and really nice graphics card.."
+    },
+    {
+        "id": "2692",
+        "sent": "Laptop is advertised as a 15\" but the $T$ looks like that of a 17\".",
+        "term": "casing",
+        "label": -1,
+        "from": "38",
+        "to": "44",
+        "raw_text": "Laptop is advertised as a 15\" but the casing looks like that of a 17\"."
+    },
+    {
+        "id": "1412",
+        "sent": "I could save ten essay papers and have hardly any $T$ left.",
+        "term": "memory",
+        "label": -1,
+        "from": "50",
+        "to": "56",
+        "raw_text": "I could save ten essay papers and have hardly any memory left."
+    },
+    {
+        "id": "2225",
+        "sent": "I also enjoy the fact that my MacBook Pro laptop allows me to run Windows 7 on it by using the $T$.",
+        "term": "VMWare program",
+        "label": 0,
+        "from": "95",
+        "to": "109",
+        "raw_text": "I also enjoy the fact that my MacBook Pro laptop allows me to run Windows 7 on it by using the VMWare program."
+    },
+    {
+        "id": "2751",
+        "sent": "Good monitor and $T$ well.",
+        "term": "performed",
+        "label": 1,
+        "from": "17",
+        "to": "26",
+        "raw_text": "Good monitor and performed well."
+    },
+    {
+        "id": "648",
+        "sent": "Moral of the story:-Do not buy anything from $T$ that do not respect their customers.",
+        "term": "companies",
+        "label": -1,
+        "from": "45",
+        "to": "54",
+        "raw_text": "Moral of the story:-Do not buy anything from companies that do not respect their customers."
+    },
+    {
+        "id": "2350",
+        "sent": "I'm learning the finger options for the mousepad that allow for quicker $T$ of web pages.",
+        "term": "browsing",
+        "label": 1,
+        "from": "72",
+        "to": "80",
+        "raw_text": "I'm learning the finger options for the mousepad that allow for quicker browsing of web pages."
+    },
+    {
+        "id": "1742",
+        "sent": "$T$: I know 13 is small (especially for a desktop replacement) but with an external monitor, who cares.",
+        "term": "Size",
+        "label": -1,
+        "from": "0",
+        "to": "4",
+        "raw_text": "Size: I know 13 is small (especially for a desktop replacement) but with an external monitor, who cares."
+    },
+    {
+        "id": "1374",
+        "sent": "Also, if you need to talk to a $T$, there is a charge, which I believe is robbery, since you are charged enormous amounts for a very badly designed system, which most people would have went with XP if they could.",
+        "term": "representive at Microsoft",
+        "label": -1,
+        "from": "31",
+        "to": "56",
+        "raw_text": "Also, if you need to talk to a representive at Microsoft, there is a charge, which I believe is robbery, since you are charged enormous amounts for a very badly designed system, which most people would have went with XP if they could."
+    },
+    {
+        "id": "1401",
+        "sent": "so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful $T$ so in my opinion you should steer clear of them if you want a decent laptop.",
+        "term": "setup",
+        "label": -1,
+        "from": "131",
+        "to": "136",
+        "raw_text": "so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop."
+    },
+    {
+        "id": "653",
+        "sent": "It played various $T$ without problems and ran aero smoothly and flawlessly.",
+        "term": "games",
+        "label": 0,
+        "from": "18",
+        "to": "23",
+        "raw_text": "It played various games without problems and ran aero smoothly and flawlessly."
+    },
+    {
+        "id": "1731",
+        "sent": "Everything is so easy to use, $T$ is just so much simpler than Microsoft software.",
+        "term": "Mac software",
+        "label": 1,
+        "from": "30",
+        "to": "42",
+        "raw_text": "Everything is so easy to use, Mac software is just so much simpler than Microsoft software."
+    },
+    {
+        "id": "746",
+        "sent": "No, tey don't even support their own $T$ and it \"could be a problem with the bios\" How can a company that makes a fairly decent product get away with such insanity??!!",
+        "term": "bios",
+        "label": -1,
+        "from": "37",
+        "to": "41",
+        "raw_text": "No, tey don't even support their own bios and it \"could be a problem with the bios\" How can a company that makes a fairly decent product get away with such insanity??!!"
+    },
+    {
+        "id": "2508",
+        "sent": "PC users use the $T$ for slide-show presentation and Mac users utilize Keynote.",
+        "term": "Powerpoint program",
+        "label": 0,
+        "from": "17",
+        "to": "35",
+        "raw_text": "PC users use the Powerpoint program for slide-show presentation and Mac users utilize Keynote."
+    },
+    {
+        "id": "1140",
+        "sent": "To$T$ill indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them.",
+        "term": "Toshiba customer services",
+        "label": -1,
+        "from": "2",
+        "to": "27",
+        "raw_text": "Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them."
+    },
+    {
+        "id": "3041",
+        "sent": "$T$ - When compared to my 3 week old Early 2011 edition there I barely experience any difference in performance (2.3 GHz v/s 2.4 GHz).",
+        "term": "Processor",
+        "label": 0,
+        "from": "0",
+        "to": "9",
+        "raw_text": "Processor - When compared to my 3 week old Early 2011 edition there I barely experience any difference in performance (2.3 GHz v/s 2.4 GHz)."
+    },
+    {
+        "id": "515",
+        "sent": "They said that my computer was covered on an extended warranty, and that products with  $T$ are taken care of through third parties and not Sony itself anymore.",
+        "term": "extended warranties",
+        "label": 0,
+        "from": "88",
+        "to": "107",
+        "raw_text": "They said that my computer was covered on an extended warranty, and that products with  extended warranties are taken care of through third parties and not Sony itself anymore."
+    },
+    {
+        "id": "314",
+        "sent": "I like those programs better than $T$ and you can save your files to be completely compatible with the Office programs as well.",
+        "term": "Office",
+        "label": -1,
+        "from": "34",
+        "to": "40",
+        "raw_text": "I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well."
+    },
+    {
+        "id": "344",
+        "sent": "It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the $T$!",
+        "term": "keyboard",
+        "label": -1,
+        "from": "100",
+        "to": "108",
+        "raw_text": "It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!"
+    },
+    {
+        "id": "1068",
+        "sent": "I reloaded with $T$, and the Bluetooth and Fingerprint reader (software) would not load.",
+        "term": "Windows 7 Ultimate",
+        "label": -1,
+        "from": "16",
+        "to": "34",
+        "raw_text": "I reloaded with Windows 7 Ultimate, and the Bluetooth and Fingerprint reader (software) would not load."
+    },
+    {
+        "id": "2611",
+        "sent": "Apple is always great about the $T$ of things, they always come up with good looking products.",
+        "term": "aesthetics",
+        "label": 1,
+        "from": "32",
+        "to": "42",
+        "raw_text": "Apple is always great about the aesthetics of things, they always come up with good looking products."
+    },
+    {
+        "id": "2694",
+        "sent": "$T$ is good for the price.",
+        "term": "Peformance",
+        "label": 1,
+        "from": "0",
+        "to": "10",
+        "raw_text": "Peformance is good for the price."
+    },
+    {
+        "id": "2820",
+        "sent": "Fast, great $T$!",
+        "term": "visual",
+        "label": 1,
+        "from": "12",
+        "to": "18",
+        "raw_text": "Fast, great visual!"
+    },
+    {
+        "id": "948",
+        "sent": "The ca$T$ried and shocked my husband when he pulled it out of the socket.",
+        "term": "casing of the power cord",
+        "label": -1,
+        "from": "6",
+        "to": "30",
+        "raw_text": "The casing of the power cord fried and shocked my husband when he pulled it out of the socket."
+    },
+    {
+        "id": "2436",
+        "sent": "It also does not have $T$.",
+        "term": "bluetooth",
+        "label": -1,
+        "from": "22",
+        "to": "31",
+        "raw_text": "It also does not have bluetooth."
+    },
+    {
+        "id": "2909",
+        "sent": "Have had many higher $T$ computers crash and burn long before ever got to use all that great memory and speed, etc.",
+        "term": "priced",
+        "label": -1,
+        "from": "21",
+        "to": "27",
+        "raw_text": "Have had many higher priced computers crash and burn long before ever got to use all that great memory and speed, etc."
+    },
+    {
+        "id": "1740",
+        "sent": "The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this $T$ a lot better than any computer I've had in the past.",
+        "term": "performs",
+        "label": 1,
+        "from": "92",
+        "to": "100",
+        "raw_text": "The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this performs a lot better than any computer I've had in the past."
+    },
+    {
+        "id": "1569",
+        "sent": "lightweight, long $T$, excellent transition from PC;",
+        "term": "battery life",
+        "label": 1,
+        "from": "18",
+        "to": "30",
+        "raw_text": "lightweight, long battery life, excellent transition from PC;"
+    },
+    {
+        "id": "2221",
+        "sent": "Of course, I also have several great software packages that came for free including iWork, GarageBand, and $T$.",
+        "term": "iMovie",
+        "label": 1,
+        "from": "107",
+        "to": "113",
+        "raw_text": "Of course, I also have several great software packages that came for free including iWork, GarageBand, and iMovie."
+    },
+    {
+        "id": "1582",
+        "sent": "Crisp screen, great $T$, and plenty of storage.",
+        "term": "battery life",
+        "label": 1,
+        "from": "20",
+        "to": "32",
+        "raw_text": "Crisp screen, great battery life, and plenty of storage."
+    },
+    {
+        "id": "1947",
+        "sent": "I had 3 months when the $T$ started going out.",
+        "term": "ports",
+        "label": -1,
+        "from": "24",
+        "to": "29",
+        "raw_text": "I had 3 months when the ports started going out."
+    },
+    {
+        "id": "1739",
+        "sent": "$T$: very durable.",
+        "term": "Design",
+        "label": 1,
+        "from": "0",
+        "to": "6",
+        "raw_text": "Design: very durable."
+    },
+    {
+        "id": "2227",
+        "sent": "I also got the added bonus of a $T$, which really helps to extend my screen and keep my eyes fresh!",
+        "term": "30\" HD Monitor",
+        "label": 1,
+        "from": "32",
+        "to": "46",
+        "raw_text": "I also got the added bonus of a 30\" HD Monitor, which really helps to extend my screen and keep my eyes fresh!"
+    },
+    {
+        "id": "2413",
+        "sent": "The Mac takes about the same amount of $T$ as the average PC, but keeps itself cleaned up and ready to use.",
+        "term": "starting-up time",
+        "label": 1,
+        "from": "39",
+        "to": "55",
+        "raw_text": "The Mac takes about the same amount of starting-up time as the average PC, but keeps itself cleaned up and ready to use."
+    },
+    {
+        "id": "331",
+        "sent": "It has a 10 hour $T$ when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",
+        "term": "battery life",
+        "label": 1,
+        "from": "17",
+        "to": "29",
+        "raw_text": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours."
+    },
+    {
+        "id": "2174",
+        "sent": "Not to mention, the $T$ is absolutely amazing.",
+        "term": "battery life",
+        "label": 1,
+        "from": "20",
+        "to": "32",
+        "raw_text": "Not to mention, the battery life is absolutely amazing."
+    },
+    {
+        "id": "2214",
+        "sent": "The $T$ came with the computer and works beautifully.",
+        "term": "program",
+        "label": 1,
+        "from": "4",
+        "to": "11",
+        "raw_text": "The program came with the computer and works beautifully."
+    },
+    {
+        "id": "2080",
+        "sent": "Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional $T$ would appear when running Office Mac applications such as Word or Excel.",
+        "term": "spinning wheel",
+        "label": -1,
+        "from": "106",
+        "to": "120",
+        "raw_text": "Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel."
+    },
+    {
+        "id": "1749",
+        "sent": "Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to $T$.",
+        "term": "office",
+        "label": -1,
+        "from": "177",
+        "to": "183",
+        "raw_text": "Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office."
+    },
+    {
+        "id": "1953",
+        "sent": "My Toshiba did not have $T$ on everything, just certain things.",
+        "term": "sound",
+        "label": -1,
+        "from": "24",
+        "to": "29",
+        "raw_text": "My Toshiba did not have sound on everything, just certain things."
+    },
+    {
+        "id": "2084",
+        "sent": "If you want a little more custom ability, drop a few bucks and upgrade to one of the more robust versions of $T$ and grab a 2GB stick of memory to spice it all up a bit more.",
+        "term": "Win 7",
+        "label": 1,
+        "from": "109",
+        "to": "114",
+        "raw_text": "If you want a little more custom ability, drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more."
+    },
+    {
+        "id": "900",
+        "sent": "Then, within 5 months, the $T$ crapped out on me.",
+        "term": "charger",
+        "label": -1,
+        "from": "27",
+        "to": "34",
+        "raw_text": "Then, within 5 months, the charger crapped out on me."
+    },
+    {
+        "id": "1819",
+        "sent": "It didn't come with any software installed outside of $T$, but for the price, I was very pleased with the condition and the overall product.",
+        "term": "windows media",
+        "label": 0,
+        "from": "54",
+        "to": "67",
+        "raw_text": "It didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product."
+    },
+    {
+        "id": "2155",
+        "sent": "The $T$ gives you the power to work on these projects seamlessly, and multiple at a time if you sowish.",
+        "term": "speed",
+        "label": 1,
+        "from": "4",
+        "to": "9",
+        "raw_text": "The speed gives you the power to work on these projects seamlessly, and multiple at a time if you sowish."
+    },
+    {
+        "id": "2757",
+        "sent": "I also love the $T$, the looks, the feel, and the my toshiba feature is wonderfull.",
+        "term": "design",
+        "label": 1,
+        "from": "16",
+        "to": "22",
+        "raw_text": "I also love the design, the looks, the feel, and the my toshiba feature is wonderfull."
+    },
+    {
+        "id": "2507",
+        "sent": "PC users work in $T$, while Mac users work in Pages.",
+        "term": "Word",
+        "label": 0,
+        "from": "17",
+        "to": "21",
+        "raw_text": "PC users work in Word, while Mac users work in Pages."
+    },
+    {
+        "id": "2550",
+        "sent": "The OS is also very user friendly, even for those that switch from a PC, with a little practice you can take full advantage of this $T$!",
+        "term": "OS",
+        "label": 1,
+        "from": "132",
+        "to": "134",
+        "raw_text": "The OS is also very user friendly, even for those that switch from a PC, with a little practice you can take full advantage of this OS!"
+    },
+    {
+        "id": "566",
+        "sent": "pros:  the macbook pro notebook has a large $T$ and you wont have to worry to charge your laptop every five hours or so.",
+        "term": "battery life",
+        "label": 1,
+        "from": "44",
+        "to": "56",
+        "raw_text": "pros:  the macbook pro notebook has a large battery life and you wont have to worry to charge your laptop every five hours or so."
+    },
+    {
+        "id": "391",
+        "sent": "I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and $T$.",
+        "term": "CD burners",
+        "label": 1,
+        "from": "87",
+        "to": "97",
+        "raw_text": "I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners."
+    },
+    {
+        "id": "488",
+        "sent": "But we had paid for $T$, and there was none.",
+        "term": "bluetooth",
+        "label": -1,
+        "from": "20",
+        "to": "29",
+        "raw_text": "But we had paid for bluetooth, and there was none."
+    },
+    {
+        "id": "1052",
+        "sent": "The $T$ you have to press a little harder than most.",
+        "term": "buttons",
+        "label": -1,
+        "from": "4",
+        "to": "11",
+        "raw_text": "The buttons you have to press a little harder than most."
+    },
+    {
+        "id": "313",
+        "sent": "I also purchased iWork to go with it which has programs for word processing, spreadsheets, and $T$ (similar to Microsoft Office).",
+        "term": "presentations",
+        "label": 0,
+        "from": "95",
+        "to": "108",
+        "raw_text": "I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office)."
+    },
+    {
+        "id": "486",
+        "sent": "That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the $T$ and the Docking port.",
+        "term": "extended life battery",
+        "label": 0,
+        "from": "186",
+        "to": "207",
+        "raw_text": "That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port."
+    },
+    {
+        "id": "2697",
+        "sent": "I also had a problem with the touchpad that caused the mouse pointer to jump all over the $T$.",
+        "term": "screen",
+        "label": 0,
+        "from": "90",
+        "to": "96",
+        "raw_text": "I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen."
+    },
+    {
+        "id": "308",
+        "sent": "On my PowerBook G4 I would never use the $T$ I would use an external mouse because I didn't like the trackpad.",
+        "term": "trackpad",
+        "label": -1,
+        "from": "41",
+        "to": "49",
+        "raw_text": "On my PowerBook G4 I would never use the trackpad I would use an external mouse because I didn't like the trackpad."
+    },
+    {
+        "id": "1097",
+        "sent": "I actually had the h$T$replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",
+        "term": "hard drive",
+        "label": -1,
+        "from": "20",
+        "to": "30",
+        "raw_text": "I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!"
+    },
+    {
+        "id": "722",
+        "sent": "Other installed $T$, such as certain printer software, are also most attractive.",
+        "term": "features",
+        "label": 1,
+        "from": "16",
+        "to": "24",
+        "raw_text": "Other installed features, such as certain printer software, are also most attractive."
+    },
+    {
+        "id": "1986",
+        "sent": "I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the $T$.",
+        "term": "screen hinges",
+        "label": -1,
+        "from": "95",
+        "to": "108",
+        "raw_text": "I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the screen hinges."
+    },
+    {
+        "id": "2144",
+        "sent": "the $T$ is fine.",
+        "term": "speed",
+        "label": 1,
+        "from": "4",
+        "to": "9",
+        "raw_text": "the speed is fine."
+    },
+    {
+        "id": "3043",
+        "sent": "I always use a backup $T$ to store important files at all times.",
+        "term": "hard disk",
+        "label": 0,
+        "from": "22",
+        "to": "31",
+        "raw_text": "I always use a backup hard disk to store important files at all times."
+    },
+    {
+        "id": "697",
+        "sent": "The 13\" Macbook Pro just fits in my budget and with free $T$ and no tax to CA this is the best price we can get for a great product.",
+        "term": "shipping",
+        "label": 1,
+        "from": "57",
+        "to": "65",
+        "raw_text": "The 13\" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product."
+    },
+    {
+        "id": "496",
+        "sent": "Setting would change for some reason, the $T$ would change on it's own, like the pixel sizes and whatnot.",
+        "term": "screen size",
+        "label": -1,
+        "from": "42",
+        "to": "53",
+        "raw_text": "Setting would change for some reason, the screen size would change on it's own, like the pixel sizes and whatnot."
+    },
+    {
+        "id": "2304",
+        "sent": "it has 3 usb ports, 1 $T$ and an sd memory car expansion.",
+        "term": "sd memory card reader",
+        "label": 0,
+        "from": "22",
+        "to": "43",
+        "raw_text": "it has 3 usb ports, 1 sd memory card reader and an sd memory car expansion."
+    },
+    {
+        "id": "1441",
+        "sent": "STOPPED $T$ less than a week after my one-year warranty was up.",
+        "term": "BOOTING UP",
+        "label": -1,
+        "from": "8",
+        "to": "18",
+        "raw_text": "STOPPED BOOTING UP less than a week after my one-year warranty was up."
+    },
+    {
+        "id": "1112",
+        "sent": "Info: $T$ failed to load because the kernal is missing, or corrupt.",
+        "term": "Windows",
+        "label": -1,
+        "from": "6",
+        "to": "13",
+        "raw_text": "Info: Windows failed to load because the kernal is missing, or corrupt."
+    },
+    {
+        "id": "1432",
+        "sent": "I am constantly trying to uninstall $T$, clean cookies, and delete unused files.",
+        "term": "programs",
+        "label": 0,
+        "from": "36",
+        "to": "44",
+        "raw_text": "I am constantly trying to uninstall programs, clean cookies, and delete unused files."
+    },
+    {
+        "id": "1417",
+        "sent": "The bo$T$as a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues.",
+        "term": "board",
+        "label": -1,
+        "from": "6",
+        "to": "11",
+        "raw_text": "The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues."
+    },
+    {
+        "id": "561",
+        "sent": "this apple navigates you thru the unexplored world of the $T$.",
+        "term": "internet",
+        "label": 0,
+        "from": "58",
+        "to": "66",
+        "raw_text": "this apple navigates you thru the unexplored world of the internet."
+    },
+    {
+        "id": "312",
+        "sent": "The computer $T$ very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",
+        "term": "runs",
+        "label": 1,
+        "from": "13",
+        "to": "17",
+        "raw_text": "The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well."
+    },
+    {
+        "id": "1497",
+        "sent": "The PhotoBooth is a great program, it takes very good pictures with the $T$.",
+        "term": "built-in camera",
+        "label": 1,
+        "from": "72",
+        "to": "87",
+        "raw_text": "The PhotoBooth is a great program, it takes very good pictures with the built-in camera."
+    },
+    {
+        "id": "2677",
+        "sent": "As with any laptop not purchased with $T$, it comes with a lot of what I consider useless applications.",
+        "term": "software options",
+        "label": -1,
+        "from": "38",
+        "to": "54",
+        "raw_text": "As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications."
+    },
+    {
+        "id": "2928",
+        "sent": "That whole experience was just ridiculous we sent it in and after they told us that we had to pay $175 to fix it we were like we will just by a portable $T$ which would be way cheaper but they refused to send the laptop back until we paid the $175 and it was fixed.",
+        "term": "mouse",
+        "label": 1,
+        "from": "153",
+        "to": "158",
+        "raw_text": "That whole experience was just ridiculous we sent it in and after they told us that we had to pay $175 to fix it we were like we will just by a portable mouse which would be way cheaper but they refused to send the laptop back until we paid the $175 and it was fixed."
+    },
+    {
+        "id": "456",
+        "sent": "The neat and organized icon list is a welcome change from cluttered and confusing $T$.",
+        "term": "desktop icons",
+        "label": -1,
+        "from": "82",
+        "to": "95",
+        "raw_text": "The neat and organized icon list is a welcome change from cluttered and confusing desktop icons."
+    },
+    {
+        "id": "1216",
+        "sent": "Now the machine won't connect and Toshiba says that they did replace the $T$ in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.",
+        "term": "connection card",
+        "label": 0,
+        "from": "73",
+        "to": "88",
+        "raw_text": "Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook."
+    },
+    {
+        "id": "1483",
+        "sent": "The laptop is outstanding in all aspects except that it has the $T$ and not the full Windows 7.",
+        "term": "Windows 7 starter",
+        "label": -1,
+        "from": "64",
+        "to": "81",
+        "raw_text": "The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7."
+    },
+    {
+        "id": "2261",
+        "sent": "The $T$ (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!",
+        "term": "Apple applications",
+        "label": 1,
+        "from": "4",
+        "to": "22",
+        "raw_text": "The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!"
+    },
+    {
+        "id": "2690",
+        "sent": "I dislike the quality and the placement of the $T$.",
+        "term": "speakers",
+        "label": -1,
+        "from": "47",
+        "to": "55",
+        "raw_text": "I dislike the quality and the placement of the speakers."
+    },
+    {
+        "id": "2851",
+        "sent": "My first problem was with the $T$.",
+        "term": "pre-loaded Norton Firewall/Security program",
+        "label": -1,
+        "from": "30",
+        "to": "73",
+        "raw_text": "My first problem was with the pre-loaded Norton Firewall/Security program."
+    },
+    {
+        "id": "350",
+        "sent": "also the $T$ does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.",
+        "term": "keyboard",
+        "label": -1,
+        "from": "9",
+        "to": "17",
+        "raw_text": "also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard."
+    },
+    {
+        "id": "1924",
+        "sent": "In November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the $T$ and everything to an earlier working condition because when the update was installed it deleted my history.",
+        "term": "drivers",
+        "label": -1,
+        "from": "349",
+        "to": "356",
+        "raw_text": "In November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history."
+    },
+    {
+        "id": "2236",
+        "sent": "also you may need to $T$ it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it.",
+        "term": "charge",
+        "label": 0,
+        "from": "21",
+        "to": "27",
+        "raw_text": "also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it."
+    },
+    {
+        "id": "2541",
+        "sent": "the only fact i dont like about apples is they generally use safari and i dont use safari but after i install $T$ i love every single bit about it.",
+        "term": "Mozzilla firfox",
+        "label": 1,
+        "from": "110",
+        "to": "125",
+        "raw_text": "the only fact i dont like about apples is they generally use safari and i dont use safari but after i install Mozzilla firfox i love every single bit about it."
+    },
+    {
+        "id": "2675",
+        "sent": "I had static in the output, and I had to reduce the $T$ to \"FM\" as opposed to the default \"CD.",
+        "term": "sound output quality",
+        "label": -1,
+        "from": "52",
+        "to": "72",
+        "raw_text": "I had static in the output, and I had to reduce the sound output quality to \"FM\" as opposed to the default \"CD."
+    },
+    {
+        "id": "2626",
+        "sent": "The switchable graphic card is pretty sweet when you want $T$ on the laptop.",
+        "term": "gaming",
+        "label": 0,
+        "from": "58",
+        "to": "64",
+        "raw_text": "The switchable graphic card is pretty sweet when you want gaming on the laptop."
+    },
+    {
+        "id": "1080",
+        "sent": "Also, $T$ secures inside using rails, and there is only one set on the main hard drive.",
+        "term": "HDD",
+        "label": 1,
+        "from": "6",
+        "to": "9",
+        "raw_text": "Also, HDD secures inside using rails, and there is only one set on the main hard drive."
+    },
+    {
+        "id": "1657",
+        "sent": "Theres a $T$ with special effects- for video and photography.",
+        "term": "built in camera",
+        "label": 1,
+        "from": "9",
+        "to": "24",
+        "raw_text": "Theres a built in camera with special effects- for video and photography."
+    },
+    {
+        "id": "1418",
+        "sent": "Toshiba is aware of the issue but unless the ex$T$s bought Toshiba will do nothing about it.",
+        "term": "extended warrenty",
+        "label": -1,
+        "from": "47",
+        "to": "64",
+        "raw_text": "Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it."
+    },
+    {
+        "id": "2407",
+        "sent": "You can even run a parallels type program easily and run any leftover PC $T$ that you absolutely cannot be without.",
+        "term": "software",
+        "label": 1,
+        "from": "73",
+        "to": "81",
+        "raw_text": "You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without."
+    },
+    {
+        "id": "271",
+        "sent": "MacBook Notebooks quickly die out because of their short battery life, as well as the many background $T$ that run without the user's knowlede.",
+        "term": "programs",
+        "label": -1,
+        "from": "102",
+        "to": "110",
+        "raw_text": "MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede."
+    },
+    {
+        "id": "2622",
+        "sent": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will stay the same for the next year, and even if Apple does decides to change mode, your laptop $T$ will only drop 10-20%, unlike PC laptops which drop more than 80%.",
+        "term": "value",
+        "label": 1,
+        "from": "220",
+        "to": "225",
+        "raw_text": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will stay the same for the next year, and even if Apple does decides to change mode, your laptop value will only drop 10-20%, unlike PC laptops which drop more than 80%."
+    },
+    {
+        "id": "3056",
+        "sent": "The $T$ difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive.",
+        "term": "speed",
+        "label": -1,
+        "from": "4",
+        "to": "9",
+        "raw_text": "The speed difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive."
+    },
+    {
+        "id": "107",
+        "sent": "My laptop now has no $T$.",
+        "term": "battery",
+        "label": -1,
+        "from": "21",
+        "to": "28",
+        "raw_text": "My laptop now has no battery."
+    },
+    {
+        "id": "3046",
+        "sent": "So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at $T$.",
+        "term": "boot up",
+        "label": 0,
+        "from": "109",
+        "to": "116",
+        "raw_text": "So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up."
+    },
+    {
+        "id": "1417",
+        "sent": "The board has a bad connector with the po$T$nd shortly after warrenty expires the power supply will start having issues.",
+        "term": "power supply",
+        "label": -1,
+        "from": "41",
+        "to": "53",
+        "raw_text": "The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues."
+    },
+    {
+        "id": "2091",
+        "sent": "One drawback, I wish the $T$ were backlit.",
+        "term": "keys",
+        "label": -1,
+        "from": "25",
+        "to": "29",
+        "raw_text": "One drawback, I wish the keys were backlit."
+    },
+    {
+        "id": "23",
+        "sent": "The laptop is very lightweight, can easily $T$ around in a knapsack full of text books and it barely adds any weight.",
+        "term": "carry",
+        "label": 1,
+        "from": "43",
+        "to": "48",
+        "raw_text": "The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight."
+    },
+    {
+        "id": "2936",
+        "sent": "Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old $T$ which works good.",
+        "term": "word processer",
+        "label": 1,
+        "from": "240",
+        "to": "254",
+        "raw_text": "Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good."
+    },
+    {
+        "id": "2780",
+        "sent": "There is no number $T$ to the right of the keyboard which is a bummer.",
+        "term": "pad",
+        "label": -1,
+        "from": "19",
+        "to": "22",
+        "raw_text": "There is no number pad to the right of the keyboard which is a bummer."
+    },
+    {
+        "id": "2787",
+        "sent": "Overall the computer is very easy to use, the $T$ is perfect, great computer, my daughter loves.",
+        "term": "screen",
+        "label": 1,
+        "from": "46",
+        "to": "52",
+        "raw_text": "Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves."
+    },
+    {
+        "id": "2272",
+        "sent": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and $T$.",
+        "term": "Windows Server 2008 Enterprise",
+        "label": 0,
+        "from": "140",
+        "to": "170",
+        "raw_text": "We also use Paralles so we can run virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise."
+    },
+    {
+        "id": "2959",
+        "sent": "The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other $T$ with next to no slowdown.",
+        "term": "programs",
+        "label": 1,
+        "from": "75",
+        "to": "83",
+        "raw_text": "The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown."
+    },
+    {
+        "id": "1476",
+        "sent": "The image is great, and the $T$ is excelent.",
+        "term": "soud",
+        "label": 1,
+        "from": "28",
+        "to": "32",
+        "raw_text": "The image is great, and the soud is excelent."
+    },
+    {
+        "id": "1192",
+        "sent": "The other lock-up problems are from a myriad of causes, the most common being a corrupted version of Appleworks which can render the $T$ useless.",
+        "term": "browser",
+        "label": -1,
+        "from": "133",
+        "to": "140",
+        "raw_text": "The other lock-up problems are from a myriad of causes, the most common being a corrupted version of Appleworks which can render the browser useless."
+    },
+    {
+        "id": "2497",
+        "sent": "BUT there's this $T$ called Boot Camp which allows you to add another OS X like Windows.",
+        "term": "application",
+        "label": 0,
+        "from": "17",
+        "to": "28",
+        "raw_text": "BUT there's this application called Boot Camp which allows you to add another OS X like Windows."
+    },
+    {
+        "id": "811",
+        "sent": "COMPUTER HAS BEEN AT $T$ MORE THAN IN MY HANDS.",
+        "term": "SERVICE FACILITY",
+        "label": -1,
+        "from": "21",
+        "to": "37",
+        "raw_text": "COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS."
+    },
+    {
+        "id": "1008",
+        "sent": "Ive had to call $T$ many times.",
+        "term": "tech support",
+        "label": 0,
+        "from": "16",
+        "to": "28",
+        "raw_text": "Ive had to call tech support many times."
+    },
+    {
+        "id": "2846",
+        "sent": "It works great for general internet use, $T$, home bookkeeping, etc.",
+        "term": "Microsoft Office apps",
+        "label": 1,
+        "from": "41",
+        "to": "62",
+        "raw_text": "It works great for general internet use, Microsoft Office apps, home bookkeeping, etc."
+    },
+    {
+        "id": "1698",
+        "sent": "MY ONLY PROBLEM IS I CAN NOT REG. THE $T$.",
+        "term": "PRODUCT KEY",
+        "label": -1,
+        "from": "38",
+        "to": "49",
+        "raw_text": "MY ONLY PROBLEM IS I CAN NOT REG. THE PRODUCT KEY."
+    },
+    {
+        "id": "2124",
+        "sent": "Mostly I love the $T$.",
+        "term": "drag and drop feature",
+        "label": 1,
+        "from": "18",
+        "to": "39",
+        "raw_text": "Mostly I love the drag and drop feature."
+    },
+    {
+        "id": "1173",
+        "sent": "(No problem with the ordering or $T$ by the way.",
+        "term": "shipping",
+        "label": 1,
+        "from": "33",
+        "to": "41",
+        "raw_text": "(No problem with the ordering or shipping by the way."
+    },
+    {
+        "id": "240",
+        "sent": "$T$ is just so dang cool with this machine too.",
+        "term": "Skype",
+        "label": 1,
+        "from": "0",
+        "to": "5",
+        "raw_text": "Skype is just so dang cool with this machine too."
+    },
+    {
+        "id": "1794",
+        "sent": "I love the solid machined aluminum frame, and the $T$ is the best of any laptop I've used.",
+        "term": "keyboard",
+        "label": 1,
+        "from": "50",
+        "to": "58",
+        "raw_text": "I love the solid machined aluminum frame, and the keyboard is the best of any laptop I've used."
+    },
+    {
+        "id": "2305",
+        "sent": "the only down fall is that it has no $T$ but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have.",
+        "term": "cd drive",
+        "label": -1,
+        "from": "37",
+        "to": "45",
+        "raw_text": "the only down fall is that it has no cd drive but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have."
+    },
+    {
+        "id": "936",
+        "sent": "It is easy to use, fast and has great gr$T$or the money.",
+        "term": "graphics",
+        "label": 1,
+        "from": "40",
+        "to": "48",
+        "raw_text": "It is easy to use, fast and has great graphics for the money."
+    },
+    {
+        "id": "35",
+        "sent": "Once open, the $T$ is razor sharp.",
+        "term": "leading edge",
+        "label": -1,
+        "from": "15",
+        "to": "27",
+        "raw_text": "Once open, the leading edge is razor sharp."
+    },
+    {
+        "id": "313",
+        "sent": "I also purchased iWork to go with it which has programs for $T$, spreadsheets, and presentations (similar to Microsoft Office).",
+        "term": "word processing",
+        "label": 0,
+        "from": "60",
+        "to": "75",
+        "raw_text": "I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office)."
+    },
+    {
+        "id": "1406",
+        "sent": "Many of my classmates computers $T$ crashed.",
+        "term": "hard drives",
+        "label": -1,
+        "from": "32",
+        "to": "43",
+        "raw_text": "Many of my classmates computers hard drives crashed."
+    },
+    {
+        "id": "2231",
+        "sent": "you can find many laptops with the same $T$ and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac.",
+        "term": "performance",
+        "label": 0,
+        "from": "40",
+        "to": "51",
+        "raw_text": "you can find many laptops with the same performance and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac."
+    },
+    {
+        "id": "1960",
+        "sent": "All in all, a very disappointing experience except that I learned how good the Geek Squad is and also $T$.",
+        "term": "Customer Service",
+        "label": 1,
+        "from": "102",
+        "to": "118",
+        "raw_text": "All in all, a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service."
+    },
+    {
+        "id": "91",
+        "sent": "Later it held zero $T$ and its replacement worked for less than three months.",
+        "term": "charge",
+        "label": -1,
+        "from": "19",
+        "to": "25",
+        "raw_text": "Later it held zero charge and its replacement worked for less than three months."
+    },
+    {
+        "id": "2684",
+        "sent": "Good $T$.",
+        "term": "price",
+        "label": 1,
+        "from": "5",
+        "to": "10",
+        "raw_text": "Good price."
+    },
+    {
+        "id": "1543",
+        "sent": "I wiped nearly everything off of it, installed $T$ and Firefox, and I am operating an incredibly efficient and useful machine for a great price.",
+        "term": "OpenOffice",
+        "label": 0,
+        "from": "47",
+        "to": "57",
+        "raw_text": "I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price."
+    },
+    {
+        "id": "2106",
+        "sent": "It had most of the $T$ and all of the power that I wanted to replace my desktop machine.",
+        "term": "features",
+        "label": 1,
+        "from": "19",
+        "to": "27",
+        "raw_text": "It had most of the features and all of the power that I wanted to replace my desktop machine."
+    },
+    {
+        "id": "27",
+        "sent": "The ease of $T$ was terrific.",
+        "term": "set up",
+        "label": 1,
+        "from": "12",
+        "to": "18",
+        "raw_text": "The ease of set up was terrific."
+    },
+    {
+        "id": "2757",
+        "sent": "I also love the design, the $T$, the feel, and the my toshiba feature is wonderfull.",
+        "term": "looks",
+        "label": 1,
+        "from": "28",
+        "to": "33",
+        "raw_text": "I also love the design, the looks, the feel, and the my toshiba feature is wonderfull."
+    },
+    {
+        "id": "1796",
+        "sent": "Despite the claims of the Apple apologists (a vice of which I am recently myself reformed) the $T$ of Mac laptops are NO different from PCs' at this point.",
+        "term": "internals",
+        "label": -1,
+        "from": "95",
+        "to": "104",
+        "raw_text": "Despite the claims of the Apple apologists (a vice of which I am recently myself reformed) the internals of Mac laptops are NO different from PCs' at this point."
+    },
+    {
+        "id": "367",
+        "sent": "I am ADDICTED to $T$!",
+        "term": "photo booth",
+        "label": 1,
+        "from": "17",
+        "to": "28",
+        "raw_text": "I am ADDICTED to photo booth!"
+    },
+    {
+        "id": "2754",
+        "sent": "I recommend for word processing and $T$ users.",
+        "term": "internet",
+        "label": 1,
+        "from": "36",
+        "to": "44",
+        "raw_text": "I recommend for word processing and internet users."
+    },
+    {
+        "id": "848",
+        "sent": "How Toshiba handles the repair seems to vary, some folks  indicate that they were charged for even an intial fix, others had the  $T$ done 5 times.",
+        "term": "repair",
+        "label": 1,
+        "from": "130",
+        "to": "136",
+        "raw_text": "How Toshiba handles the repair seems to vary, some folks  indicate that they were charged for even an intial fix, others had the  repair done 5 times."
+    },
+    {
+        "id": "2677",
+        "sent": "As with any laptop not purchased with software options, it comes with a lot of what I consider useless $T$.",
+        "term": "applications",
+        "label": -1,
+        "from": "103",
+        "to": "115",
+        "raw_text": "As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications."
+    },
+    {
+        "id": "1817",
+        "sent": "Great value, fast $T$- Computer works as if brand new, no problems, very pleased",
+        "term": "delivery",
+        "label": 1,
+        "from": "18",
+        "to": "26",
+        "raw_text": "Great value, fast delivery- Computer works as if brand new, no problems, very pleased"
+    },
+    {
+        "id": "3060",
+        "sent": "I mainly use it for email, internet, and $T$ (pics, vids, etc.).",
+        "term": "managing personal files",
+        "label": 0,
+        "from": "41",
+        "to": "64",
+        "raw_text": "I mainly use it for email, internet, and managing personal files (pics, vids, etc.)."
+    },
+    {
+        "id": "2315",
+        "sent": "OS X is solid with lots of innovations such as $T$ which save heaps of time.",
+        "term": "quicklook",
+        "label": 1,
+        "from": "47",
+        "to": "56",
+        "raw_text": "OS X is solid with lots of innovations such as quicklook which save heaps of time."
+    },
+    {
+        "id": "714",
+        "sent": "I can't say enough of how satisfied I am with their $T$.",
+        "term": "product and help aftermarket",
+        "label": 1,
+        "from": "52",
+        "to": "80",
+        "raw_text": "I can't say enough of how satisfied I am with their product and help aftermarket."
+    },
+    {
+        "id": "406",
+        "sent": "HP is more interested in selling extended warranties (which $T$ more than the netbook new) then they are in helping or fixing.",
+        "term": "cost",
+        "label": -1,
+        "from": "60",
+        "to": "64",
+        "raw_text": "HP is more interested in selling extended warranties (which cost more than the netbook new) then they are in helping or fixing."
+    },
+    {
+        "id": "2306",
+        "sent": "overall i would recomend this to anybody and tell them that if they want to burn their music or play there $T$ to buy the cd drive.",
+        "term": "video games",
+        "label": 0,
+        "from": "107",
+        "to": "118",
+        "raw_text": "overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive."
+    },
+    {
+        "id": "331",
+        "sent": "It has a 10 hour battery life when you're doing $T$ and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",
+        "term": "web browsing",
+        "label": 0,
+        "from": "48",
+        "to": "60",
+        "raw_text": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours."
+    },
+    {
+        "id": "1226",
+        "sent": "I called their $T$ as was told they would send Me a new box to return the computer to the repair depot.",
+        "term": "repair depot",
+        "label": 0,
+        "from": "15",
+        "to": "27",
+        "raw_text": "I called their repair depot as was told they would send Me a new box to return the computer to the repair depot."
+    },
+    {
+        "id": "1379",
+        "sent": "Some problems can be fixed if you purchase new $T$, but there is no guarentee.",
+        "term": "software",
+        "label": -1,
+        "from": "47",
+        "to": "55",
+        "raw_text": "Some problems can be fixed if you purchase new software, but there is no guarentee."
+    },
+    {
+        "id": "668",
+        "sent": "the $T$ are great, the only thing it needs is better speakers.",
+        "term": "features",
+        "label": 1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "the features are great, the only thing it needs is better speakers."
+    },
+    {
+        "id": "2187",
+        "sent": "Compared to similarly spec'd PCs, this machine is good value, well $T$ and works easily right out of the box.",
+        "term": "built",
+        "label": 1,
+        "from": "67",
+        "to": "72",
+        "raw_text": "Compared to similarly spec'd PCs, this machine is good value, well built and works easily right out of the box."
+    },
+    {
+        "id": "102",
+        "sent": "The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other $T$.",
+        "term": "features",
+        "label": 1,
+        "from": "155",
+        "to": "163",
+        "raw_text": "The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features."
+    },
+    {
+        "id": "2534",
+        "sent": "But the machine is awesome and $T$ is great and I love Snow Leopard X.",
+        "term": "iLife",
+        "label": 1,
+        "from": "31",
+        "to": "36",
+        "raw_text": "But the machine is awesome and iLife is great and I love Snow Leopard X."
+    },
+    {
+        "id": "2132",
+        "sent": "The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the $T$.",
+        "term": "keyboard",
+        "label": 0,
+        "from": "93",
+        "to": "101",
+        "raw_text": "The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the keyboard."
+    },
+    {
+        "id": "810",
+        "sent": "YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN $T$ IS OUT OF COUNTRY.",
+        "term": "WARRANTY SERVICE",
+        "label": -1,
+        "from": "44",
+        "to": "60",
+        "raw_text": "YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY."
+    },
+    {
+        "id": "486",
+        "sent": "That included the extra Sony Sonic Stage software, the speakers and the $T$ I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",
+        "term": "subwoofer",
+        "label": 1,
+        "from": "72",
+        "to": "81",
+        "raw_text": "That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port."
+    },
+    {
+        "id": "2481",
+        "sent": "It is so nice not to worry about that and the extra expense that comes along with the necessary $T$ on PC's.",
+        "term": "virus protection",
+        "label": 1,
+        "from": "96",
+        "to": "112",
+        "raw_text": "It is so nice not to worry about that and the extra expense that comes along with the necessary virus protection on PC's."
+    },
+    {
+        "id": "915",
+        "sent": "A month or so ago, the freaking $T$ just died.",
+        "term": "motherboard",
+        "label": -1,
+        "from": "32",
+        "to": "43",
+        "raw_text": "A month or so ago, the freaking motherboard just died."
+    },
+    {
+        "id": "1669",
+        "sent": "It's like $T$, but if you can look past it, it's GREAT!",
+        "term": "9 punds",
+        "label": -1,
+        "from": "10",
+        "to": "17",
+        "raw_text": "It's like 9 punds, but if you can look past it, it's GREAT!"
+    },
+    {
+        "id": "777",
+        "sent": "HOW DOES THE $T$ NOT WORK!!!",
+        "term": "POWER SUPPLY",
+        "label": -1,
+        "from": "13",
+        "to": "25",
+        "raw_text": "HOW DOES THE POWER SUPPLY NOT WORK!!!"
+    },
+    {
+        "id": "2594",
+        "sent": "It made the computer much easier to $T$ and navigate.",
+        "term": "use",
+        "label": 1,
+        "from": "36",
+        "to": "39",
+        "raw_text": "It made the computer much easier to use and navigate."
+    },
+    {
+        "id": "2644",
+        "sent": "It's so much easier to navigate through the operating system, to find files, and it $T$ a lot faster!",
+        "term": "runs",
+        "label": 1,
+        "from": "84",
+        "to": "88",
+        "raw_text": "It's so much easier to navigate through the operating system, to find files, and it runs a lot faster!"
+    },
+    {
+        "id": "2653",
+        "sent": "The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable $T$ (the edges hurt my wrists).",
+        "term": "edge",
+        "label": -1,
+        "from": "119",
+        "to": "123",
+        "raw_text": "The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists)."
+    },
+    {
+        "id": "582",
+        "sent": "The $T$ has never failed me, and I expect it to be the same for this computer as well.",
+        "term": "apple care",
+        "label": 1,
+        "from": "4",
+        "to": "14",
+        "raw_text": "The apple care has never failed me, and I expect it to be the same for this computer as well."
+    },
+    {
+        "id": "1691",
+        "sent": "The paint wears off easily due to the $T$ being farther back than usual.",
+        "term": "keyboard",
+        "label": -1,
+        "from": "38",
+        "to": "46",
+        "raw_text": "The paint wears off easily due to the keyboard being farther back than usual."
+    },
+    {
+        "id": "2561",
+        "sent": "I wish $T$ or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",
+        "term": "iWork",
+        "label": -1,
+        "from": "7",
+        "to": "12",
+        "raw_text": "I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops."
+    },
+    {
+        "id": "1933",
+        "sent": "I got it back again and was told the $T$ had been replaced, so I was now on the SECOND motherboard within 3 months.",
+        "term": "motherboard",
+        "label": -1,
+        "from": "37",
+        "to": "48",
+        "raw_text": "I got it back again and was told the motherboard had been replaced, so I was now on the SECOND motherboard within 3 months."
+    },
+    {
+        "id": "1926",
+        "sent": "Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my $T$ and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English.",
+        "term": "Warrenty",
+        "label": 0,
+        "from": "136",
+        "to": "144",
+        "raw_text": "Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my Warrenty and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English."
+    },
+    {
+        "id": "469",
+        "sent": "I gave it to my daughter because I just hated the screen, hated that it had no $T$ to at least play cd's when I wanted to listen to music and do schoolwork.",
+        "term": "cd drive",
+        "label": -1,
+        "from": "79",
+        "to": "87",
+        "raw_text": "I gave it to my daughter because I just hated the screen, hated that it had no cd drive to at least play cd's when I wanted to listen to music and do schoolwork."
+    },
+    {
+        "id": "138",
+        "sent": "only good thing is the $T$.",
+        "term": "graphics quality",
+        "label": 1,
+        "from": "23",
+        "to": "39",
+        "raw_text": "only good thing is the graphics quality."
+    },
+    {
+        "id": "259",
+        "sent": "They break down just as often as PCs do, and the only reason they don't get viruses, is because no one makes viruses for them, they're not better in any way, they are worse, try finding $T$, they don't exist.",
+        "term": "virus protection programs for a Mac",
+        "label": -1,
+        "from": "186",
+        "to": "221",
+        "raw_text": "They break down just as often as PCs do, and the only reason they don't get viruses, is because no one makes viruses for them, they're not better in any way, they are worse, try finding virus protection programs for a Mac, they don't exist."
+    },
+    {
+        "id": "1417",
+        "sent": "The board has a bad co$T$ith the power supply and shortly after warrenty expires the power supply will start having issues.",
+        "term": "connector",
+        "label": -1,
+        "from": "22",
+        "to": "31",
+        "raw_text": "The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues."
+    },
+    {
+        "id": "1616",
+        "sent": "It was super easy to $T$ and Is really easy to get used to.",
+        "term": "set up",
+        "label": 1,
+        "from": "21",
+        "to": "27",
+        "raw_text": "It was super easy to set up and Is really easy to get used to."
+    },
+    {
+        "id": "2807",
+        "sent": "the $T$ and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+        "term": "headphone",
+        "label": -1,
+        "from": "4",
+        "to": "13",
+        "raw_text": "the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person."
+    },
+    {
+        "id": "973",
+        "sent": "With what I do know how to do, the computer $T$ beautiful.",
+        "term": "works",
+        "label": 1,
+        "from": "44",
+        "to": "49",
+        "raw_text": "With what I do know how to do, the computer works beautiful."
+    },
+    {
+        "id": "1733",
+        "sent": "$T$ being the main issue.",
+        "term": "Games",
+        "label": -1,
+        "from": "0",
+        "to": "5",
+        "raw_text": "Games being the main issue."
+    },
+    {
+        "id": "904",
+        "sent": "THEN, one month after the $T$ expired, the replacement charger went.",
+        "term": "warranty",
+        "label": 0,
+        "from": "26",
+        "to": "34",
+        "raw_text": "THEN, one month after the warranty expired, the replacement charger went."
+    },
+    {
+        "id": "655",
+        "sent": "It was truly a great computer $T$ less than one thousand bucks before tax.",
+        "term": "costing",
+        "label": 1,
+        "from": "30",
+        "to": "37",
+        "raw_text": "It was truly a great computer costing less than one thousand bucks before tax."
+    },
+    {
+        "id": "3057",
+        "sent": "cosmetically, the only thing they changed was 2 of the $T$ at the top.",
+        "term": "Function keys",
+        "label": 0,
+        "from": "55",
+        "to": "68",
+        "raw_text": "cosmetically, the only thing they changed was 2 of the Function keys at the top."
+    },
+    {
+        "id": "1378",
+        "sent": "$T$ also shuts the computer down for no reason without warning.",
+        "term": "Windows",
+        "label": -1,
+        "from": "0",
+        "to": "7",
+        "raw_text": "Windows also shuts the computer down for no reason without warning."
+    },
+    {
+        "id": "394",
+        "sent": "The $T$, keyboard and mouse arrived in two days from Memphis warehouse.",
+        "term": "leather carrying case",
+        "label": 0,
+        "from": "4",
+        "to": "25",
+        "raw_text": "The leather carrying case, keyboard and mouse arrived in two days from Memphis warehouse."
+    },
+    {
+        "id": "2311",
+        "sent": "The $T$ holds up well, it's built very solidly, and runs fast.",
+        "term": "battery",
+        "label": 1,
+        "from": "4",
+        "to": "11",
+        "raw_text": "The battery holds up well, it's built very solidly, and runs fast."
+    },
+    {
+        "id": "1097",
+        "sent": "I actually had the hard drive replaced twice, the mother board once, the d$T$twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",
+        "term": "dvd drive",
+        "label": -1,
+        "from": "74",
+        "to": "83",
+        "raw_text": "I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!"
+    },
+    {
+        "id": "2792",
+        "sent": "The only thing I don't understand is that the $T$ isn't high enough for some pages, such as Yahoo!Mail.",
+        "term": "resolution of the screen",
+        "label": -1,
+        "from": "46",
+        "to": "70",
+        "raw_text": "The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail."
+    },
+    {
+        "id": "2969",
+        "sent": "The laptop was very easy to $T$.",
+        "term": "set up",
+        "label": 1,
+        "from": "28",
+        "to": "34",
+        "raw_text": "The laptop was very easy to set up."
+    },
+    {
+        "id": "983",
+        "sent": "Disappointing for such a lovely screen and at a reasonable $T$",
+        "term": "price",
+        "label": 1,
+        "from": "59",
+        "to": "64",
+        "raw_text": "Disappointing for such a lovely screen and at a reasonable price"
+    },
+    {
+        "id": "3058",
+        "sent": "they improved nothing else such as $T$, appearance, cooling system, graphics card, etc.",
+        "term": "Resolution",
+        "label": -1,
+        "from": "35",
+        "to": "45",
+        "raw_text": "they improved nothing else such as Resolution, appearance, cooling system, graphics card, etc."
+    },
+    {
+        "id": "2267",
+        "sent": "As a computer science student in college, I find that the $T$, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",
+        "term": "portability",
+        "label": 1,
+        "from": "58",
+        "to": "69",
+        "raw_text": "As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;"
+    },
+    {
+        "id": "2995",
+        "sent": "The $T$ that turns the volume up and down doesn't work in real time.",
+        "term": "wheel",
+        "label": -1,
+        "from": "4",
+        "to": "9",
+        "raw_text": "The wheel that turns the volume up and down doesn't work in real time."
+    },
+    {
+        "id": "1887",
+        "sent": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and $T$ inoperative.",
+        "term": "USB ports",
+        "label": -1,
+        "from": "157",
+        "to": "166",
+        "raw_text": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and USB ports inoperative."
+    },
+    {
+        "id": "2980",
+        "sent": "I can barely use any $T$ because they will not stay connected properly.",
+        "term": "usb devices",
+        "label": -1,
+        "from": "21",
+        "to": "32",
+        "raw_text": "I can barely use any usb devices because they will not stay connected properly."
+    },
+    {
+        "id": "2393",
+        "sent": "I love the size, keyboard, the $T$.",
+        "term": "functions",
+        "label": 1,
+        "from": "31",
+        "to": "40",
+        "raw_text": "I love the size, keyboard, the functions."
+    },
+    {
+        "id": "2813",
+        "sent": "$T$ is upgradable.",
+        "term": "Memory",
+        "label": 1,
+        "from": "0",
+        "to": "6",
+        "raw_text": "Memory is upgradable."
+    },
+    {
+        "id": "2863",
+        "sent": "The $T$ and features more than met my needs.",
+        "term": "price",
+        "label": 1,
+        "from": "4",
+        "to": "9",
+        "raw_text": "The price and features more than met my needs."
+    },
+    {
+        "id": "2213",
+        "sent": "I use $T$ all the time, which is a great program for anyone who is into photography - amateurs and experts alike.",
+        "term": "iphoto",
+        "label": 1,
+        "from": "6",
+        "to": "12",
+        "raw_text": "I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike."
+    },
+    {
+        "id": "2346",
+        "sent": "I'm already hooked on the sleek $T$ and dependability that this laptop has shown.",
+        "term": "look",
+        "label": 1,
+        "from": "32",
+        "to": "36",
+        "raw_text": "I'm already hooked on the sleek look and dependability that this laptop has shown."
+    },
+    {
+        "id": "745",
+        "sent": "Called tech support and got the usual Acer \"We don't support software but for $$$ we can help you\" I explained there was no $T$ involved in booting.",
+        "term": "software",
+        "label": -1,
+        "from": "124",
+        "to": "132",
+        "raw_text": "Called tech support and got the usual Acer \"We don't support software but for $$$ we can help you\" I explained there was no software involved in booting."
+    },
+    {
+        "id": "1602",
+        "sent": "If you don't feel comfortable doing it yourself, just buy the $T$ and be happy, plus it looks nice, I bought the white one from Best Buy.",
+        "term": "case",
+        "label": 1,
+        "from": "62",
+        "to": "66",
+        "raw_text": "If you don't feel comfortable doing it yourself, just buy the case and be happy, plus it looks nice, I bought the white one from Best Buy."
+    },
+    {
+        "id": "1689",
+        "sent": "It is good to know that I can mobilize without having to worry about the $T$.",
+        "term": "battery life",
+        "label": 1,
+        "from": "73",
+        "to": "85",
+        "raw_text": "It is good to know that I can mobilize without having to worry about the battery life."
+    },
+    {
+        "id": "1601",
+        "sent": "I have in the past gotten superfine sandpaper and \"fixed\" the $T$ by rounding them off.",
+        "term": "edges",
+        "label": -1,
+        "from": "62",
+        "to": "67",
+        "raw_text": "I have in the past gotten superfine sandpaper and \"fixed\" the edges by rounding them off."
+    },
+    {
+        "id": "2809",
+        "sent": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required $T$ less obtrusive i will be looking to different manufacturer next time.",
+        "term": "connections",
+        "label": -1,
+        "from": "125",
+        "to": "136",
+        "raw_text": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time."
+    },
+    {
+        "id": "25",
+        "sent": "$T$ is terrific (no you can't change the background) but I don't need to, I use it just for school work.",
+        "term": "Windows 7 Starter",
+        "label": 1,
+        "from": "0",
+        "to": "17",
+        "raw_text": "Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work."
+    },
+    {
+        "id": "277",
+        "sent": "The $T$ was locekd and froze every time it was trying to be used, and the command prompt would not work at all.",
+        "term": "internet",
+        "label": -1,
+        "from": "4",
+        "to": "12",
+        "raw_text": "The internet was locekd and froze every time it was trying to be used, and the command prompt would not work at all."
+    },
+    {
+        "id": "745",
+        "sent": "Called tech support and got the usual Acer \"We don't support $T$ but for $$$ we can help you\" I explained there was no software involved in booting.",
+        "term": "software",
+        "label": -1,
+        "from": "61",
+        "to": "69",
+        "raw_text": "Called tech support and got the usual Acer \"We don't support software but for $$$ we can help you\" I explained there was no software involved in booting."
+    },
+    {
+        "id": "331",
+        "sent": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of $T$ and movie playing it'll have a battery life of just over 5 hours.",
+        "term": "gaming",
+        "label": 0,
+        "from": "142",
+        "to": "148",
+        "raw_text": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours."
+    },
+    {
+        "id": "2377",
+        "sent": "The $T$ is the only thing that is iffy about it but im sure once they unpdate the next version on the macbook book the quality of it will be better.",
+        "term": "video chat",
+        "label": -1,
+        "from": "4",
+        "to": "14",
+        "raw_text": "The video chat is the only thing that is iffy about it but im sure once they unpdate the next version on the macbook book the quality of it will be better."
+    },
+    {
+        "id": "2173",
+        "sent": "With all the programs that came with it, such as $T$ and iWork, I was set from the very beginning.",
+        "term": "iLife",
+        "label": 0,
+        "from": "49",
+        "to": "54",
+        "raw_text": "With all the programs that came with it, such as iLife and iWork, I was set from the very beginning."
+    },
+    {
+        "id": "36",
+        "sent": "This is the complete opposite to an ergonomic $T$.",
+        "term": "design",
+        "label": -1,
+        "from": "46",
+        "to": "52",
+        "raw_text": "This is the complete opposite to an ergonomic design."
+    },
+    {
+        "id": "2451",
+        "sent": "Im glad that it has such great $T$ in it.",
+        "term": "features",
+        "label": 1,
+        "from": "31",
+        "to": "39",
+        "raw_text": "Im glad that it has such great features in it."
+    },
+    {
+        "id": "1716",
+        "sent": "There was a little difficulty doing the migration as the $T$ can't be used with the iBook.",
+        "term": "firewire cable system",
+        "label": -1,
+        "from": "57",
+        "to": "78",
+        "raw_text": "There was a little difficulty doing the migration as the firewire cable system can't be used with the iBook."
+    },
+    {
+        "id": "2347",
+        "sent": "Being a PC user my whole life, it's taking a bit of time to adapt to the $T$ of a Mac but I'm finding my way around.",
+        "term": "OS",
+        "label": 0,
+        "from": "73",
+        "to": "75",
+        "raw_text": "Being a PC user my whole life, it's taking a bit of time to adapt to the OS of a Mac but I'm finding my way around."
+    },
+    {
+        "id": "285",
+        "sent": "It doesnt $T$ worth a damn.",
+        "term": "work",
+        "label": -1,
+        "from": "10",
+        "to": "14",
+        "raw_text": "It doesnt work worth a damn."
+    },
+    {
+        "id": "505",
+        "sent": "They sent out the box right away for me to send in my computer, they paid postage and whatnot, but when I got my computer back it still wasn't running right, and now my $T$ wasn't reading anything!",
+        "term": "CD drive",
+        "label": -1,
+        "from": "169",
+        "to": "177",
+        "raw_text": "They sent out the box right away for me to send in my computer, they paid postage and whatnot, but when I got my computer back it still wasn't running right, and now my CD drive wasn't reading anything!"
+    },
+    {
+        "id": "581",
+        "sent": "I do transcription work on the side, and the $T$ makes typing quick and easy as well.",
+        "term": "flatline keyboard",
+        "label": 1,
+        "from": "45",
+        "to": "62",
+        "raw_text": "I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well."
+    },
+    {
+        "id": "2548",
+        "sent": "The $T$ to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!",
+        "term": "track pad",
+        "label": 1,
+        "from": "4",
+        "to": "13",
+        "raw_text": "The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!"
+    },
+    {
+        "id": "822",
+        "sent": "Also, I have had alot of trouble with the sh$T$o go to other lines.",
+        "term": "shift key",
+        "label": -1,
+        "from": "44",
+        "to": "53",
+        "raw_text": "Also, I have had alot of trouble with the shift key to go to other lines."
+    },
+    {
+        "id": "2541",
+        "sent": "the only fact i dont like about apples is they generally use safari and i dont use $T$ but after i install Mozzilla firfox i love every single bit about it.",
+        "term": "safari",
+        "label": -1,
+        "from": "83",
+        "to": "89",
+        "raw_text": "the only fact i dont like about apples is they generally use safari and i dont use safari but after i install Mozzilla firfox i love every single bit about it."
+    },
+    {
+        "id": "2188",
+        "sent": "I would recommend this computer to anyone searching for the perfect laptop, and the $T$ is amazing.",
+        "term": "battery life",
+        "label": 1,
+        "from": "84",
+        "to": "96",
+        "raw_text": "I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing."
+    },
+    {
+        "id": "1696",
+        "sent": "The $T$ is perfect and I do not recomend anything bigger except for any person who can exceed the limited space it gives you.",
+        "term": "size",
+        "label": 1,
+        "from": "4",
+        "to": "8",
+        "raw_text": "The size is perfect and I do not recomend anything bigger except for any person who can exceed the limited space it gives you."
+    },
+    {
+        "id": "2622",
+        "sent": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the $T$ will stay the same for the next year, and even if Apple does decides to change mode, your laptop value will only drop 10-20%, unlike PC laptops which drop more than 80%.",
+        "term": "price",
+        "label": 1,
+        "from": "117",
+        "to": "122",
+        "raw_text": "Reason why? It's because when you buy it, you know first thing that you will not lose any value for that laptop, the price will stay the same for the next year, and even if Apple does decides to change mode, your laptop value will only drop 10-20%, unlike PC laptops which drop more than 80%."
+    },
+    {
+        "id": "2532",
+        "sent": "The only downfall is a lot of the software I have won't work with Mac and $T$ is not worth the price of it.",
+        "term": "iWork",
+        "label": -1,
+        "from": "74",
+        "to": "79",
+        "raw_text": "The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it."
+    },
+    {
+        "id": "2674",
+        "sent": "One drawback I noticed was $T$.",
+        "term": "sound quality via USB",
+        "label": -1,
+        "from": "27",
+        "to": "48",
+        "raw_text": "One drawback I noticed was sound quality via USB."
+    },
+    {
+        "id": "1528",
+        "sent": "I have had to call with a few questions or issues and they have helped me for free, even without the $T$.",
+        "term": "warranty",
+        "label": 0,
+        "from": "101",
+        "to": "109",
+        "raw_text": "I have had to call with a few questions or issues and they have helped me for free, even without the warranty."
+    },
+    {
+        "id": "1878",
+        "sent": "1.You can not change your desktop background (window's 7 starter does NOT support that $T$).",
+        "term": "function",
+        "label": -1,
+        "from": "87",
+        "to": "95",
+        "raw_text": "1.You can not change your desktop background (window's 7 starter does NOT support that function)."
+    },
+    {
+        "id": "2645",
+        "sent": "I don't have stupid $T$ (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",
+        "term": "pop up windows",
+        "label": 1,
+        "from": "20",
+        "to": "34",
+        "raw_text": "I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down."
+    },
+    {
+        "id": "2506",
+        "sent": "I was originally concerned that I couldn't view work I had done in college on my Mac because of the PC formatting, but I was even more thrilled to learn of programs like $T$ and iWork that allow you to convert your PC documents into readable files on Macs.",
+        "term": "iLife",
+        "label": 1,
+        "from": "170",
+        "to": "175",
+        "raw_text": "I was originally concerned that I couldn't view work I had done in college on my Mac because of the PC formatting, but I was even more thrilled to learn of programs like iLife and iWork that allow you to convert your PC documents into readable files on Macs."
+    },
+    {
+        "id": "400",
+        "sent": "The quality, $T$ and warranty are superior--covers damage from dropping the laptop.",
+        "term": "engineering design",
+        "label": 1,
+        "from": "13",
+        "to": "31",
+        "raw_text": "The quality, engineering design and warranty are superior--covers damage from dropping the laptop."
+    },
+    {
+        "id": "2867",
+        "sent": "It has easy to use features and all the $T$ and power I could ask for.",
+        "term": "speed",
+        "label": 1,
+        "from": "40",
+        "to": "45",
+        "raw_text": "It has easy to use features and all the speed and power I could ask for."
+    },
+    {
+        "id": "453",
+        "sent": "There are several programs for $T$ (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.",
+        "term": "school or office use",
+        "label": 0,
+        "from": "31",
+        "to": "51",
+        "raw_text": "There are several programs for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc."
+    },
+    {
+        "id": "3046",
+        "sent": "So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the $T$ at boot up.",
+        "term": "fan",
+        "label": 0,
+        "from": "102",
+        "to": "105",
+        "raw_text": "So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up."
+    },
+    {
+        "id": "918",
+        "sent": "THE M$T$IS DEAD !",
+        "term": "MOTHERBOARD",
+        "label": -1,
+        "from": "5",
+        "to": "16",
+        "raw_text": "THE MOTHERBOARD IS DEAD !"
+    },
+    {
+        "id": "858",
+        "sent": "I would  rather spend my money on a computer that co$T$ore then a Toshiba that  isn't good at all.",
+        "term": "costs",
+        "label": -1,
+        "from": "52",
+        "to": "57",
+        "raw_text": "I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all."
+    },
+    {
+        "id": "2518",
+        "sent": "I purchased a Toshiba Satellite M60 (with harman/kardon $T$!) in December of 2005.",
+        "term": "speakers",
+        "label": 1,
+        "from": "56",
+        "to": "64",
+        "raw_text": "I purchased a Toshiba Satellite M60 (with harman/kardon speakers!) in December of 2005."
+    },
+    {
+        "id": "2990",
+        "sent": "Right size and weight for $T$.",
+        "term": "portability",
+        "label": 1,
+        "from": "26",
+        "to": "37",
+        "raw_text": "Right size and weight for portability."
+    },
+    {
+        "id": "1413",
+        "sent": "Also, because of the size and $T$ of the laptop computer, some websites wouldn't even attempt to work on the computer because of browser problems.",
+        "term": "consistancy",
+        "label": -1,
+        "from": "30",
+        "to": "41",
+        "raw_text": "Also, because of the size and consistancy of the laptop computer, some websites wouldn't even attempt to work on the computer because of browser problems."
+    },
+    {
+        "id": "1310",
+        "sent": "Even doing so, the $T$ may just be slightly tightened only.",
+        "term": "hinge",
+        "label": 0,
+        "from": "19",
+        "to": "24",
+        "raw_text": "Even doing so, the hinge may just be slightly tightened only."
+    },
+    {
+        "id": "153",
+        "sent": "The $T$ is huge and coloful, but no LED backlighting.",
+        "term": "screen",
+        "label": 1,
+        "from": "4",
+        "to": "10",
+        "raw_text": "The screen is huge and coloful, but no LED backlighting."
+    },
+    {
+        "id": "592",
+        "sent": "My power supply cord developed exposed wires within the first year of ownership, so it was covered by the $T$.",
+        "term": "Applecare warranty plan",
+        "label": 1,
+        "from": "106",
+        "to": "129",
+        "raw_text": "My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan."
+    },
+    {
+        "id": "2680",
+        "sent": "Again, decent comp for the $T$, and I was in need of one quickly as my other laptop died on me.",
+        "term": "price",
+        "label": 1,
+        "from": "27",
+        "to": "32",
+        "raw_text": "Again, decent comp for the price, and I was in need of one quickly as my other laptop died on me."
+    },
+    {
+        "id": "2679",
+        "sent": "Also consider the $T$ are all trial versions, hope you have your own copies.",
+        "term": "MS Office apps",
+        "label": -1,
+        "from": "18",
+        "to": "32",
+        "raw_text": "Also consider the MS Office apps are all trial versions, hope you have your own copies."
+    },
+    {
+        "id": "1152",
+        "sent": "Then the $T$ failed;",
+        "term": "hard drive",
+        "label": -1,
+        "from": "9",
+        "to": "19",
+        "raw_text": "Then the hard drive failed;"
+    },
+    {
+        "id": "2333",
+        "sent": "Obviously one of the most important features of any computer is the \"$T$.",
+        "term": "human interface",
+        "label": 0,
+        "from": "69",
+        "to": "84",
+        "raw_text": "Obviously one of the most important features of any computer is the \"human interface."
+    },
+    {
+        "id": "1986",
+        "sent": "I had to re-install $T$ within two weeks of the purchase and soon discovered cracks in the screen hinges.",
+        "term": "Windows",
+        "label": -1,
+        "from": "20",
+        "to": "27",
+        "raw_text": "I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the screen hinges."
+    },
+    {
+        "id": "2605",
+        "sent": "The brand of $T$ has just become ingrained in our lexicon now, but keep in mind that Apple started it all.",
+        "term": "iTunes",
+        "label": 1,
+        "from": "13",
+        "to": "19",
+        "raw_text": "The brand of iTunes has just become ingrained in our lexicon now, but keep in mind that Apple started it all."
+    },
+    {
+        "id": "237",
+        "sent": "I had my IWORKS, $T$, Email, MS Office, network and printers set up and completely working perfectly within an hour.",
+        "term": "Itunes",
+        "label": 1,
+        "from": "17",
+        "to": "23",
+        "raw_text": "I had my IWORKS, Itunes, Email, MS Office, network and printers set up and completely working perfectly within an hour."
+    },
+    {
+        "id": "1258",
+        "sent": "It seemed to be a very nice laptop except I was not able to load my $T$ or Microsoft Office 2003.",
+        "term": "Garmin GPS software",
+        "label": -1,
+        "from": "68",
+        "to": "87",
+        "raw_text": "It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003."
+    },
+    {
+        "id": "1398",
+        "sent": "although its $T$ compared to windows xp sucks.",
+        "term": "windows vista",
+        "label": -1,
+        "from": "13",
+        "to": "26",
+        "raw_text": "although its windows vista compared to windows xp sucks."
+    },
+    {
+        "id": "1079",
+        "sent": "Second $T$ has walls inside that need to be broken if you what to install one.",
+        "term": "HDD cover",
+        "label": 0,
+        "from": "7",
+        "to": "16",
+        "raw_text": "Second HDD cover has walls inside that need to be broken if you what to install one."
+    },
+    {
+        "id": "577",
+        "sent": "It gives me the power and speed that I need to run all the $T$ I use to edit.",
+        "term": "programs",
+        "label": 0,
+        "from": "59",
+        "to": "67",
+        "raw_text": "It gives me the power and speed that I need to run all the programs I use to edit."
+    },
+    {
+        "id": "469",
+        "sent": "I gave it to my daughter because I just hated the $T$, hated that it had no cd drive to at least play cd's when I wanted to listen to music and do schoolwork.",
+        "term": "screen",
+        "label": -1,
+        "from": "50",
+        "to": "56",
+        "raw_text": "I gave it to my daughter because I just hated the screen, hated that it had no cd drive to at least play cd's when I wanted to listen to music and do schoolwork."
+    },
+    {
+        "id": "331",
+        "sent": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a $T$ of just over 5 hours.",
+        "term": "battery life",
+        "label": 1,
+        "from": "180",
+        "to": "192",
+        "raw_text": "It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours."
+    },
+    {
+        "id": "1365",
+        "sent": "Purchased a Toshiba Lap top it worked good until just after the $T$ went out.",
+        "term": "warrenty",
+        "label": -1,
+        "from": "64",
+        "to": "72",
+        "raw_text": "Purchased a Toshiba Lap top it worked good until just after the warrenty went out."
+    },
+    {
+        "id": "1595",
+        "sent": "Its pretty fast and does not have hiccups while I am using it for web browsing, $T$, watching movies (720p) on occasion and creating presentations.",
+        "term": "uploading photos",
+        "label": 1,
+        "from": "80",
+        "to": "96",
+        "raw_text": "Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations."
+    },
+    {
+        "id": "667",
+        "sent": "The $T$ is really long.",
+        "term": "battery",
+        "label": 1,
+        "from": "4",
+        "to": "11",
+        "raw_text": "The battery is really long."
+    },
+    {
+        "id": "2938",
+        "sent": "I wish the volume could be louder and the $T$ didnt break after only a month.",
+        "term": "mouse",
+        "label": -1,
+        "from": "42",
+        "to": "47",
+        "raw_text": "I wish the volume could be louder and the mouse didnt break after only a month."
+    },
+    {
+        "id": "687",
+        "sent": "Good $T$, long battery life, largest hard drive and windows 7.",
+        "term": "keyboard",
+        "label": 1,
+        "from": "5",
+        "to": "13",
+        "raw_text": "Good keyboard, long battery life, largest hard drive and windows 7."
+    }
+]
