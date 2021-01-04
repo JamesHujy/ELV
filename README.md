@@ -2,7 +2,7 @@
 
 ### Usage
 
-Afficial source code for [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
+Official source code for [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
 
 Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) is source code for Relation Extraction task and Sentimental Analysis task in supervised setting(Use all classification labels). There are some tiny difference in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) are codes in semi-supervised setting(Use part of classificatioin labels). 
 
@@ -21,11 +21,11 @@ We implement Bert classifier based on [Huggingface transformers](https://github.
 ### Citation 
 
 ```
-@inproceedings{jiang2019language,
-  title={Language as an abstraction for hierarchical deep reinforcement learning},
-  author={Jiang, Yiding and Gu, Shixiang Shane and Murphy, Kevin P and Finn, Chelsea},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2019}
+@article{zhou2020towards,
+  title={Towards Interpretable Natural Language Understanding with Explanations as Latent Variables},
+  author={Zhou, Wangchunshu and Hu, Jinyi and Zhang, Hanlin and Liang, Xiaodan and Sun, Maosong and Xiong, Chenyan and Tang, Jian},
+  journal={arXiv preprint arXiv:2011.05268},
+  year={2020}
 }
 ```
 
