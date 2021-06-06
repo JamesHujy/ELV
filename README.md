@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Usage
 
-Official implementation for [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
+This repo contains the official code release for NeurIPS 2020 paper [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
 
 Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) contain source code for Relation Extraction task and Sentimental Analysis task in supervised setting (using all the labels for classification). There are some tiny differences in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) contain codes in semi-supervised setting(Use part of classificatioin labels). 
 
@@ -21,7 +21,7 @@ bash train_semeval.sh
 We implement Bert classifier based on [Huggingface transformers](https://github.com/huggingface/transformers) and Unilm generator based on [Microsoft Unilm](https://github.com/microsoft/unilm). 
 
 ### Citation 
-
+If you find this repo useful, please cite: 
 ```
 @article{zhou2020towards,
   title={Towards Interpretable Natural Language Understanding with Explanations as Latent Variables},
