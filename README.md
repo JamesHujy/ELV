@@ -1,12 +1,14 @@
-# ELV
+# Towards Interpretable Natural Language Understanding with Explanations as Latent Variables
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Usage
 
-Official source code for [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
+Official implementation for [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
 
-Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) is source code for Relation Extraction task and Sentimental Analysis task in supervised setting(Use all classification labels). There are some tiny difference in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) are codes in semi-supervised setting(Use part of classificatioin labels). 
+Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) contain source code for Relation Extraction task and Sentimental Analysis task in supervised setting (using all the labels for classification). There are some tiny differences in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) contain codes in semi-supervised setting(Use part of classificatioin labels). 
 
-Directory [data](https://github.com/JamesHujy/ELV/tree/main/data) is data used in our experiment. TACRED is not released because of its copyright. It can be bought and downloaded at [LDC TACRED webpage](https://catalog.ldc.upenn.edu/LDC2018T24). 
+Directory [data](https://github.com/JamesHujy/ELV/tree/main/data) contain data used in our experiments. TACRED is not released because of its copyright, which can be downloaded at [LDC TACRED webpage](https://catalog.ldc.upenn.edu/LDC2018T24). 
 
 To replicate the result of experiment, run the bash script in each directory. For example, to replicate the ELV result on Semeval dataset, just use
 
@@ -28,8 +30,3 @@ We implement Bert classifier based on [Huggingface transformers](https://github.
   year={2020}
 }
 ```
-
-
-
-
-
