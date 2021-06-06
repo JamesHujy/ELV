@@ -6,7 +6,7 @@
 
 This repo contains the official code release for NeurIPS 2020 paper [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](https://arxiv.org/pdf/2011.05268.pdf).
 
-Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) contain source code for Relation Extraction task and Sentimental Analysis task in supervised setting (using all the labels for classification). There are some tiny differences in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) contain codes in semi-supervised setting(Use part of classificatioin labels). 
+Directory [ELV_re](https://github.com/JamesHujy/ELV/tree/main/ELV_re) and [ELV_sa](https://github.com/JamesHujy/ELV/tree/main/ELV_sa) contain source code for Relation Extraction task and Sentimental Analysis task in supervised setting. There are some tiny differences in training details and pre-processing. Directory [EST_re](https://github.com/JamesHujy/ELV/tree/main/EST_re) and [EST_sa](https://github.com/JamesHujy/ELV/tree/main/EST_sa) contain codes in semi-supervised setting. 
 
 Directory [data](https://github.com/JamesHujy/ELV/tree/main/data) contain data used in our experiments. TACRED is not released because of its copyright, which can be downloaded at [LDC TACRED webpage](https://catalog.ldc.upenn.edu/LDC2018T24). 
 
