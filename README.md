@@ -23,10 +23,10 @@ We implement Bert classifier based on [Huggingface transformers](https://github.
 ### Citation 
 If you find this repo useful, please cite: 
 ```
-@article{zhou2020towards,
+@inproceedings{zhou2020towards,
   title={Towards Interpretable Natural Language Understanding with Explanations as Latent Variables},
   author={Zhou, Wangchunshu and Hu, Jinyi and Zhang, Hanlin and Liang, Xiaodan and Sun, Maosong and Xiong, Chenyan and Tang, Jian},
-  journal={arXiv preprint arXiv:2011.05268},
+  booktitle={NeurIPS},
   year={2020}
 }
 ```
